@@ -1,0 +1,8 @@
+# private: inbox-derived material and working files
+facts/email-*.json
+facts/_all_lanes.json
+facts/FACTS.md
+brief/
+qa/
+anchors/s1.htm
+.DS_Store

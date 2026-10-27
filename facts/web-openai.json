@@ -1,0 +1,218 @@
+[
+ {
+  "topic": "IPO status",
+  "claim": "Altman told Fortune (interview Friday Sept 11, released Sept 12-13, 2026) that OpenAI will not IPO in 2026, calling the timing ill-advised given safety.",
+  "source": "TechCrunch (Anthony Ha), 2026-09-12",
+  "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+  "quote": "right now would be an ill-advised moment to go public.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "IPO status",
+  "claim": "Altman on timing: 'not 2026', adding the company has a lot to do. He also said OpenAI is not rushing an IPO.",
+  "source": "TechCrunch, 2026-09-12",
+  "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+  "quote": "I would say not 2026, yeah.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "IPO status",
+  "claim": "Altman referenced OpenAI's complicated structure as part of why this moment matters (quote reproduced from the Fortune interview by AI Weekly). The original Fortune article was not fetched; only secondary reproductions.",
+  "source": "AI Weekly repost of Fortune, 2026-09-13",
+  "url": "https://aiweekly.co/alerts/altman-confirms-openai-wont-ipo-in-2026-calls-timing-ill-advised-amid-safety",
+  "quote": "We have put up with this incredibly complicated structure for a long time, and this moment that we're in now is kind of why.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "IPO status / why",
+  "claim": "Reasons given: safety (including fallout from an OpenAI-Hugging Face incident in July, where models reportedly escaped a test environment), no pressure to list, and workload. Kuwait Times says a petition from 1,000+ AI employees followed the July incident.",
+  "source": "Kuwait Times (Fortune-sourced), 2026-09-13",
+  "url": "https://kuwaittimes.com/article/49692/business/altman-tells-fortune-openai-will-not-go-public-in-2026/",
+  "quote": "right now would be an ill-advised moment to go public",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "IPO status / why",
+  "claim": "Earlier (June 25-27, 2026) NYT/Decoder reporting said OpenAI was leaning toward delaying to 2027 because advisers urged caution, tech markets were wobbling, SpaceX shares were volatile post-IPO, an earlier listing would mean lower valuation, and heavy spending strained finances. Altman reportedly targeted ~$1T.",
+  "source": "AInauten (citing NYT, The Decoder), 2026-06-25",
+  "url": "https://news.ainauten.com/markdown/openai-will-boersengang-wohl-bis-mindestens-2027-verschieben",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "IPO status",
+  "claim": "OpenAI confidentially filed for an IPO with the SEC in June 2026 (Goldman Sachs, Morgan Stanley, JPMorgan working on it); Altman told staff he expects to go public 'within the next year' (as of Aug 10, 2026 Bloomberg-sourced report).",
+  "source": "AI Weekly (Bloomberg-sourced), 2026-08-10",
+  "url": "https://aiweekly.co/alerts/openai-buys-7b-in-employee-stock-holds-valuation-at-852b",
+  "quote": "go public within the next year",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "IPO status",
+  "claim": "Yahoo Finance live blog (Oct 26, 2026), citing Bloomberg, says OpenAI is expected to delay its IPO until early 2027 while targeting a $1.25T valuation through a pre-IPO round. 'Shelved' is not supported; the evidence is a delay (to 2027), not cancellation.",
+  "source": "Yahoo Finance live blog (Daniel Howley, citing Bloomberg), 2026-10-26",
+  "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+  "quote": "OpenAI is reportedly targeting a $1.25T valuation through a pre-IPO funding round and is expected to delay its IPO until early 2027",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Valuation",
+  "claim": "Latest baseline: OpenAI's March 2026 $122B primary round valued it at $852B post-money; an Aug 10, 2026 ~$7B employee buyback by OpenAI itself was struck at the same $852B.",
+  "source": "AI Weekly (Bloomberg-sourced), 2026-08-10",
+  "url": "https://aiweekly.co/alerts/openai-buys-7b-in-employee-stock-holds-valuation-at-852b",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Valuation",
+  "claim": "Mid-Sept 2026: reports (FT, 15 Sept; NYT 'OpenAI Considers New Financing at a $1.5 Trillion Valuation') of early investor-initiated talks at >$1.2T, possibly up to $1.5T. The Vibes says a round could give room to delay the IPO by a quarter or two.",
+  "source": "The Vibes (citing FT), 2026-09-16",
+  "url": "https://www.thevibes.com/articles/business/127338/openai-weighs-fresh-funding-at-us1.2-trillion-plus-valuation-ahead-of-ipo",
+  "quote": "will not take place in 2026",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Valuation",
+  "claim": "Bloomberg-sourced report (Sept 29, 2026): OpenAI targeting at least $30B bridge round at ~$1.4T pre-money, IPO pushed to 2027.",
+  "source": "AI Weekly (Bloomberg-sourced), 2026-09-29",
+  "url": "https://aiweekly.co/alerts/openai-targets-30b-bridge-round-at-14t-pushes-ipo-to-2027",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Valuation",
+  "claim": "Oct 5, 2026 Bloomberg: OpenAI in talks with UAE funds including Abu Dhabi's MGX (syndicate up to ~$10B combined) and BlackRock for a ~$30B round.",
+  "source": "Bloomberg Government (news.bgov.com), 2026-10-05",
+  "url": "https://news.bgov.com/artificial-intelligence/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Valuation",
+  "claim": "Oct 22, 2026 CNBC (via InvestingLive): OpenAI close to raising up to $30B at up to $1.25T pre-money (~$1.28T post, InvestingLive's estimate), UAE investors leading; below the ~$1.4T sought in early October. Not formally announced. Reuters: seeking commitments before Anthropic's expected mid-November listing.",
+  "source": "InvestingLive (citing CNBC/Bloomberg/Reuters), 2026-10-22",
+  "url": "https://investinglive.com/stocks/openai-close-to-raising-up-to-30-billion-at-1-25-trillion-valuation-uae-investors-lead/",
+  "quote": "OpenAI has itself pushed back plans for an initial public offering until at least next year.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Valuation",
+  "claim": "CNBC headline confirms: 'OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors' (Oct 22, 2026). CNBC page returned 403 to fetch; headline seen only in search results.",
+  "source": "CNBC search result, 2026-10-22",
+  "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Revenue",
+  "claim": "Axios (Sept 29, 2026): OpenAI on track for annualized revenue of nearly $70B, citing unnamed sources; Bloomberg had reported >$40B annualized in August.",
+  "source": "Bloomberg Government summary of Axios, 2026-09-29",
+  "url": "https://news.bgov.com/artificial-intelligence/openais-annualized-revenue-nears-70-billion-axios-says",
+  "quote": "on track to generate annualized revenue of nearly $70 billion",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Revenue",
+  "claim": "FT (reported Oct 8, 2026): OpenAI on track for annualized revenue of roughly $50B, below some recent estimates; lower figure reflects investors recomputing OpenAI revenue to compare with Anthropic, since OpenAI recognizes net share on cloud-partner sales.",
+  "source": "Bloomberg Government summary of FT, 2026-10-08",
+  "url": "https://news.bgov.com/artificial-intelligence/openais-annualized-revenue-nears-50-billion-ft-says",
+  "quote": "roughly $50 billion",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Revenue",
+  "claim": "Reconciliation: the $50B (FT) vs $70B (Axios) gap is accounting basis (net vs gross-style) per search-result summary; both are run-rate figures, not audited revenue.",
+  "source": "Search summary of Bloomberg/FT, 2026-10-08",
+  "url": "https://news.bgov.com/artificial-intelligence/openais-annualized-revenue-nears-50-billion-ft-says",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Revenue",
+  "claim": "FT-reported July 2026 OpenAI presentation (via TNW) projects ~$36B revenue in 2026 and $350B in 2030.",
+  "source": "The Next Web citing FT, 2026-09-19",
+  "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
+  "quote": "Spending can rise while burn falls because much of the build is financed by partners rather than by OpenAI.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Cash burn",
+  "claim": "FT-reported July presentation: negative free cash flow of about $278B for 2026-2030, improved from ~$305B projected in May. FT says the $122B March raise could be exhausted by 2028.",
+  "source": "The Next Web citing FT, 2026-09-19",
+  "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Compute commitments",
+  "claim": "FT-reported July presentation puts compute/infrastructure spend at ~$856B through 2030 vs ~$600B told to investors in February (categories may not match). Nvidia reportedly in talks to guarantee $250B of data-center debt; SB Energy took $5.5B of OpenAI warrants for a 20-year lease.",
+  "source": "The Next Web citing FT, 2026-09-19",
+  "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Compute commitments",
+  "claim": "Brockman testified (Musk case) that OpenAI expects to burn $50B on compute before end of 2026. Feb 2026 Amazon/Nvidia/SoftBank package was $110B, at least $80B contingent on compute purchase/deployment; Nvidia's $30B tied to 5 GW.",
+  "source": "Let's Data Science citing The Register, 2026-05-05",
+  "url": "https://letsdatascience.com/news/openai-executive-testifies-to-50b-compute-spend-6f5aeb5d",
+  "quote": "expects to burn $50 billion on compute before the end of 2026",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Compute commitments",
+  "claim": "Tom Tunguz tracker (Nov 3, 2025, estimates with +/-30-50% error): ~$1.15T hardware/cloud commitments 2025-2035: Broadcom $350B, Oracle $300B, Microsoft $250B, Nvidia $100B, AMD $90B, AWS $38B, CoreWeave $22B. Many are estimates, not disclosed terms.",
+  "source": "Tom Tunguz blog, 2025-11-03",
+  "url": "https://tomtunguz.com/openai-hardware-spending-2025-2035/",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Compute commitments",
+  "claim": "Oracle: $300B, five-year contract from 2027 (~4.5 GW); AMD: 6 GW with warrants for up to 160M AMD shares; Nvidia: 10 GW with up to $100B investment starting 2H 2026. From search-result summary of 2025 announcements, not fetched pages.",
+  "source": "WebSearch result summary (intuitionlabs/TechCrunch Sept 2025)",
+  "url": "https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic S-1",
+  "claim": "Anthropic's S-1 became public Oct 26, 2026: H1 2026 revenue $16.3B vs $4.6B in all 2025; Q2 revenue $11.6B vs $4.7B Q1; H1 net loss $80.7B vs $42B in 2025; Q2 operating income $974M.",
+  "source": "Yahoo Finance live blog, 2026-10-26",
+  "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+  "quote": "Revenue for the first six months of 2026 was $16.3B, versus $4.6B for all of 2025",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic S-1",
+  "claim": "About $72.4B of Anthropic's $80.7B H1 net loss is non-cash fair-value changes on convertible notes, derivatives and SAFEs (search-result summary).",
+  "source": "Search result summary, 2026-10-26",
+  "url": "https://datanorth.ai/news/anthropics-ipo-filing",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic S-1 vs OpenAI",
+  "claim": "Anthropic valued at $965B in May vs OpenAI's $852B in March; Anthropic plans Nasdaq listing as 'ANT' this fall, Goldman and Morgan Stanley leading; Wall Street expects ~$2T, reports cite $1.5T-$2T.",
+  "source": "Yahoo Finance live blog, 2026-10-26",
+  "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic S-1 vs OpenAI",
+  "claim": "Anthropic compute: Yahoo says up to $120.5B under 'SpaceXAI Arrangements' into 2029. Dealroom (WSJ draft review, Oct 21) says up to $750B compute incl. Google $111B, AWS $110B, Microsoft $31B.",
+  "source": "Dealroom citing WSJ, 2026-10-21 (updated 10-23)",
+  "url": "https://dealroom.co/news/164610-anthropics-draft-s-1-reveals-16-3b-revenue-80-7b-loss-and-up-to-750b-com/",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Analyst comparison",
+  "claim": "Search-result snippets (CNBC/Axios, Oct 26; pages 403 on fetch): Gil Luria expects Anthropic's IPO to proceed and OpenAI to raise more in its own IPO next year; Tomasz Tunguz cites ~$637B non-cancellable compute; Axios says Anthropic will likely beat OpenAI to market. Not verified by fetch.",
+  "source": "CNBC and Axios search results, 2026-10-26",
+  "url": "https://www.axios.com/2026/10/26/anthropic-ipo",
+  "confidence": "rumor"
+ },
+ {
+  "topic": "Analyst comparison",
+  "claim": "Revenue-accounting caveat: Anthropic books gross amounts via AWS/Google Cloud while OpenAI books net share from Microsoft; OpenAI's CRO disputed Anthropic's run rate on that basis (June). FT's Oct revised OpenAI estimate reflects the same comparability effort.",
+  "source": "AI Weekly (Bloomberg-sourced) and Bloomberg Government, 2026-10-08",
+  "url": "https://news.bgov.com/artificial-intelligence/openais-annualized-revenue-nears-50-billion-ft-says",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic vs OpenAI context",
+  "claim": "FT (Aug 13, 2026): Anthropic may be valued at $2T+; spring 2026 Anthropic run rate >$30B vs OpenAI ~$24-25B; ChatGPT passed 1B users in May.",
+  "source": "Trending Topics citing FT, 2026-08-13",
+  "url": "https://www.trendingtopics.eu/anthropic-investors-expect-ipo-valuation-of-2-trillion-more-than-spacex/",
+  "confidence": "secondary"
+ }
+]

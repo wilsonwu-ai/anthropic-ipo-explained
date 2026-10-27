@@ -1,0 +1,763 @@
+[
+ {
+  "claim": "Revenue by period ($M): 2023 $41, 2024 $386, 2025 $4,585, 6M ended Jun 30 2025 $1,163, 6M ended Jun 30 2026 $16,286 (this quote is the 6M26 cell)",
+  "source": "S-1 L7570",
+  "topic": "revenue",
+  "confidence": "primary",
+  "number": "16,286",
+  "quote": "$ 16,286"
+ },
+ {
+  "claim": "2025 annual revenue $4,585M (table cell)",
+  "source": "S-1 L7568",
+  "topic": "revenue",
+  "confidence": "primary",
+  "number": "4,585",
+  "quote": "$ 4,585"
+ },
+ {
+  "claim": "H1 2026 revenue $16.3B vs $1.2B in H1 2025",
+  "source": "S-1 L7049",
+  "topic": "revenue",
+  "confidence": "primary",
+  "number": "16.3B",
+  "quote": "Our revenue was $16.3 billion for the six months ended June 30, 2026, up from $1.2 billion for the six months"
+ },
+ {
+  "claim": "H1 2026 revenue growth +$15.1B (+1,300%) vs H1 2025",
+  "source": "S-1 L7794",
+  "topic": "revenue",
+  "confidence": "primary",
+  "number": "1,300%",
+  "quote": "Revenue for the six months ended June 30, 2026 increased by $15.1 billion , or 1,300% , compared to the six"
+ },
+ {
+  "claim": "FY2025 revenue growth +$4.2B (+1,088%) vs FY2024",
+  "source": "S-1 L7965",
+  "topic": "revenue",
+  "confidence": "primary",
+  "number": "1,088%",
+  "quote": "Revenue for the year ended December 31, 2025 increased by $4.2 billion, or 1,088% , compared to the year"
+ },
+ {
+  "claim": "FY2024 revenue growth +$345M (+841%) vs FY2023",
+  "source": "S-1 L8159",
+  "topic": "revenue",
+  "confidence": "primary",
+  "number": "841%",
+  "quote": "Revenue for the year ended December 31, 2024 increased by $345 million, or 841% , compared to the year"
+ },
+ {
+  "claim": "Quarterly revenue rose sequentially from $376M (Q1 2025) to $11.6B (Q2 2026); Q1 2026 was $4,731M, Q2 2026 $11,555M",
+  "source": "S-1 L8758",
+  "topic": "revenue",
+  "confidence": "primary",
+  "number": "$376M to $11.6B",
+  "quote": "Revenue increased sequentially in each of the quarters presented, from $376 million for the three months"
+ },
+ {
+  "claim": "Revenue type: consumption-based was $288M (75%) in 2024, $3.8B (83%) in 2025, $13.1B (80%) in H1 2026",
+  "source": "S-1 L7127",
+  "topic": "revenue by type",
+  "confidence": "primary",
+  "number": "75% / 83% / 80%",
+  "quote": "Consumption-based revenue increased from $288 million, or 75% of total revenue, for the year ended"
+ },
+ {
+  "claim": "Subscription-based revenue was $98M (25%), $789M (17%), $3.2B (20%) over the same periods",
+  "source": "S-1 L7130",
+  "topic": "revenue by type",
+  "confidence": "primary",
+  "number": "25% / 17% / 20%",
+  "quote": "from $98 million, or 25% of total revenue, to $789 million, or 17% of total revenue, to $3.2 billion , or 20% of"
+ },
+ {
+  "claim": "Note 2 disaggregation: consumption-based revenue H1 2026 $13,064M",
+  "source": "S-1 L19474",
+  "topic": "revenue by type",
+  "confidence": "primary",
+  "number": "13,064",
+  "quote": "$ 13,064"
+ },
+ {
+  "claim": "Note 2 disaggregation: consumption-based revenue FY2025 $3,796M (FY2023 $39M, FY2024 $288M, H1 2025 $983M)",
+  "source": "S-1 L19472",
+  "topic": "revenue by type",
+  "confidence": "primary",
+  "number": "3,796",
+  "quote": "$ 3,796"
+ },
+ {
+  "claim": "Note 2 disaggregation: subscription-based revenue H1 2026 $3,222M (FY2025 $789M, H1 2025 $180M)",
+  "source": "S-1 L19480",
+  "topic": "revenue by type",
+  "confidence": "primary",
+  "number": "3,222",
+  "quote": "3,222"
+ },
+ {
+  "claim": "2023 revenue was substantially all consumption-based; company expects consumption to remain the substantial majority",
+  "source": "S-1 L7133",
+  "topic": "revenue by type",
+  "confidence": "primary",
+  "quote": "substantially all consumption-based, reflecting our early operations. We expect consumption-based revenue to"
+ },
+ {
+  "claim": "Increase in H1 2026 revenue: consumption-based +$12.1B, subscription-based +$3.0B",
+  "source": "S-1 L7795",
+  "topic": "revenue by type",
+  "confidence": "primary",
+  "number": "$12.1B / $3.0B",
+  "quote": "months ended June 30, 2025 . Consumption-based and subscription-based revenue increased by $12.1 billion"
+ },
+ {
+  "claim": "Revenue by geography is by customer billing address; US revenue H1 2026 $11,763M",
+  "source": "S-1 L19447",
+  "topic": "revenue by geography",
+  "confidence": "primary",
+  "number": "11,763",
+  "quote": "$ 11,763"
+ },
+ {
+  "claim": "Geography basis: billing address of the customer",
+  "source": "S-1 L19432",
+  "topic": "revenue by geography",
+  "confidence": "primary",
+  "quote": "The following table presents revenue by geographical region, determined by the billing address of the customer"
+ },
+ {
+  "claim": "International revenue H1 2026 $4,523M (FY2025 $1,223M, FY2024 $123M, FY2023 $7M, H1 2025 $343M); US FY2025 $3,362M, FY2024 $263M, FY2023 $34M, H1 2025 $820M",
+  "source": "S-1 L19453",
+  "topic": "revenue by geography",
+  "confidence": "primary",
+  "number": "4,523",
+  "quote": "4,523"
+ },
+ {
+  "claim": "US FY2025 revenue $3,362M (table cell)",
+  "source": "S-1 L19445",
+  "topic": "revenue by geography",
+  "confidence": "primary",
+  "number": "3,362",
+  "quote": "$ 3,362"
+ },
+ {
+  "claim": "Revenue via CSP marketplaces (cloud marketplaces) was ~11% (2023), 32% (2024), 47% (2025)",
+  "source": "S-1 L18905",
+  "topic": "revenue by channel",
+  "confidence": "primary",
+  "number": "11% / 32% / 47%",
+  "quote": "2025, revenue generated from sales through CSP marketplaces to customers represented approximately 11% ,"
+ },
+ {
+  "claim": "CSP marketplace share of revenue H1 2025 44%, H1 2026 48%",
+  "source": "S-1 L18907",
+  "topic": "revenue by channel",
+  "confidence": "primary",
+  "number": "44% / 48%",
+  "quote": "revenue generated from sales through CSP marketplaces to customers represented approximately 44% and 48%"
+ },
+ {
+  "claim": "Enterprise customers buy direct or through CSP marketplaces with direct contractual relationships; pay-for-intelligence and/or subscription pricing",
+  "source": "S-1 L7424",
+  "topic": "revenue by channel",
+  "confidence": "primary",
+  "quote": "access our intelligence service directly from us or through CSP marketplaces, where we maintain direct"
+ },
+ {
+  "claim": "Customers with $100K+ TTM revenue were 74% of H1 2026 revenue ($12.0B vs $870M in H1 2025)",
+  "source": "S-1 L7800",
+  "topic": "revenue concentration",
+  "confidence": "primary",
+  "number": "$12.0B",
+  "quote": "Total revenue from these customers grew from $870 million for the six months ended June 30, 2025 to $12.0"
+ },
+ {
+  "claim": "Net Revenue Retention approximately 900% as of Sep 30 2026",
+  "source": "S-1 L6996",
+  "topic": "KPIs",
+  "confidence": "primary",
+  "number": "900%",
+  "quote": "Revenue Retention of approximately 900% as of September 30, 2026."
+ },
+ {
+  "claim": "TTM revenue per employee rose from $1.4M to over $6.6M (TTM revenue +~1,200%, headcount +~170%)",
+  "source": "S-1 L7043",
+  "topic": "KPIs",
+  "confidence": "primary",
+  "number": "$6.6M",
+  "quote": "headcount increased approximately 170 % , driving TTM revenue per employee from $1.4 million to over $6.6"
+ },
+ {
+  "claim": "Estimated 5% to 7% of revenue in the nine months ended Sep 30 2026 came from customers later found violating usage policy or commercial terms",
+  "source": "S-1 L7448",
+  "topic": "revenue quality",
+  "confidence": "primary",
+  "number": "5% to 7%",
+  "quote": "revenue from such customers represented approximately 5% to 7% of our revenue for the nine months ended"
+ },
+ {
+  "claim": "Compute and infrastructure expense ($M): 2023 433, 2024 2,522, 2025 7,326, H1 2025 2,334, H1 2026 8,945 (cell shown is H1 2026)",
+  "source": "S-1 L7815",
+  "topic": "compute cost",
+  "confidence": "primary",
+  "number": "8,945",
+  "quote": "$ 8,945"
+ },
+ {
+  "claim": "Compute and infrastructure H1 2026 up $6.6B (+283%), driven by delivery of committed compute under CSP arrangements",
+  "source": "S-1 L7821",
+  "topic": "compute cost",
+  "confidence": "primary",
+  "number": "283%",
+  "quote": "Compute and infrastructure expenses for the six months ended June 30, 2026 increased by $6.6 billion , or"
+ },
+ {
+  "claim": "Compute as % of revenue fell from 251% (Q1 2025) to 48% (Q2 2026)",
+  "source": "S-1 L8774",
+  "topic": "compute cost",
+  "confidence": "primary",
+  "number": "251% to 48%",
+  "quote": "Compute and infrastructure expenses as a percentage of revenue decreased from 251% to 48% over the same"
+ },
+ {
+  "claim": "Q2 2026 revenue grew 1,368% YoY vs compute and infrastructure expense growth of 300%",
+  "source": "S-1 L7032",
+  "topic": "compute cost",
+  "confidence": "primary",
+  "number": "1,368% vs 300%",
+  "quote": "three months ended June 30, 2026, compared to our compute and infrastructure expenses that grew 300%"
+ },
+ {
+  "claim": "Compute is the most significant operating cost; majority procured under multi-year commitments 12 to 18 months ahead; short-term compute costs more per unit",
+  "source": "S-1 L7002",
+  "topic": "compute cost",
+  "confidence": "primary",
+  "quote": "Compute is the most significant operating cost in our business, and compute efficiency is a critical determinant"
+ },
+ {
+  "claim": "Majority of compute contracted multi-year, procured 12 to 18 months in advance",
+  "source": "S-1 L6963",
+  "topic": "compute cost",
+  "confidence": "primary",
+  "quote": "12 to 18 months in advance of availability. When customer demand or research needs exceed this long-term"
+ },
+ {
+  "claim": "Cost of revenue ($M) by function: 2023 26, 2024 752, 2025 2,773, H1 2025 1,019, H1 2026 2,380 (cell shown is H1 2026); S-1 gives no gross profit line",
+  "source": "S-1 L20777",
+  "topic": "cost of revenue",
+  "confidence": "primary",
+  "number": "2,380",
+  "quote": "$ 2,380"
+ },
+ {
+  "claim": "FY2025 cost of revenue $2,773M",
+  "source": "S-1 L20775",
+  "topic": "cost of revenue",
+  "confidence": "primary",
+  "number": "2,773",
+  "quote": "$ 2,773"
+ },
+ {
+  "claim": "Cost of revenue is substantially all compute and infrastructure for customer-serving workloads",
+  "source": "S-1 L20809",
+  "topic": "cost of revenue",
+  "confidence": "primary",
+  "quote": "Substantially all of cost of revenue consists of compute and infrastructure costs associated with customer-serving"
+ },
+ {
+  "claim": "Research and development expense H1 2026 $9,741M (FY2025 $6,338M, FY2024 $2,275M, FY2023 $422M, H1 2025 $1,850M)",
+  "source": "S-1 L20782",
+  "topic": "R&D and training compute",
+  "confidence": "primary",
+  "number": "9,741",
+  "quote": "9,741"
+ },
+ {
+  "claim": "FY2025 R&D $6,338M",
+  "source": "S-1 L20781",
+  "topic": "R&D and training compute",
+  "confidence": "primary",
+  "number": "6,338",
+  "quote": "6,338"
+ },
+ {
+  "claim": "R&D consists primarily of compute and infrastructure for model development, research and internal usage",
+  "source": "S-1 L20811",
+  "topic": "R&D and training compute",
+  "confidence": "primary",
+  "quote": "Research and development expenses primarily consist of compute and infrastructure costs associated with model development,"
+ },
+ {
+  "claim": "Operating loss: 2023 $(551)M, 2024 $(2,980)M, 2025 $(8,060)M, H1 2025 $(2,135)M, H1 2026 $(693)M",
+  "source": "S-1 L7613",
+  "topic": "operating loss",
+  "confidence": "primary",
+  "number": "(8,060)",
+  "quote": "(8,060)"
+ },
+ {
+  "claim": "H1 2026 operating loss $693M, down from $2.1B in H1 2025",
+  "source": "S-1 L7050",
+  "topic": "operating loss",
+  "confidence": "primary",
+  "number": "693M",
+  "quote": "Our operating loss was $693 million for the six months ended June 30, 2026 , down from"
+ },
+ {
+  "claim": "Operating income of $1.0B in Q2 2026 (Q2 2026 operating income $974M; Q1 2026 loss $(1,667)M)",
+  "source": "S-1 L8799",
+  "topic": "operating loss",
+  "confidence": "primary",
+  "number": "$1.0B",
+  "quote": "and we generated operating income of $1.0 billion for the three months ended June 30, 2026 , as revenue"
+ },
+ {
+  "claim": "Total operating expenses H1 2026 $16,979M vs revenue $16,286M (FY2025 $12,645M)",
+  "source": "S-1 L7609",
+  "topic": "operating loss",
+  "confidence": "primary",
+  "number": "16,979",
+  "quote": "16,979"
+ },
+ {
+  "claim": "Adjusted Operating Income H1 2026 $1,618M vs Adjusted Operating Loss $(1,849)M H1 2025; FY2025 $(4,854)M",
+  "source": "S-1 L8383",
+  "topic": "operating loss",
+  "confidence": "primary",
+  "number": "1,618",
+  "quote": "$ 1,618"
+ },
+ {
+  "claim": "Net loss: 2023 $(1,531)M, 2024 $(8,309)M, 2025 $(41,965)M, H1 2025 $(12,969)M, H1 2026 $(80,748)M",
+  "source": "S-1 L7661",
+  "topic": "net loss",
+  "confidence": "primary",
+  "number": "(80,748)",
+  "quote": "$ (80,748)"
+ },
+ {
+  "claim": "FY2025 net loss $(41,965)M",
+  "source": "S-1 L7659",
+  "topic": "net loss",
+  "confidence": "primary",
+  "number": "(41,965)",
+  "quote": "$ (41,965)"
+ },
+ {
+  "claim": "Net loss per share H1 2026 $(39.88) on weighted-average 2,024,973 thousand shares (pre 10-for-1 split)",
+  "source": "S-1 L17732",
+  "topic": "net loss",
+  "confidence": "primary",
+  "number": "(39.88)",
+  "quote": "$ (39.88)"
+ },
+ {
+  "claim": "Change in fair value of convertible notes, derivative liabilities and SAFEs: $(34,308)M FY2025, $(72,388)M H1 2026 (cell shown is FY2025)",
+  "source": "S-1 L7627",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "(34,308)",
+  "quote": "(34,308)"
+ },
+ {
+  "claim": "H1 2026 fair-value charge $(72,388)M, roughly 90% of the $(80,748)M net loss",
+  "source": "S-1 L7629",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "(72,388)",
+  "quote": "(72,388)"
+ },
+ {
+  "claim": "Notes are marked to market so higher enterprise valuation drives this expense (non-cash)",
+  "source": "S-1 L7537",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "quote": "of each reporting period. Because these instruments are marked to market, increases in our enterprise"
+ },
+ {
+  "claim": "Fair value charges primarily driven by increase in enterprise valuation; Q2 2026 largest due to Series H financing",
+  "source": "S-1 L8811",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "quote": ""
+ },
+ {
+  "claim": "Other expense, net H1 2026 $(8,757)M, driven by fair value of assets and liabilities under note purchase agreements ($(8.4)B in Q2 2026)",
+  "source": "S-1 L8819",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "(8,757)",
+  "quote": "Other income (expense), net of $(309) million and $(8.4) billion for the three months ended March 31, 2026 and June 30,"
+ },
+ {
+  "claim": "Accumulated deficit $132.9B, of which $113.2B is fair value changes on convertible notes",
+  "source": "S-1 L8997",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "$132.9B",
+  "quote": "We have generated losses from our operations, as reflected in our accumulated deficit of $132.9 billion , which"
+ },
+ {
+  "claim": "Stock-based compensation $1.2B FY2025 and $2.2B H1 2026 (non-cash); SBC add-back 2,185 H1 2026",
+  "source": "S-1 L8365",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "2,185",
+  "quote": "2,185"
+ },
+ {
+  "claim": "Adjusted Net Income H1 2026 $2,671M after adding back SBC, charity, fair value changes ($72,388M) and mark-to-market instruments ($8,720M)",
+  "source": "S-1 L8466",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "2,671",
+  "quote": "$ 2,671"
+ },
+ {
+  "claim": "Bartz settlement $1.5B charge recorded in Q3 2025",
+  "source": "S-1 L8780",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "$1.5B",
+  "quote": "In the three months ended September 30, 2025, we recorded a $1.5 billion charge to settle the Bartz litigation."
+ },
+ {
+  "claim": "Donation matching expense $541M in 2025, about 4% of opex",
+  "source": "S-1 L7416",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "$541M",
+  "quote": "matching program were $541 million, representing approximately 4% of our total operating expenses."
+ },
+ {
+  "claim": "Interest income H1 2026 $1,111M (FY2025 $431M)",
+  "source": "S-1 L7621",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "1,111",
+  "quote": "1,111"
+ },
+ {
+  "claim": "Operating cash flow positive $3.9B in H1 2026 vs $(1.5)B used in H1 2025",
+  "source": "S-1 L9564",
+  "topic": "cash flow",
+  "confidence": "primary",
+  "number": "$3.9B",
+  "quote": "Cash provided by operating activities was $3.9 billion for the six months ended June 30, 2026 as compared to"
+ },
+ {
+  "claim": "Operating cash flow FY2023 $(1,627)M, FY2024 $(5,692)M, FY2025 $(2,637)M",
+  "source": "S-1 L9538",
+  "topic": "cash flow",
+  "confidence": "primary",
+  "number": "(2,637)",
+  "quote": "(2,637)"
+ },
+ {
+  "claim": "Capex (purchases of property and equipment): $(2)M 2023, $(15)M 2024, $(131)M 2025, $(482)M H1 2026 (cell shown is H1 2026)",
+  "source": "S-1 L18632",
+  "topic": "capex",
+  "confidence": "primary",
+  "number": "(482)",
+  "quote": "(482)"
+ },
+ {
+  "claim": "Purchases of short-term investments $(18,972)M in H1 2026 (vs $(3,082)M FY2025)",
+  "source": "S-1 L18638",
+  "topic": "cash flow",
+  "confidence": "primary",
+  "number": "(18,972)",
+  "quote": "(18,972)"
+ },
+ {
+  "claim": "Investing cash used $17.2B in H1 2026, mostly short-term investments plus servers/networking capex",
+  "source": "S-1 L9584",
+  "topic": "cash flow",
+  "confidence": "primary",
+  "number": "$17.2B",
+  "quote": "Cash used in investing activities was $17.2 billion for the six months ended June 30, 2026 as compared to cash"
+ },
+ {
+  "claim": "Financing inflow $110.8B in H1 2026 (vs $4.7B), primarily redeemable convertible preferred stock",
+  "source": "S-1 L9598",
+  "topic": "cash flow",
+  "confidence": "primary",
+  "number": "$110.8B",
+  "quote": "Cash provided by financing activities was $110.8 billion for the six months ended June 30, 2026 as compared to"
+ },
+ {
+  "claim": "Preferred stock proceeds net of issuance costs $110,432M in H1 2026 ($16,548M FY2025)",
+  "source": "S-1 L18666",
+  "topic": "cash flow",
+  "confidence": "primary",
+  "number": "110,432",
+  "quote": "110,432"
+ },
+ {
+  "claim": "Company expects capex to rise significantly and net cash used in operating and investing activities to be significant for the foreseeable future",
+  "source": "S-1 L9022",
+  "topic": "cash flow",
+  "confidence": "primary",
+  "quote": "We expect our capital expenditures to increase significantly as we expand our build-out,"
+ },
+ {
+  "claim": "Cash and cash equivalents $112.4B and short-term investments $19.3B at Jun 30 2026; $3.2B available under credit facility",
+  "source": "S-1 L8994",
+  "topic": "cash",
+  "confidence": "primary",
+  "number": "$19.3B",
+  "quote": "$19.3 billion of short-term investments, and $3.2 billion available under the Credit Facility, as described below."
+ },
+ {
+  "claim": "Balance sheet cash and cash equivalents: $3,141M (Dec 2024), $17,388M (Dec 2025), $112,389M (Jun 2026)",
+  "source": "S-1 L17467",
+  "topic": "cash",
+  "confidence": "primary",
+  "number": "112,389",
+  "quote": "$ 112,389"
+ },
+ {
+  "claim": "Short-term investments $2,889M (Dec 2025), $19,262M (Jun 2026)",
+  "source": "S-1 L17471",
+  "topic": "cash",
+  "confidence": "primary",
+  "number": "19,262",
+  "quote": "19,262"
+ },
+ {
+  "claim": "Convertible notes payable on balance sheet $108,566M at Jun 30 2026 (vs $41,677M Dec 2025)",
+  "source": "S-1 L17535",
+  "topic": "balance sheet",
+  "confidence": "primary",
+  "number": "108,566",
+  "quote": "108,566"
+ },
+ {
+  "claim": "Redeemable convertible preferred stock carrying value $157,510M at Jun 30 2026",
+  "source": "S-1 L17556",
+  "topic": "balance sheet",
+  "confidence": "primary",
+  "number": "157,510",
+  "quote": "157,510"
+ },
+ {
+  "claim": "Revolving credit facility amended Sep 2026 from $3.3B to $15.0B, maturity Sep 2031",
+  "source": "S-1 L22768",
+  "topic": "liquidity",
+  "confidence": "primary",
+  "number": "$15.0B",
+  "quote": "revolving commitments from $3.3 billion to $15.0 billion and extending the maturity to September"
+ },
+ {
+  "claim": "A&R Credit Agreement minimum liquidity covenant $5.0B quarterly from Q4 2026",
+  "source": "S-1 L9111",
+  "topic": "liquidity",
+  "confidence": "primary",
+  "number": "$5.0B",
+  "quote": "financial covenant requiring that we maintain l iquidity of at least $5.0 billion as of the last day of each fiscal"
+ },
+ {
+  "claim": "Non-cancelable purchase commitments totaled $54,559M as of Dec 31 2025 (2026 $7,059M; 2027 $11,128M)",
+  "source": "S-1 L22444",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "54,559",
+  "quote": "$ 54,559"
+ },
+ {
+  "claim": "Fixed or minimum guaranteed compute commitments approximately $265.6B as of Jun 30 2026, terms 1 to 20 years",
+  "source": "S-1 L22446",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$265.6B",
+  "quote": "$265.6 billion with terms ranging from one to 20 years ."
+ },
+ {
+  "claim": "Post-Dec 2025 new and amended lease and commercial agreements add about $417B of minimum payment obligations",
+  "source": "S-1 L22698",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$417B",
+  "quote": "aggregate future minimum payment obligations of approximately $417 billion. These primarily consist"
+ },
+ {
+  "claim": "Post-Jun 30 2026 new and amended agreements add about $245B of minimum payments, plus $21B of short-term commitments",
+  "source": "S-1 L22809",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$245B",
+  "quote": "aggregate future minimum payment obligations of approximately $245"
+ },
+ {
+  "claim": "Microsoft: committed to spend at least $44.9B between Nov 2026 and May 2033, regardless of usage",
+  "source": "S-1 L9670",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$44.9B",
+  "quote": "between November 2026 and May 2033, regardless of actual usage."
+ },
+ {
+  "claim": "Microsoft agreement of Nov 2025 commits at least $44.9B",
+  "source": "S-1 L9669",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$44.9B",
+  "quote": "In November 2025, we entered into an agreement with Microsoft, which was subsequently amended in"
+ },
+ {
+  "claim": "Google: committed to spend at least approximately $114.5B between Apr 2026 and Jul 2033",
+  "source": "S-1 L9675",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$114.5B",
+  "quote": "August 2026, and pursuant to which we committed to spend at least approximately $114.5 billion between April"
+ },
+ {
+  "claim": "Google additional TPU compute (2028-2031) estimated $125.0B to $150.0B, excluded from the table",
+  "source": "S-1 L9683",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$125.0B-$150.0B",
+  "quote": "billion to $150.0 billion, which are not included in the contractual commitments table above."
+ },
+ {
+  "claim": "Amazon: committed to spend at least $110.0B between May 2026 and Apr 2036",
+  "source": "S-1 L9687",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$110.0B",
+  "quote": "aggregate of at least $110.0 billion between May 2026 and April 2036, regardless of actual usage."
+ },
+ {
+  "claim": "SpaceXAI (NVIDIA GPUs): up to $120.5B into 2029, ~ $3.1B per month once capacity delivered (expected Dec 2026)",
+  "source": "S-1 L9694",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$120.5B",
+  "quote": "Under the SpaceXAI Arrangements, we agreed to spend an aggregate of up to $120.5 billion over terms extending into"
+ },
+ {
+  "claim": "SpaceXAI monthly spend rate",
+  "source": "S-1 L9695",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$3.1B/month",
+  "quote": "2029, consisting of approximately $3.1 billion in the aggregate per month once all capacity has been delivered,"
+ },
+ {
+  "claim": "Nscale (NVIDIA GPUs): up to approximately $44.6B over terms into 2033",
+  "source": "S-1 L9712",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$44.6B",
+  "quote": "up to approximately $44.6 billion over terms extending into 2033, with fees accruing only as capacity is"
+ },
+ {
+  "claim": "Lambda (NVIDIA GPUs): approximately $41.3B over terms into 2034",
+  "source": "S-1 L9721",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$41.3B",
+  "quote": "agreed to spend an aggregate of approximately $41.3 billion over terms extending into 2034, with fees accruing"
+ },
+ {
+  "claim": "AMD Helios: no fixed commitment, expected to exceed $20.0B if initial capacity procured; AMD to buy up to $5.0B of Class N stock",
+  "source": "S-1 L9703",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$20.0B",
+  "quote": "procure the full amount of this initial committed capacity, we expect aggregate expenditures to exceed $20.0"
+ },
+ {
+  "claim": "Broadcom five-year master equipment leases (TPU compute), finance leases, ~$161.2B rent excluding interest",
+  "source": "S-1 L9732",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "number": "$161.2B",
+  "quote": "$161.2 billion excluding interest,"
+ },
+ {
+  "claim": "Anthropic trains and serves Claude across four chip families (Trainium, TPUs, NVIDIA, AMD)",
+  "source": "S-1 L7020",
+  "topic": "compute commitments",
+  "confidence": "primary",
+  "quote": "\u2022 Multi-Chip Compute Approach . We train and serve Claude natively across four major chip"
+ },
+ {
+  "claim": "Remaining performance obligations $10.8B at Jun 30 2026; deferred revenue $1,650M",
+  "source": "S-1 L19513",
+  "topic": "revenue backlog",
+  "confidence": "primary",
+  "number": "$10.8B",
+  "quote": "remaining performance obligations amounted to $10.8 billion ."
+ },
+ {
+  "claim": "Use of proceeds: general corporate purposes including working capital, opex, capex and investments in compute and infrastructure, hiring and retention",
+  "source": "S-1 L6596",
+  "topic": "use of proceeds",
+  "confidence": "primary",
+  "quote": "We intend to use the net proceeds from this offering for general corporate purposes, including working capital,"
+ },
+ {
+  "claim": "Part of proceeds to satisfy tax withholding and remittance on RSU Settlement; net proceeds and amounts blank in this filing",
+  "source": "S-1 L6601",
+  "topic": "use of proceeds",
+  "confidence": "primary",
+  "quote": "We also intend to use a portion of the net proceeds we receive from this offering to satisfy our anticipated tax"
+ },
+ {
+  "claim": "Company receives no proceeds from selling stockholders",
+  "source": "S-1 L6581",
+  "topic": "use of proceeds",
+  "confidence": "primary",
+  "quote": "from us is exercised in full. We will not receive any proceeds from the sale of shares of Class A common stock by"
+ },
+ {
+  "claim": "Class A common stock outstanding 1,779,060K (Dec 2024), 1,901,267K (Dec 2025), 2,157,398K (Jun 30 2026), pre-split, in thousands",
+  "source": "S-1 L17572",
+  "topic": "share count",
+  "confidence": "primary",
+  "number": "2,157,398",
+  "quote": "respectively; 1,779,060, 1,901,267, and 2,157,398 shares"
+ },
+ {
+  "claim": "Redeemable convertible preferred shares outstanding 853,394K at Jun 30 2026 (544,322K Dec 2025)",
+  "source": "S-1 L17548",
+  "topic": "share count",
+  "confidence": "primary",
+  "number": "853,394",
+  "quote": "220,219, 544,322, and 853,394 shares issued"
+ },
+ {
+  "claim": "10-for-1 stock split of Class A and Class N in Sep 2026",
+  "source": "S-1 L22776",
+  "topic": "share count",
+  "confidence": "primary",
+  "quote": "In September 2026, the Company amended its certificate of incorporation to effectuate a 10-for-1 stock"
+ },
+ {
+  "claim": "Authorized Class A shares 10,906,111,730 actual, 300,000,000,000 pro forma (capitalization table, actual outstanding counts blank)",
+  "source": "S-1 L6676",
+  "topic": "share count",
+  "confidence": "primary",
+  "number": "10,906,111,730",
+  "quote": "10,906,111,730 shares authorized, shares issued and"
+ },
+ {
+  "claim": "Post-June 2026 RSU grants of ~91M RSUs valued at $5.8B, performance condition satisfied on registration effectiveness; 2026 plan reserves 2,950.0M Class A shares",
+  "source": "S-1 L22761",
+  "topic": "share count",
+  "confidence": "primary",
+  "number": "$5.8B",
+  "quote": "million RSUs with an aggregate grant date fair value of $5.8 billion."
+ },
+ {
+  "claim": "Q3 2026 includes $2.0B donation matching charge within other operating and administrative expense",
+  "source": "S-1 L22780",
+  "topic": "net loss drivers",
+  "confidence": "primary",
+  "number": "$2.0B",
+  "quote": "In the third quarter of 2026, the Company recognized $2.0 billion within other operating and administrative"
+ }
+]

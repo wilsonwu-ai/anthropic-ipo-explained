@@ -1,0 +1,478 @@
+[
+ {
+  "topic": "customers",
+  "claim": "Customers with $100,000+ TTM revenue: more than 11,900 as of Sept 30, 2026",
+  "source": "S-1 L601",
+  "quote": "More than 11,900 customers with $100,000 or more of revenue on a TTM basis",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customers",
+  "claim": "Customers with $1 million+ TTM revenue: more than 1,900",
+  "source": "S-1 L602",
+  "quote": "More than 1,900 customers with $1 million or more of revenue on a TTM basis",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customers",
+  "claim": "Customers with $10 million+ TTM revenue: approximately 250",
+  "source": "S-1 L605",
+  "quote": "Approximately 250 customers with $10 million or more of revenue on a TTM basis.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customers",
+  "claim": "$100K+ customer count grew from more than 950 (Sept 30, 2025) to more than 11,900 (Sept 30, 2026)",
+  "source": "S-1 L10704",
+  "quote": "on a TTM basis from more than 950 to more than 11,900.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customers",
+  "claim": "Company does not segment customers as 'enterprise'; uses $100K+ TTM spend as its proxy for enterprise adoption",
+  "source": "S-1 L313",
+  "quote": "belong to the same organization based on internal records and available data. We do not separately define or",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customers",
+  "claim": "Rationale for using $100K+ as the enterprise measure",
+  "source": "S-1 L316",
+  "quote": "our products is generally characteristic of organizational rather than individual usage, we use the number of",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customers",
+  "claim": "A customer is a distinct organization, aggregating accounts belonging to the same organization",
+  "source": "S-1 L312",
+  "quote": "we define a customer as a distinct organization, identified by aggregating the accounts that we determine",
+  "confidence": "primary"
+ },
+ {
+  "topic": "fortune_500",
+  "claim": "Every Fortune 10 company, over 50% of the Fortune 500 and over 30% of the Global 2000 are $100K+ TTM customers",
+  "source": "S-1 L11234",
+  "quote": "company in the Fortune 10, over 50% of the Fortune 500, and over 30% of the Global 2000.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "fortune_500",
+  "claim": "Fortune 500 sector coverage: 10 largest software/IT services and 10 largest internet companies",
+  "source": "S-1 L10688",
+  "quote": "largest software and IT services companies, the 10 largest internet companies, nine of the 10 largest",
+  "confidence": "primary"
+ },
+ {
+  "topic": "fortune_500",
+  "claim": "Fortune 500 sector coverage: pharma, banks, semiconductors, healthcare",
+  "source": "S-1 L10689",
+  "quote": "pharmaceutical companies, the 10 largest banks, nine of the 10 largest semiconductor companies, and eight of",
+  "confidence": "primary"
+ },
+ {
+  "topic": "fortune_500",
+  "claim": "Named Fortune 500 customers relying on Claude for mission-critical workflows",
+  "source": "S-1 L10588",
+  "quote": "American International Group, Inc. and Bristol Myers Squibb, rely on Claude for mission-critical workflows.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "nrr",
+  "claim": "Net Revenue Retention definition: Qualified Customers' Current Period revenue divided by Base Period revenue",
+  "source": "S-1 L348",
+  "quote": "We calculate Net Revenue Retention by dividing the Qualified Customers\u2019 Current Period revenue by their Base",
+  "confidence": "primary"
+ },
+ {
+  "topic": "nrr",
+  "claim": "Qualified Customer needs at least $1 of Base Period revenue; Claude Pro and Max subscribers are excluded",
+  "source": "S-1 L350",
+  "quote": "excluding subscribers to our Claude Pro and Max plans, whose fixed-price subscriptions do not reflect the",
+  "confidence": "primary"
+ },
+ {
+  "topic": "nrr",
+  "claim": "Base Period is the three months ending a year before the measurement date; Current Period is the three months ending at the measurement date",
+  "source": "S-1 L354",
+  "quote": "ending a year prior to the measurement date. The Current Period is the three months ending as of the",
+  "confidence": "primary"
+ },
+ {
+  "topic": "nrr",
+  "claim": "Net Revenue Retention is approximately 900% as of Sept 30, 2026",
+  "source": "S-1 L10120",
+  "quote": "quickly with customers, as demonstrated by our Net Revenue Retention of approximately 900% as of",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customers",
+  "claim": "Over 50% of $100K+ customers used Claude Platform plus at least one first-party app in Q3 2026, up from about 30% in Q4 2025",
+  "source": "S-1 L10079",
+  "quote": "applications, up from approximately 30% for the three months ended December 31, 2025.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customer_concentration",
+  "claim": "Risk-factor summary: substantial portion of revenue and receivables driven by a limited number of customers and distribution channels",
+  "source": "S-1 L1064",
+  "quote": "A substantial portion of our revenue and accounts receivable is driven by a limited number of",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customer_concentration",
+  "claim": "No single customer exceeded 10% of revenue for the nine months ended Sept 30, 2026 (MD&A, outside assigned slice but in same file)",
+  "source": "S-1 L7341",
+  "quote": "No single customer represented more than 10% of our revenue for the nine",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customer_concentration",
+  "claim": "About 79% of Q3 2026 revenue came from outside the top five customers, up from about 64% in Q1 2026 (MD&A, outside slice)",
+  "source": "S-1 L7342",
+  "quote": "months ended September 30, 2026. Approximately 79% of our revenue came from customers outside of our top",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Definition of Virtual Collaborators: AI systems that work alongside humans on complex multi-step work at professional levels",
+  "source": "S-1 L548",
+  "quote": "these AI systems that work alongside humans to perform complex, multi-step work at professional levels as",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Virtual Collaborators carry access rights, system connections and context granted by their organizations",
+  "source": "S-1 L549",
+  "quote": "Virtual Collaborators. Virtual Collaborators carry the access rights, system connections, and context that their",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Shift in enterprise use from prompt-response tool to Virtual Collaborator",
+  "source": "S-1 L10085",
+  "quote": "is used inside the enterprise, from a tool that responds to discrete prompts to what we call a Virtual",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Claude Code is described as the clearest manifestation of Virtual Collaborators",
+  "source": "S-1 L10481",
+  "quote": "The clearest manifestation of Virtual Collaborators today is Claude Code, our coding agent and the product we",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Claude Code product description: terminal, desktop, web and mobile coding agent with GitHub and IDE integrations",
+  "source": "S-1 L11015",
+  "quote": "A coding agent, available as a terminal tool, desktop app, web interface, and mobile app,",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Claude Cowork is a knowledge work agent built on Claude Code's agentic architecture",
+  "source": "S-1 L11022",
+  "quote": "A knowledge work agent on desktop, web, and mobile, built on Claude Code",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Cowork launched as research preview January 2026; adoption outpaced Claude Code at the equivalent point after its Feb 2025 preview",
+  "source": "S-1 L581",
+  "quote": "adoption of Claude Cowork, which we made available as a research preview in January 2026, outpaced the",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "September 2026: Cowork and Claude.ai began merging into one application",
+  "source": "S-1 L583",
+  "quote": "In September 2026, we began merging Claude Cowork and Claude.ai, bringing agentic and conversational work",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Claude Enterprise users without Claude Code spent under $75/month on average in Q3 2026; top 5% using Claude Code spent about 20x that",
+  "source": "S-1 L10716",
+  "quote": "Claude Enterprise users who did not use Claude Code spent less than $75 per",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Claude model family has four classes: Mythos (including Fable), Opus, Sonnet, Haiku",
+  "source": "S-1 L10904",
+  "quote": "The Claude model family is currently composed of four model classes: Mythos (including Fable), Opus, Sonnet,",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Claude Platform described as an agentic development environment for customers to build, deploy and scale apps",
+  "source": "S-1 L10090",
+  "quote": "Claude Platform, our comprehensive agentic development environment, provides customers with",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Seven vertical solutions launched (Financial Services, Financial Advisors, Healthcare, Life Sciences, Legal, Education, Government)",
+  "source": "S-1 L11088",
+  "quote": "To date, we have launched seven vertical solutions:",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Claude Design lets users create designs, prototypes and presentations through natural language",
+  "source": "S-1 L11049",
+  "quote": "Claude Design. Enables users to create polished designs, prototypes, presentations, and other visual",
+  "confidence": "primary"
+ },
+ {
+  "topic": "products",
+  "claim": "Claude Security is a defensive cybersecurity product in public beta for Claude Enterprise customers",
+  "source": "S-1 L11035",
+  "quote": "A defensive cybersecurity product, available in public beta to Claude Enterprise",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customers",
+  "claim": "Prosumers subscribe to Claude Pro and Claude Max; customers fall into enterprises and prosumers",
+  "source": "S-1 L11263",
+  "quote": "Knowledge workers, including researchers, developers, analysts, and writers, subscribe to Claude Pro and",
+  "confidence": "primary"
+ },
+ {
+  "topic": "revenue_model",
+  "claim": "Pay-for-intelligence (consumption) is metered in tokens and priced by model",
+  "source": "S-1 L361",
+  "quote": "usage of our intelligence service, which is metered in tokens and priced according to the model selected.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "revenue_model",
+  "claim": "Consumption-based revenue is the substantial majority of revenue",
+  "source": "S-1 L10658",
+  "quote": "Because consumption-based revenue represents the substantial majority of our revenue and may fluctuate",
+  "confidence": "primary"
+ },
+ {
+  "topic": "revenue_model",
+  "claim": "Run-Rate Revenue annualizes trailing 28-day consumption fees by 13 plus monthly subscription fees by 12",
+  "source": "S-1 L388",
+  "quote": "the trailing 28-day period ended on the measurement date, multiplied by 13, and (ii) our aggregate monthly",
+  "confidence": "primary"
+ },
+ {
+  "topic": "financials",
+  "claim": "Q2 2026 revenue $11.6 billion vs $787 million in Q2 2025",
+  "source": "S-1 L10134",
+  "quote": "Our revenue was $11.6 billion for the three months ended June 30, 2026, up from $787 million for the",
+  "confidence": "primary"
+ },
+ {
+  "topic": "financials",
+  "claim": "Q2 2026 operating margin 8% and operating income $1.0 billion",
+  "source": "S-1 L10136",
+  "quote": "Our operating margin was 8% and operating income was $1.0 billion for the three months ended June",
+  "confidence": "primary"
+ },
+ {
+  "topic": "financials",
+  "claim": "Adjusted Operating Margin 19% and Adjusted Operating Income $2.2 billion in Q2 2026",
+  "source": "S-1 L10140",
+  "quote": "Adjusted Operating Margin of 19% and Adjusted Operating Income of $2.2 billion",
+  "confidence": "primary"
+ },
+ {
+  "topic": "financials",
+  "claim": "Revenue grew 1,368% year over year in Q2 2026 while compute and infrastructure expense grew 300%",
+  "source": "S-1 L10125",
+  "quote": "revenue that grew 1,368% year over year for the three months ended June 30, 2026",
+  "confidence": "primary"
+ },
+ {
+  "topic": "financials",
+  "claim": "Raised $141.1 billion in aggregate; $112.4 billion cash as of June 30, 2026",
+  "source": "S-1 L10146",
+  "quote": "raised an aggregate of $141.1 billion of capital and had cash and cash equivalents of $112.4 billion",
+  "confidence": "primary"
+ },
+ {
+  "topic": "financials",
+  "claim": "Quarter-over-quarter revenue growth accelerated from 48% (Q4 2025) to 132% (Q1 2026) after Opus 4.5 launch",
+  "source": "S-1 L10732",
+  "quote": "48% for the three months ended December 31, 2025 to 132% for the three months ended March 31, 2026",
+  "confidence": "primary"
+ },
+ {
+  "topic": "financials",
+  "claim": "Revenue per employee over $6.6 million with about 5,300 employees",
+  "source": "S-1 L10754",
+  "quote": "with approximately 5,300 employees, our TTM revenue per",
+  "confidence": "primary"
+ },
+ {
+  "topic": "financials",
+  "claim": "Q3 2026 revenue was 86 times Q4 2024 revenue",
+  "source": "S-1 L10187",
+  "quote": "was 86 times our revenue for the three months ended December 31, 2024",
+  "confidence": "primary"
+ },
+ {
+  "topic": "financials",
+  "claim": "Opus 5.5 cut customer cost per task about 40% versus Opus 5",
+  "source": "S-1 L666",
+  "quote": "costs per task by approximately 40% compared to Claude Opus 5.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute_partners",
+  "claim": "Compute managed as one fungible pool from multiple strategic partners",
+  "source": "S-1 L10040",
+  "quote": "We manage compute as a single, fungible pool from multiple strategic partners, and",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute_partners",
+  "claim": "Multi-chip architecture spans AWS Trainium, Google TPUs, NVIDIA GPUs and AMD GPUs",
+  "source": "S-1 L10047",
+  "quote": "Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs, enabling us to orchestrate workloads to optimize for",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute_partners",
+  "claim": "Amazon: strategic collaboration giving access to Trainium accelerators and ability to influence future Trainium chips",
+  "source": "S-1 L11151",
+  "quote": "Our strategic collaboration with Amazon provides us with access to AI",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute_partners",
+  "claim": "Google and Broadcom partnerships provide TPU capacity across multiple TPU generations",
+  "source": "S-1 L11154",
+  "quote": "Our partnerships with Google and Broadcom provide us with access to compute",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute_partners",
+  "claim": "NVIDIA GPU capacity comes via NVIDIA partnership plus Microsoft, SpaceXAI, Nscale, Lambda and other cloud providers",
+  "source": "S-1 L11157",
+  "quote": "arrangements with Microsoft, SpaceXAI, Nscale, Lambda, and other cloud providers, provides us",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute_partners",
+  "claim": "NVIDIA capacity includes Grace Blackwell and Vera Rubin systems",
+  "source": "S-1 L11158",
+  "quote": "with access to compute capacity powered by NVIDIA GPUs, including NVIDIA Grace Blackwell",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute_partners",
+  "claim": "AMD relationship plus manufacturers of AMD Helios rack-scale systems; multi-year engineering collaboration",
+  "source": "S-1 L11161",
+  "quote": "Our relationship with AMD, together with our arrangements with approved",
+  "confidence": "primary"
+ },
+ {
+  "topic": "hardware_dependence",
+  "claim": "New chip platforms onboarded faster, reducing dependence on any single hardware provider",
+  "source": "S-1 L11174",
+  "quote": "become available, expanding our access to compute capacity while reducing our dependence on any",
+  "confidence": "primary"
+ },
+ {
+  "topic": "hardware_dependence",
+  "claim": "Expansion of data center capacity depends on a limited number of CSPs, partners and financing sources",
+  "source": "S-1 L11212",
+  "quote": "willingness and ability of a limited number of CSPs, partners, and financing sources to enter into and",
+  "confidence": "primary"
+ },
+ {
+  "topic": "hardware_dependence",
+  "claim": "Compute access may be subject to supply constraints, capacity limits or allocation decisions by third-party providers",
+  "source": "S-1 L11745",
+  "quote": "Our access to compute necessary to train and deploy AI models, which may be subject to supply",
+  "confidence": "primary"
+ },
+ {
+  "topic": "hardware_dependence",
+  "claim": "Risk summary: failure to secure or direct compute could leave models uncompetitive or unable to serve customers",
+  "source": "S-1 L1040",
+  "quote": "If we are unable to secure adequate compute or if we fail to direct our compute effectively across our",
+  "confidence": "primary"
+ },
+ {
+  "topic": "hardware_dependence",
+  "claim": "Purchase and lease commitments mostly fall between 2031 and 2045 (dollar amounts blank in this filing text)",
+  "source": "S-1 L10053",
+  "quote": "substantially all of the remainder is expected to be incurred between 2031 and 2045.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "hardware_dependence",
+  "claim": "Historically bought compute under fixed-time agreements; now also buys accelerators directly (Anthropic Direct)",
+  "source": "S-1 L11180",
+  "quote": "Historically, we purchased compute under fixed-time agreements.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "hardware_dependence",
+  "claim": "Colocation and services agreement with Fluidstack for data center development and operations",
+  "source": "S-1 L11204",
+  "quote": "we have entered into a colocation and services agreement with Fluidstack USA I Inc.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "ai_industry",
+  "claim": "Company expects AI demand to outstrip supply for the foreseeable future, limited principally by compute",
+  "source": "S-1 L10234",
+  "quote": "believe this will drive demand for AI that outstrips supply for the foreseeable future, limited principally by the",
+  "confidence": "primary"
+ },
+ {
+  "topic": "ai_industry",
+  "claim": "Claimed fastest enterprise adoption of any technology; revenue grew from $0 at commercial launch in Q1 2023",
+  "source": "S-1 L426",
+  "quote": "revenue growing from $0 at commercial launch in the first quarter of",
+  "confidence": "primary"
+ },
+ {
+  "topic": "distribution",
+  "claim": "Amazon, Google and Microsoft each host Claude natively on AWS, GCP and Azure",
+  "source": "S-1 L10638",
+  "quote": "Amazon, Google, and Microsoft each host Claude natively on their respective cloud",
+  "confidence": "primary"
+ },
+ {
+  "topic": "distribution",
+  "claim": "Joint go-to-market with CSPs; Anthropic holds direct customer contracts and pays each CSP a fee",
+  "source": "S-1 L10644",
+  "quote": "each CSP. This structure allows us to foster stronger commercial alignment with these CSPs, avoid channel conflict, set pricing, and realize the financial benefits of ongoing compute efficiency",
+  "confidence": "primary"
+ },
+ {
+  "topic": "distribution",
+  "claim": "Claude Partner Network: over 150,000 certified practitioners across over 4,000 organizations",
+  "source": "S-1 L10655",
+  "quote": "this network comprises over 150,000 practitioners across over 4,000 organizations who have",
+  "confidence": "primary"
+ },
+ {
+  "topic": "competition",
+  "claim": "Named direct model competitors: OpenAI and Google",
+  "source": "S-1 L11709",
+  "quote": "enterprises, including OpenAI and Google, and large, well-capitalized technology companies investing to reach",
+  "confidence": "primary"
+ },
+ {
+  "topic": "founders",
+  "claim": "All seven co-founders remain active leaders",
+  "source": "S-1 L11320",
+  "quote": "All seven of Anthropic\u2019s co-founders remain active leaders in the organization.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "company",
+  "claim": "Anthropic describes itself as first and foremost a research lab, founded in 2021",
+  "source": "S-1 L420",
+  "quote": "We are first and foremost a research lab",
+  "confidence": "primary"
+ }
+]

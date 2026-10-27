@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 878" width="960" height="878" role="img" aria-labelledby="t d">
+<title id="t">The AI stack: follow the dollars from customers down to power</title>
+<desc id="d">Five layers from top to bottom: customers (businesses via API and cloud marketplaces, people via subscriptions), labs (Anthropic, OpenAI), clouds and compute providers (Google, Amazon, Microsoft, SpaceXAI, Broadcom leases, Nscale, Lambda), chips (NVIDIA GPUs, Google TPU, AWS Trainium, AMD GPUs, made by TSMC), and power and data centers. Dollars flow down through the layers.</desc>
+<style>
+svg{--bg:#ffffff;--ink:#1f2328;--mut:#5b6068;--line:#c9cdd3;--panel:#f3f4f6;--cons:#d97757;--subs:#6a8caf;--hw:#7a8a5a;--neu:#8a8f98;--loss:#c4554d;--pos:#3f8f6b;--on:#1b1b1b}
+@media (prefers-color-scheme: dark){svg{--bg:#14161a;--ink:#ecebe6;--mut:#a9aeb6;--line:#3a3e45;--panel:#1d2025}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;fill:var(--ink,#1f2328)}
+.bg{fill:var(--bg,#ffffff)}
+.title{font-size:26px;font-weight:700}
+.dek{font-size:16px;fill:var(--mut,#5b6068)}
+.src{font-size:14px;fill:var(--mut,#5b6068)}
+.mut{font-size:14px;fill:var(--mut,#5b6068)}
+.lname{font-size:18px;font-weight:700}
+.tag{font-size:15px;font-weight:600;text-anchor:middle;fill:var(--on,#1b1b1b)}
+.band{fill:var(--panel,#f3f4f6);stroke:var(--line,#c9cdd3);stroke-width:1.5}
+.big{font-size:30px;font-weight:700;fill:var(--hw,#7a8a5a)}
+.gap{font-size:14px;font-style:italic;fill:var(--mut,#5b6068)}
+.cons{fill:var(--cons,#d97757)}
+.subs{fill:var(--subs,#6a8caf)}
+.hw{fill:var(--hw,#7a8a5a)}
+.neu{fill:var(--neu,#8a8f98)}
+.arrow{fill:var(--mut,#5b6068)}
+.layer{transform-box:fill-box;transform-origin:50% 0%}
+.coin{fill:var(--cons,#d97757);stroke:var(--bg,#ffffff);stroke-width:1.5;transform-box:fill-box;transform-origin:50% 50%}
+@keyframes rise{from{transform:translateY(-14px);opacity:0}to{transform:translateY(0);opacity:1}}
+@keyframes fall{0%{transform:translateY(-4px);opacity:0}20%{transform:translateY(0);opacity:1}80%{transform:translateY(12px);opacity:1}100%{transform:translateY(16px);opacity:0}}
+.play .layer{animation:rise .7s ease-out both}
+.play .coin{animation:fall 2.4s ease-in infinite both}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect class="bg" x="0" y="0" width="960" height="878"/>
+<text class="title" x="40" y="44">The AI stack: follow the dollars from customers down to power</text>
+<text class="dek" x="40" y="72">Money enters at the top and is mostly spent on what sits below it.</text>
+
+<!-- Layer 1: customers -->
+<g class="layer" style="animation-delay:0s">
+<rect class="band" x="30" y="96" width="900" height="104" rx="12"/>
+<rect class="cons" x="30" y="96" width="8" height="104" rx="4"/>
+<text class="lname" x="54" y="132">Customers</text>
+<text class="mut" x="54" y="156">the ones who pay</text>
+<rect class="cons" x="260" y="110" width="338" height="32" rx="16"/>
+<text class="tag" x="429" y="131">Businesses: API and cloud marketplaces</text>
+<rect class="subs" x="610" y="110" width="231" height="32" rx="16"/>
+<text class="tag" x="725.5" y="131">People: Pro and Max plans</text>
+<text class="mut" x="260" y="174">48% of H1 2026 revenue came through cloud marketplaces; 80% was pay-per-use (S-1).</text>
+</g>
+
+<!-- gap 1 -->
+<g class="layer" style="animation-delay:0.3s">
+<circle class="coin" cx="245" cy="209" r="7" style="animation-delay:0.8s"/>
+<polygon class="arrow" points="239,220 251,220 245,230"/>
+<text class="gap" x="270" y="224">Customers pay the labs: per use, or a monthly plan</text>
+</g>
+
+<!-- Layer 2: labs -->
+<g class="layer" style="animation-delay:0.5s">
+<rect class="band" x="30" y="236" width="900" height="104" rx="12"/>
+<rect class="neu" x="30" y="236" width="8" height="104" rx="4"/>
+<text class="lname" x="54" y="272">Labs</text>
+<text class="mut" x="54" y="296">build and run the models</text>
+<rect class="neu" x="260" y="250" width="100" height="32" rx="16"/>
+<text class="tag" x="310" y="271">Anthropic</text>
+<rect class="neu" x="372" y="250" width="76" height="32" rx="16"/>
+<text class="tag" x="410" y="271">OpenAI</text>
+<text class="mut" x="260" y="314">Anthropic's revenue in H1 2026 (six months): $16.3B (S-1).</text>
+</g>
+
+<!-- gap 2 -->
+<g class="layer" style="animation-delay:0.8s">
+<circle class="coin" cx="245" cy="349" r="7" style="animation-delay:1.3s"/>
+<polygon class="arrow" points="239,360 251,360 245,370"/>
+<text class="gap" x="270" y="364">Labs pay the clouds: multi-year compute commitments</text>
+</g>
+
+<!-- Layer 3: clouds and compute providers -->
+<g class="layer" style="animation-delay:1s">
+<rect class="band" x="30" y="376" width="900" height="146" rx="12"/>
+<rect class="hw" x="30" y="376" width="8" height="146" rx="4"/>
+<text class="lname" x="54" y="412">Clouds and compute</text>
+<text class="lname" x="54" y="434">providers</text>
+<text class="mut" x="54" y="458">rent out the capacity</text>
+<rect class="hw" x="260" y="390" width="75" height="32" rx="16"/>
+<text class="tag" x="297.5" y="411">Google</text>
+<rect class="hw" x="345" y="390" width="75" height="32" rx="16"/>
+<text class="tag" x="382.5" y="411">Amazon</text>
+<rect class="hw" x="430" y="390" width="100" height="32" rx="16"/>
+<text class="tag" x="480" y="411">Microsoft</text>
+<rect class="hw" x="540" y="390" width="92" height="32" rx="16"/>
+<text class="tag" x="586" y="411">SpaceXAI</text>
+<rect class="hw" x="260" y="430" width="206" height="32" rx="16"/>
+<text class="tag" x="363" y="451">Broadcom (chip leases)</text>
+<rect class="hw" x="476" y="430" width="75" height="32" rx="16"/>
+<text class="tag" x="513.5" y="451">Nscale</text>
+<rect class="hw" x="561" y="430" width="75" height="32" rx="16"/>
+<text class="tag" x="598.5" y="451">Lambda</text>
+<text class="mut" x="668" y="406">H1 2026 compute bill</text>
+<text class="big" x="668" y="438">$8.9B</text>
+<text class="mut" x="668" y="460">= 55% of revenue (S-1 figures;</text>
+<text class="mut" x="668" y="480">the 55% is my calculation)</text>
+<text class="mut" x="260" y="506">Providers rent chips and buildings to labs under multi-year deals (S-1).</text>
+</g>
+
+<!-- gap 3 -->
+<g class="layer" style="animation-delay:1.3s">
+<circle class="coin" cx="245" cy="531" r="7" style="animation-delay:1.8s"/>
+<polygon class="arrow" points="239,542 251,542 245,552"/>
+<text class="gap" x="270" y="546">Clouds and labs pay for chips, often through leases</text>
+</g>
+
+<!-- Layer 4: chips -->
+<g class="layer" style="animation-delay:1.5s">
+<rect class="band" x="30" y="558" width="900" height="104" rx="12"/>
+<rect class="hw" x="30" y="558" width="8" height="104" rx="4"/>
+<text class="lname" x="54" y="594">Chips</text>
+<text class="mut" x="54" y="618">the hardware that thinks</text>
+<rect class="hw" x="260" y="572" width="122" height="32" rx="16"/>
+<text class="tag" x="321" y="593">NVIDIA GPUs</text>
+<rect class="hw" x="392" y="572" width="112" height="32" rx="16"/>
+<text class="tag" x="448" y="593">Google TPU</text>
+<rect class="hw" x="514" y="572" width="130" height="32" rx="16"/>
+<text class="tag" x="579" y="593">AWS Trainium</text>
+<rect class="hw" x="654" y="572" width="98" height="32" rx="16"/>
+<text class="tag" x="703" y="593">AMD GPUs</text>
+<rect class="neu" x="765" y="572" width="140" height="32" rx="16"/>
+<text class="tag" x="835" y="593">Made by TSMC</text>
+<text class="mut" x="260" y="636">Claude runs on all four chip families (S-1). The S-1 names TSMC as a supply dependency.</text>
+</g>
+
+<!-- gap 4 -->
+<g class="layer" style="animation-delay:1.8s">
+<circle class="coin" cx="245" cy="671" r="7" style="animation-delay:2.3s"/>
+<polygon class="arrow" points="239,682 251,682 245,692"/>
+<text class="gap" x="270" y="686">Everything above runs on electricity and buildings</text>
+</g>
+
+<!-- Layer 5: power and data centers -->
+<g class="layer" style="animation-delay:2s">
+<rect class="band" x="30" y="698" width="900" height="104" rx="12"/>
+<rect class="neu" x="30" y="698" width="8" height="104" rx="4"/>
+<text class="lname" x="54" y="734">Power and</text>
+<text class="lname" x="54" y="756">data centers</text>
+<rect class="neu" x="260" y="712" width="116" height="32" rx="16"/>
+<text class="tag" x="318" y="733">Electricity</text>
+<rect class="neu" x="386" y="712" width="166" height="32" rx="16"/>
+<text class="tag" x="469" y="733">Data center sites</text>
+<rect class="neu" x="562" y="712" width="292" height="32" rx="16"/>
+<text class="tag" x="708" y="733">On-site natural gas at some sites</text>
+<text class="mut" x="260" y="776">The S-1 calls power availability a constraint on data center expansion (Risk Factors).</text>
+</g>
+
+<text class="src" x="40" y="834" textLength="880" lengthAdjust="spacingAndGlyphs">Source: S-1 (Business, Management's Discussion and Analysis, Risk Factors). Layer names are my simplification of how the filing describes its suppliers.</text>
+<text class="src" x="40" y="854" textLength="880" lengthAdjust="spacingAndGlyphs">Dollar figures are S-1 numbers for the first half of 2026; 55% = $8.9B compute and infrastructure expense / $16.3B revenue (8,945 / 16,286).</text>
+</svg>

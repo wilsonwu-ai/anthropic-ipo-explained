@@ -1,0 +1,593 @@
+[
+ {
+  "topic": "listing",
+  "claim": "Anthropic has applied to list its Class A common stock on the Nasdaq Global Select Market under the ticker ANT.",
+  "source": "S-1 L15857",
+  "quote": "We have applied to list our Class A common stock on the Nasdaq Global Select Market under the symbol \u201cANT.\u201d",
+  "number": "ANT",
+  "confidence": "primary"
+ },
+ {
+  "topic": "underwriters",
+  "claim": "Goldman Sachs and Morgan Stanley are the lead representatives of the underwriters; J.P. Morgan is listed third among 22 named underwriters (also Citi, Barclays, Wells Fargo, BofA, Deutsche, RBC, UBS and others).",
+  "source": "S-1 L16304",
+  "quote": "Goldman Sachs & Co. LLC and Morgan Stanley & Co. LLC are the representatives of the underwriters",
+  "number": "22 underwriters",
+  "confidence": "primary"
+ },
+ {
+  "topic": "underwriters",
+  "claim": "Morgan Stanley acts as stabilization agent for the offering.",
+  "source": "S-1 L16722",
+  "quote": "In order to facilitate the offering of our Class A common stock, Morgan Stanley & Co. LLC, acting as",
+  "confidence": "primary"
+ },
+ {
+  "topic": "underwriters",
+  "claim": "Underwriters get a 30-day over-allotment option; selling stockholders are also selling shares in the offering.",
+  "source": "S-1 L16335",
+  "quote": "We will grant to the underwriters an option, exercisable for 30 days from the date of this prospectus, to",
+  "number": "30 days",
+  "confidence": "primary"
+ },
+ {
+  "topic": "underwriters",
+  "claim": "Underwriter affiliates are also lenders under Anthropic's A&R Credit Agreement (Morgan Stanley affiliate is administrative agent and collateral agent), a disclosed relationship.",
+  "source": "S-1 L16765",
+  "quote": "an affiliate of Morgan Stanley & Co. LLC serves as administrative agent, collateral agent, lead left arranger, joint",
+  "confidence": "primary"
+ },
+ {
+  "topic": "lock-ups",
+  "claim": "Directors, officers and holders of substantially all stock are under a 180-day market standoff.",
+  "source": "S-1 L16375",
+  "quote": "which they have agreed that, subject to certain exceptions, for a period of 180 days after the date of this",
+  "number": "180 days",
+  "confidence": "primary"
+ },
+ {
+  "topic": "lock-ups",
+  "claim": "Co-founders and holders of more than 0.5% of fully diluted shares face an extended lock-up ending on the earlier of two days after Q3 2027 results or the 365th day after the prospectus.",
+  "source": "S-1 L6361",
+  "quote": "trading day on the 365th day after the date of this prospectus, and (ii)",
+  "number": "365 days",
+  "confidence": "primary"
+ },
+ {
+  "topic": "lock-ups",
+  "claim": "All other lock-up holders are released at the earlier of two trading days after Q1 2027 results or the 180th day; Goldman and Morgan Stanley can release holders early.",
+  "source": "S-1 L6366",
+  "quote": "close of the trading day on the 180th day after the date of this prospectus. Goldman Sachs & Co. LLC and",
+  "number": "180th day",
+  "confidence": "primary"
+ },
+ {
+  "topic": "lock-ups",
+  "claim": "Staggered early-release schedule: some non-founder shares become sellable on the first trading day, others on day 27 and day 48, tied to percentages of the 180-day and 365-day lock-up pools (share counts blank in this draft).",
+  "source": "S-1 L15880",
+  "quote": "27th day after the date of this prospectus ................................................. ",
+  "confidence": "primary"
+ },
+ {
+  "topic": "share classes",
+  "claim": "Authorized capital: 300bn Class A, 100bn Class N, one Class T, one Class F, 30bn Class E and 30bn preferred, 460,000,000,002 shares total at $0.00001 par.",
+  "source": "S-1 L14861",
+  "quote": "of 460,000,000,002 shares of capital stock, $0.00001 par value per share, of which:",
+  "number": "460,000,000,002",
+  "confidence": "primary"
+ },
+ {
+  "topic": "share classes",
+  "claim": "Class T is a single share held by the LTBT.",
+  "source": "S-1 L14864",
+  "quote": "one share is designated as Class T common stock (the \u201cClass T common stock\u201d);",
+  "number": "1 share",
+  "confidence": "primary"
+ },
+ {
+  "topic": "share classes",
+  "claim": "Class A common stock carries one vote per share on all matters.",
+  "source": "S-1 L15051",
+  "quote": "Holders of our Class A common stock are entitled to one vote for each share",
+  "confidence": "primary"
+ },
+ {
+  "topic": "share classes",
+  "claim": "Class N is non-voting but has economic rights equal to Class A, so it dilutes Class A economically.",
+  "source": "S-1 L6311",
+  "quote": "Although our Class N common stock is not entitled to vote, it is entitled to economic rights equivalent to those",
+  "confidence": "primary"
+ },
+ {
+  "topic": "share classes",
+  "claim": "Class N converts automatically into Class A on open-market sale, registered offering or transfer to an unaffiliated third party, which would then dilute Class A voting power.",
+  "source": "S-1 L6319",
+  "quote": "The shares of Class N common stock will automatically convert into an equal number of shares of Class A",
+  "confidence": "primary"
+ },
+ {
+  "topic": "share classes",
+  "claim": "Amazon and Google will each hold more than 5% of outstanding capital stock, mainly as non-voting Class N.",
+  "source": "S-1 L6293",
+  "quote": "Stock Conversion and the Convertible Notes Conversion, Amazon and Google will each hold greater than five",
+  "number": ">5% each",
+  "confidence": "primary"
+ },
+ {
+  "topic": "share classes",
+  "claim": "Class E common stock will be issued to employees excluding co-founders, with limited votes and no economic rights.",
+  "source": "S-1 L5866",
+  "quote": "will be entitled to vote only on certain limited matters and will not have any economic rights. Under this",
+  "confidence": "primary"
+ },
+ {
+  "topic": "founder control",
+  "claim": "A single Class F share gives the Founder LLC votes equal to 50.1% of total voting power on matters submitted to stockholders generally, including election of non-Class T directors.",
+  "source": "S-1 L5903",
+  "quote": "Our Class F common stock will entitle the Founder LLC to an aggregate number of votes that equals 50.1% of",
+  "number": "50.1%",
+  "confidence": "primary"
+ },
+ {
+  "topic": "founder control",
+  "claim": "Class A holders are capped at an aggregate 49.9% of voting power.",
+  "source": "S-1 L14772",
+  "quote": "Class A common stock is limited to an aggregate of 49.9%",
+  "number": "49.9%",
+  "confidence": "primary"
+ },
+ {
+  "topic": "founder control",
+  "claim": "Class F voting power is fixed and cannot be diluted by new Class A or Class N issuances; the S-1 gives a 1,000,000-share example.",
+  "source": "S-1 L6333",
+  "quote": "common stock is entitled to a fixed 50.1% of the total voting power of our outstanding shares of capital stock as",
+  "number": "50.1% fixed",
+  "confidence": "primary"
+ },
+ {
+  "topic": "founder control",
+  "claim": "Class A holders generally cannot affect any vote or director election unless the Continuing Founders cannot agree, in which case Class F votes proportionately with Class A.",
+  "source": "S-1 L5872",
+  "quote": "Founders (as defined below) cannot agree on how our Class F common stock will be voted (in which case our",
+  "confidence": "primary"
+ },
+ {
+  "topic": "founder control",
+  "claim": "Class F sunsets after fewer than three Continuing Founders remain for 90 consecutive days (Class F Transition Period), or on redemption or Founder LLC dissolution.",
+  "source": "S-1 L5907",
+  "quote": "F Transition Period (as defined below), which will commence when there have been fewer than three",
+  "number": "3 founders / 90 days",
+  "confidence": "primary"
+ },
+ {
+  "topic": "founder control",
+  "claim": "Seven co-founders are to enter the Founder LLC Agreement shortly before effectiveness; Class F is voted by the Continuing Founders, one vote each. Co-founders vote their own Class A shares independently.",
+  "source": "S-1 L14779",
+  "quote": "manner determined by a vote of the Continuing Founders as prescribed by the Founder LLC Agreement, with each Continuing Founder entitled to one vote.",
+  "number": "7 co-founders",
+  "confidence": "primary"
+ },
+ {
+  "topic": "founder control",
+  "claim": "Dario Amodei holds about 237.8 million Class A shares of record (plus options, RSUs and 4.6m shares under DAF voting proxies, 245,259,100 total beneficial); Daniela Amodei about 238.3 million of record.",
+  "source": "S-1 L14785",
+  "quote": "(1) Consists of (i) 237,813,080 shares of Class A common stock held of record by Dr. Amodei or by trusts over which Dr.",
+  "number": "237,813,080",
+  "confidence": "primary"
+ },
+ {
+  "topic": "founder control",
+  "claim": "Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish and Christopher Olah are listed as other selling stockholders alongside the Amodeis; each holds roughly 232-244 million beneficial Class A shares.",
+  "source": "S-1 L14742",
+  "quote": "Other Selling Stockholders:",
+  "confidence": "primary"
+ },
+ {
+  "topic": "LTBT",
+  "claim": "Class T stock lets the LTBT elect and remove Class T directors, who form a majority of the board.",
+  "source": "S-1 L5886",
+  "quote": "Our Class T common stock will generally entitle the LTBT to elect and remove the Class T directors, who",
+  "confidence": "primary"
+ },
+ {
+  "topic": "LTBT",
+  "claim": "The LTBT is intended as five financially disinterested Trustees; Class T has no economic rights.",
+  "source": "S-1 L5855",
+  "quote": "body of five financially disinterested Trustees, and our Class T common stock has no economic rights. As a",
+  "number": "5 Trustees",
+  "confidence": "primary"
+ },
+ {
+  "topic": "LTBT",
+  "claim": "Trustees may not buy or hold company securities.",
+  "source": "S-1 L5901",
+  "quote": "inaction of our company. The policies of the LTBT prohibit a Trustee from directly purchasing or holding any of",
+  "confidence": "primary"
+ },
+ {
+  "topic": "LTBT",
+  "claim": "Class T stock remains outstanding indefinitely unless amended or redeemed by the board and Trustees or by specified majorities of Class A, E and F.",
+  "source": "S-1 L5888",
+  "quote": "common stock will remain outstanding indefinitely, subject to the right of our board of directors and the Trustees or",
+  "confidence": "primary"
+ },
+ {
+  "topic": "PBC",
+  "claim": "Anthropic is a Delaware public benefit corporation with a novel governance structure the S-1 says has no direct public-company precedent.",
+  "source": "S-1 L5846",
+  "quote": "We have a novel capital and corporate governance structure that has no direct public company precedent. We",
+  "confidence": "primary"
+ },
+ {
+  "topic": "PBC",
+  "claim": "As a PBC, Anthropic must report to stockholders at least biennially on its public benefit performance.",
+  "source": "S-1 L5977",
+  "quote": "report at least biennially on our overall performance",
+  "number": "biennial",
+  "confidence": "primary"
+ },
+ {
+  "topic": "PBC",
+  "claim": "Directors must balance stockholder pecuniary interests, affected stakeholders and the Company Purpose, which may conflict with financial performance and Class A value.",
+  "source": "S-1 L5983",
+  "quote": "Our focus on the long-term best interests of our company as a PBC, and the duty of our",
+  "confidence": "primary"
+ },
+ {
+  "topic": "controlled company",
+  "claim": "Anthropic is a Nasdaq 'controlled company' because the LTBT elects a board majority, so it may skip independent-majority board and fully independent nominating and compensation committee rules.",
+  "source": "S-1 L5947",
+  "quote": "We are considered a \u201ccontrolled company\u201d within the meaning of the Nasdaq Global Select Market corporate",
+  "confidence": "primary"
+ },
+ {
+  "topic": "controlled company",
+  "claim": "It expects to rely on the controlled-company exemption only for its nominating and governance committee; the board currently has a majority of independent directors.",
+  "source": "S-1 L5959",
+  "quote": "Although we qualify as a \u201ccontrolled company,\u201d we do not expect to rely on this exemption except",
+  "confidence": "primary"
+ },
+ {
+  "topic": "governance risk",
+  "claim": "The multi-class structure may make Anthropic ineligible for passive index inclusion, depressing valuation.",
+  "source": "S-1 L5940",
+  "quote": "In addition, our multi-class capital structure may make us ineligible for inclusion in indices, and as a result,",
+  "confidence": "primary"
+ },
+ {
+  "topic": "governance risk",
+  "claim": "The governance structure limits the likelihood of unsolicited mergers, tender offers or proxy contests.",
+  "source": "S-1 L5875",
+  "quote": "Our governance structure is likely to have the effect of limiting the likelihood of an unsolicited merger proposal,",
+  "confidence": "primary"
+ },
+ {
+  "topic": "board",
+  "claim": "Class T directors elected by the LTBT form the board majority; Class A and F, voting together, elect the rest. Directors: Dario and Daniela Amodei (Classes A and F), Hastings, Liddell and Narasimhan (Class T), Razavi (Classes A and F).",
+  "source": "S-1 L12686",
+  "quote": "authorized members of our board of directors. The holders of our Class A common stock and Class F common stock, voting",
+  "confidence": "primary"
+ },
+ {
+  "topic": "board",
+  "claim": "Reed Hastings, former Netflix CEO and chairman, is a director and lead independent director.",
+  "source": "S-1 L12727",
+  "quote": "co-founded Netflix, a global streaming service, and served as Netflix\u2019s Chief Executive Officer and President",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compensation",
+  "claim": "Dario Amodei's 2025 total compensation was $17,958,298 (salary $654,167), including $2,745,874 of personal security; Daniela Amodei's was $16,408,998; CFO Krishna Rao's was $720,250.",
+  "source": "S-1 L13493",
+  "quote": "17,958,298",
+  "number": "$17,958,298",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute supply",
+  "claim": "Risk factor: failure to secure compute could leave Anthropic unable to train competitive models or serve customers.",
+  "source": "S-1 L1741",
+  "quote": "If we are unable to secure adequate compute or if we fail to direct our compute effectively",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute supply",
+  "claim": "Better-capitalized rivals can outbid Anthropic for scarce compute and secure priority chip and cloud allocations.",
+  "source": "S-1 L1763",
+  "quote": "These competitors can outbid us for scarce compute, secure priority",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute supply",
+  "claim": "Anthropic has previously asked cloud partners for more compute than they were willing to provide.",
+  "source": "S-1 L1782",
+  "quote": "we have in the past sought quantities of compute from CSPs in excess of what those partners were willing to",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute supply",
+  "claim": "Anthropic has significantly underestimated compute needs in the past, leaving it capacity constrained.",
+  "source": "S-1 L1846",
+  "quote": "In the past, we have significantly underestimated our compute requirements, which left",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute supply",
+  "claim": "Most compute is bought under multi-year commitments made well ahead of use.",
+  "source": "S-1 L1807",
+  "quote": "The majority of our compute is procured under multi-year commitments that are typically entered into well in",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute commitments",
+  "claim": "Compute deals include minimum purchase and take-or-pay terms that bind Anthropic regardless of utilization.",
+  "source": "S-1 L1861",
+  "quote": "We have entered into, and expect to continue to enter into, long-term agreements for compute and other",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute commitments",
+  "claim": "Revenue is mostly consumption-based and not long-term contracted, while compute obligations run for years. Cross-defaults could accelerate the A&R Credit Agreement and convertible notes.",
+  "source": "S-1 L1877",
+  "quote": "revenue is primarily consumption-based, and much of it is not subject to long-term contractual commitments,",
+  "confidence": "primary"
+ },
+ {
+  "topic": "compute commitments",
+  "claim": "Some financings require exclusive or preferential supply commitments with particular chip suppliers.",
+  "source": "S-1 L1905",
+  "quote": "exclusive or preferential supply commitments with particular chip suppliers with respect to the compute",
+  "confidence": "primary"
+ },
+ {
+  "topic": "chips",
+  "claim": "Most advanced chip manufacturing is concentrated in Taiwan, mainly at TSMC, a geopolitical and natural-disaster risk.",
+  "source": "S-1 L1927",
+  "quote": "The majority of the world\u2019s most advanced chip manufacturing capacity is concentrated in Taiwan, primarily at",
+  "confidence": "primary"
+ },
+ {
+  "topic": "chips",
+  "claim": "High-bandwidth memory comes mainly from SK hynix, Samsung and Micron, with supply possibly locked up by larger buyers.",
+  "source": "S-1 L1943",
+  "quote": "other high performance memory products used in compute infrastructure, are largely manufactured by SK",
+  "confidence": "primary"
+ },
+ {
+  "topic": "chips",
+  "claim": "US export controls on advanced chips could tighten, including limits on where chips are installed or model weights stored.",
+  "source": "S-1 L1986",
+  "quote": "Additionally, the U.S. government has imposed and may continue to impose export controls restricting the sale",
+  "confidence": "primary"
+ },
+ {
+  "topic": "nvidia",
+  "claim": "The risk factors name no NVIDIA-specific dependency; NVIDIA appears only as one of four chip families (Trainium, TPUs, NVIDIA GPUs, AMD GPUs) in the business section. Named chip-supply dependencies are TSMC, memory makers and Broadcom.",
+  "source": "S-1 L457",
+  "quote": "Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs, enabling us to orchestrate workloads to optimize for",
+  "confidence": "primary"
+ },
+ {
+  "topic": "power",
+  "claim": "Electrical power availability is a significant constraint on data center expansion.",
+  "source": "S-1 L1995",
+  "quote": "The availability of sufficient electrical power has emerged as a",
+  "confidence": "primary"
+ },
+ {
+  "topic": "power",
+  "claim": "Anthropic has publicly committed to cover consumer electricity price increases caused by its data centers.",
+  "source": "S-1 L2004",
+  "quote": "We have publicly committed to covering the cost of electricity price increases to",
+  "confidence": "primary"
+ },
+ {
+  "topic": "power",
+  "claim": "Certain planned data centers use on-site natural gas generation with fuel costs passed through to Anthropic.",
+  "source": "S-1 L2056",
+  "quote": "data center facilities rely on dedicated on-site natural gas-fired generation, which exposes us to fuel price",
+  "confidence": "primary"
+ },
+ {
+  "topic": "power",
+  "claim": "Data center infrastructure is currently concentrated primarily in the United States.",
+  "source": "S-1 L2128",
+  "quote": "Our collective data center infrastructure is currently concentrated primarily in the United States, which exposes",
+  "confidence": "primary"
+ },
+ {
+  "topic": "cloud partners",
+  "claim": "Anthropic relies on Amazon, Google, Microsoft and Broadcom, which are also investors, customers and competitors, creating conflict-of-interest risk.",
+  "source": "S-1 L4042",
+  "quote": "We rely on a limited number of CSPs\u2014Amazon.com, Inc. (together with its affiliates, \u201cAmazon\u201d), Google, and",
+  "confidence": "primary"
+ },
+ {
+  "topic": "cloud partners",
+  "claim": "The CSPs are also customers whose purchasing may be shaped by their own competing offerings.",
+  "source": "S-1 L4058",
+  "quote": "whose models, platforms, or applications compete with ours. These CSPs are also our customers, purchasing",
+  "confidence": "primary"
+ },
+ {
+  "topic": "cloud partners",
+  "claim": "Under the Broadcom 2026 Lease Arrangement, five-year rent totals about $125.2 billion excluding interest, non-cancelable except on default.",
+  "source": "S-1 L4107",
+  "quote": "$125.2 billion excluding interest, with rent payable in quarterly installments and payment obligations typically",
+  "number": "$125.2 billion",
+  "confidence": "primary"
+ },
+ {
+  "topic": "debt",
+  "claim": "Total indebtedness was $6.2 billion at June 30, 2026 (Amazon convertible notes).",
+  "source": "S-1 L3253",
+  "quote": "our total indebtedness was $6.2 billion , reflecting the aggregate principal amount outstanding under",
+  "number": "$6.2 billion",
+  "confidence": "primary"
+ },
+ {
+  "topic": "debt",
+  "claim": "Anthropic can issue up to $42.0 billion of convertible notes to Broadcom or a designated financial partner to finance the 2026 lease.",
+  "source": "S-1 L3265",
+  "quote": "In addition, we have the ability to issue, if needed, up to $42.0 billion in aggregate principal",
+  "number": "$42.0 billion",
+  "confidence": "primary"
+ },
+ {
+  "topic": "losses",
+  "claim": "Net losses of $1.5B (2023), $8.3B (2024), $42.0B (2025) and $80.7B for H1 2026, largely from convertible-note and derivative fair-value changes.",
+  "source": "S-1 L3564",
+  "quote": "We have incurred net losses in each year since our founding, including a net loss of $1.5 billion , $8.3 billion ,",
+  "number": "$80.7 billion H1 2026",
+  "confidence": "primary"
+ },
+ {
+  "topic": "competition",
+  "claim": "Primary frontier-model competitors are Google (Alphabet) and OpenAI, which compete for customers, talent, compute and partnerships.",
+  "source": "S-1 L2306",
+  "quote": "\u201cGoogle\u201d) and OpenAI Group PBC (\u201cOpenAI\u201d). These competitors are developing increasingly capable AI",
+  "confidence": "primary"
+ },
+ {
+  "topic": "competition",
+  "claim": "Rivals may sell at zero or negative margins or subsidize AI to gain share.",
+  "source": "S-1 L2325",
+  "quote": "products at zero or negative margins to gain market share, or use their substantial financial resources to",
+  "confidence": "primary"
+ },
+ {
+  "topic": "competition",
+  "claim": "Competitors and customers have tried and will keep trying to distill Anthropic's models.",
+  "source": "S-1 L2338",
+  "quote": "third parties have attempted in the past and will likely continue to attempt to replicate, distill, extract, or",
+  "confidence": "primary"
+ },
+ {
+  "topic": "competition",
+  "claim": "Anthropic calls itself a research lab that has prioritized research over sales and marketing; narrowing model differentiation would undercut that strategy.",
+  "source": "S-1 L2378",
+  "quote": "we are first and foremost a research lab, and our strategy prioritizes frontier research and model capability.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "pricing pressure",
+  "claim": "Open-weight and open-source models could exert pricing pressure and pull customers away.",
+  "source": "S-1 L2360",
+  "quote": "which could exert pricing pressure on our offerings or lead certain customers to adopt open-source alternatives",
+  "confidence": "primary"
+ },
+ {
+  "topic": "pricing pressure",
+  "claim": "Anthropic may have to cut prices, shorten contracts or move to outcome or task-based pricing.",
+  "source": "S-1 L3380",
+  "quote": "we may be required to reduce our prices, offer shorter",
+  "confidence": "primary"
+ },
+ {
+  "topic": "pricing pressure",
+  "claim": "Agentic products are structurally more compute-intensive, so competitive limits on pricing them could hurt compute efficiency and profitability.",
+  "source": "S-1 L3382",
+  "quote": "our agentic offerings are structurally more compute-intensive",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customer concentration",
+  "claim": "No customer exceeded 10% of revenue in the nine months to Sept 30, 2026; the top five customers were about 25%.",
+  "source": "S-1 L3188",
+  "quote": "customers represented approximately 25% of our revenue for the nine months ended September 30, 2026.",
+  "number": "~25% top five",
+  "confidence": "primary"
+ },
+ {
+  "topic": "customer concentration",
+  "claim": "Substantially all revenue comes from Claude models and applications on the Claude Platform.",
+  "source": "S-1 L3108",
+  "quote": "We currently derive substantially all of our revenue from a limited number of products and applications,",
+  "confidence": "primary"
+ },
+ {
+  "topic": "regulation",
+  "claim": "A June 2026 US executive order set a voluntary pre-deployment framework for frontier AI developers; proposed legislation contemplates nationalization or mandatory shutdown of frontier systems.",
+  "source": "S-1 L3820",
+  "quote": "government issued an executive order establishing a voluntary framework for developers of frontier AI models",
+  "confidence": "primary"
+ },
+ {
+  "topic": "regulation",
+  "claim": "The Department of War suggested it could invoke the Defense Production Act to remove Anthropic's limits on autonomous weapons and mass surveillance use.",
+  "source": "S-1 L3865",
+  "quote": "suggested it could invoke the Defense Production Act to compel us to remove the limitations we have",
+  "confidence": "primary"
+ },
+ {
+  "topic": "politics",
+  "claim": "In February 2026 the Secretary of War directed that Anthropic be designated a supply-chain risk to national security, after a presidential directive for agencies to stop using its technology.",
+  "source": "S-1 L3960",
+  "quote": "Secretary of War directed the Department of War to designate us as a \u201csupply-chain risk to national security\u201d",
+  "confidence": "primary"
+ },
+ {
+  "topic": "politics",
+  "claim": "On Aug 27, 2026 the N.D. Cal. court largely granted summary judgment for Anthropic against the Challenged Actions.",
+  "source": "S-1 L3973",
+  "quote": "August 27, 2026, obtained an order from the United States District Court for the Northern District of California that",
+  "confidence": "primary"
+ },
+ {
+  "topic": "politics",
+  "claim": "On Sept 25, 2026 the D.C. Circuit ruled 2-1 the Section 4713 supply-chain designation was proper; Anthropic petitioned for rehearing en banc.",
+  "source": "S-1 L3982",
+  "quote": "On September 25, 2026, in a 2-1 split decision, the D.C. Circuit Court of Appeals denied our petition for review,",
+  "confidence": "primary"
+ },
+ {
+  "topic": "regulation",
+  "claim": "In June 2026 the Commerce Department imposed worldwide export restrictions on Fable 5 and Mythos 5, which Anthropic disabled for all customers until lifted.",
+  "source": "S-1 L3990",
+  "quote": "Further, in June 2026, the U.S. Department of Commerce imposed worldwide export restrictions on our Fable",
+  "confidence": "primary"
+ },
+ {
+  "topic": "safety",
+  "claim": "Using its own models to speed AI R&D ('closing the loop') could let capabilities outpace safety measures.",
+  "source": "S-1 L1660",
+  "quote": "our research processes, a recursive dynamic we refer to as \u201cclosing the loop,\u201d in which successive versions of our",
+  "confidence": "primary"
+ },
+ {
+  "topic": "safety",
+  "claim": "Precautionary measures have included delaying model releases, for example Mythos through Project Glasswing; these could slow gains versus rivals.",
+  "source": "S-1 L1685",
+  "quote": "models and limiting their initial availability, such as with Mythos through Project Glasswing",
+  "confidence": "primary"
+ },
+ {
+  "topic": "safety",
+  "claim": "Most capable models could meaningfully assist malicious actors seeking chemical or biological weapons.",
+  "source": "S-1 L2551",
+  "quote": "capabilities that could provide meaningful assistance to malicious actors seeking to develop chemical,",
+  "confidence": "primary"
+ },
+ {
+  "topic": "safety",
+  "claim": "In September 2025 a Chinese state-sponsored group manipulated Claude Code to attempt infiltration of roughly 30 global targets.",
+  "source": "S-1 L2561",
+  "quote": "For example, in September 2025, we detected and assessed with high confidence that a Chinese state-sponsored",
+  "number": "~30 targets",
+  "confidence": "primary"
+ },
+ {
+  "topic": "safety",
+  "claim": "S-1 acknowledges concerns that advanced AI could pose catastrophic or existential risks to humanity.",
+  "source": "S-1 L2652",
+  "quote": "and security measures, pose catastrophic or existential risks to humanity, particularly if such systems were",
+  "confidence": "primary"
+ },
+ {
+  "topic": "model development",
+  "claim": "Anthropic has had failed or underperforming training runs and may again.",
+  "source": "S-1 L1701",
+  "quote": "We have in the past experienced , and may in the future experience, such failed or underperforming training runs,",
+  "confidence": "primary"
+ }
+]

@@ -1,0 +1,244 @@
+[
+ {
+  "topic": "IPO filing",
+  "claim": "Anthropic, PBC announced it filed a registration statement on Form S-1 with the SEC for a proposed IPO of Class A common stock on Oct 26, 2026, to list on Nasdaq Global Select Market under ticker ANT. Share count and price range not yet determined. Goldman Sachs and Morgan Stanley are listed as prospectus contacts.",
+  "source": "Anthropic, 'Anthropic files S-1 with the SEC', 2026-10-26",
+  "url": "https://www.anthropic.com/news/s1-sec",
+  "confidence": "primary",
+  "quote": "have not yet been determined"
+ },
+ {
+  "topic": "IPO filing",
+  "claim": "EDGAR full-text search lists Anthropic, PBC (CIK 0002130357) S-1 filed 2026-10-26, accession 0001628280-26-067168, with 34 documents (S-1 plus exhibits). The S-1 main document exceeded the fetch size limit (10 MB), so S-1 content below is via secondary coverage, not read directly.",
+  "source": "SEC EDGAR full-text search result (efts), retrieved 2026-10-27",
+  "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "confidence": "primary"
+ },
+ {
+  "topic": "IPO syndicate and control",
+  "claim": "Goldman Sachs and Morgan Stanley lead a 22-bank syndicate; price range, share count, raise size and valuation are blank in the filing. Seven co-founders hold 50.1% of the vote via a single Class F share held by a Founder LLC; Long-Term Benefit Trust elects a board majority. (Substack summary of S-1, not verified against EDGAR.)",
+  "source": "The VC Corner, 'Anthropic S-1', Oct 2026",
+  "url": "https://www.thevccorner.com/p/anthropic-s1-ipo-filing",
+  "confidence": "secondary",
+  "quote": "The filing leaves the price range, share count, raise size and valuation blank."
+ },
+ {
+  "topic": "Financials",
+  "claim": "S-1 shows $16.3B revenue in H1 2026 (vs $4.6B for all 2025), net loss $80.7B through June (mostly accounting charges), 2025 net loss $42B; about one-fifth of revenue from two customers; $9B spent on AI infrastructure in H1 2026 vs $7.3B in 2025.",
+  "source": "Yahoo Finance (Daniel Howley), 2026-10-26",
+  "url": "https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html",
+  "confidence": "secondary",
+  "quote": "generated $16.3 billion in revenue in the six-month period that ended in June"
+ },
+ {
+  "topic": "Financials",
+  "claim": "Per Yahoo Finance live blog: Q2 2026 revenue $11.6B (Q1 $4.7B); Q2 operating income $974M after $1.7B Q1 operating loss; compute costs $5.6B in Q2 vs $3.4B in Q1; headcount about 5,300 as of Sept 30.",
+  "source": "Yahoo Finance live blog, 2026-10-26",
+  "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Compute deals - total",
+  "claim": "Yahoo says Anthropic plans to spend upward of $430B on locked-in cloud compute deals, as much as $637B including cancellable and smaller deals. Substack summary says the S-1 (pp.171-172) names Google, Amazon, Microsoft, SpaceXAI, Broadcom, Nscale and Lambda as counterparties, with no per-vendor split for Google TPU, AWS Trainium or Microsoft/NVIDIA.",
+  "source": "Yahoo Finance 2026-10-26; The VC Corner Oct 2026",
+  "url": "https://www.thevccorner.com/p/anthropic-s1-ipo-filing",
+  "confidence": "secondary",
+  "quote": "upward of $430 billion on locked-in cloud computing deals"
+ },
+ {
+  "topic": "Compute deals - Amazon/Google",
+  "claim": "MarketBeat reports S-1 non-cancelable compute commitments of roughly $110B with Amazon and $114.5B with Alphabet (sum $224.5B; the same article also says roughly $221B). No amounts disclosed for NVIDIA or Broadcom.",
+  "source": "MarketBeat (Jeffrey Neal Johnson), 2026-10-26",
+  "url": "https://www.marketbeat.com/articles/anthropics-ipo-filing-reveals-a-massive-opportunity-for-ai-infrastructure-giants/",
+  "confidence": "secondary",
+  "quote": "roughly $110 billion in non-cancelable cloud compute agreements with Amazon"
+ },
+ {
+  "topic": "Compute deals - SpaceXAI/NVIDIA GPUs",
+  "claim": "S-1 (per Yahoo live blog) says Anthropic agreed to spend up to $120.5B with SpaceXAI for NVIDIA GPU capacity, about $3.1B a month once all capacity is delivered (expected Dec 2026). A separate Sept 6 analysis put the SpaceX deal at $45B (about $1.25B per month); the two figures differ.",
+  "source": "Yahoo Finance live blog 2026-10-26; aiweekly.co (The Information) 2026-09-06",
+  "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+  "confidence": "secondary",
+  "quote": "we agreed to spend an aggregate of up to $120.5 billion over terms extending into 2029"
+ },
+ {
+  "topic": "Compute deals - cloud marketplace",
+  "claim": "Anthropic generated 48% of H1 2026 revenue through cloud marketplace sales from Google, Amazon and Microsoft, per Yahoo coverage cited by MarketAlleys.",
+  "source": "MarketAlleys citing Yahoo, 2026-10-26",
+  "url": "https://www.marketalleys.com/post/anthropic-ipo-prospectus-details-alphabet-and-amazon-stakes-2026-10-26",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Compute deals - tally",
+  "claim": "The Information (Sept 6) tallied 14.8 GW of compute worth up to $517B since October 2025: AWS 5 GW/$100B/10 yrs (Trainium3); Google/Broadcom 5 GW/$200B/5 yrs; Fluidstack $50B; Nscale $45B; SpaceX $45B; Lambda $35B. Itemized values sum to $475B, so about $42B unattributed. Take-or-pay, not on balance sheet.",
+  "source": "AI Weekly summarizing The Information, 2026-09-06",
+  "url": "https://aiweekly.co/alerts/the-information-anthropic-has-locked-in-148-gw-of-compute-worth-up-to-517b",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Compute deals - Google TPU",
+  "claim": "Oct 23, 2025: Anthropic announced expansion to use up to one million Google TPUs, bringing well over a gigawatt online in 2026, worth tens of billions of dollars.",
+  "source": "Anthropic, 2025-10-23",
+  "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
+  "confidence": "primary",
+  "quote": "worth tens of billions of dollars"
+ },
+ {
+  "topic": "Compute deals - Google/Broadcom TPU",
+  "claim": "April 7, 2026: Anthropic signed a multi-gigawatt TPU deal with Google and Broadcom, capacity coming online from 2027; dollar amount not stated in that article. A Broadcom filing reportedly cites about 3.5 GW starting 2027.",
+  "source": "The Decoder, 2026-04-07",
+  "url": "https://the-decoder.com/anthropic-signs-multi-gigawatt-tpu-deal-with-google-and-broadcom/",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Compute deals - AWS Trainium",
+  "claim": "April 20-21, 2026: Amazon to invest up to $33B in Anthropic ($5B new equity at $350B pre-money plus up to $20B on milestones, on top of $8B earlier); Anthropic to spend over $100B on AWS over a decade, up to 5 GW through 2036 on Trainium2 to Trainium4; nearly 1 GW of Trainium2/3 expected by end-2026; TSMC has not yet fabricated all chips for 5 GW.",
+  "source": "Global Data Center Hub, 2026-04-27",
+  "url": "https://www.globaldatacenterhub.com/p/amazon-commits-up-to-33b-to-anthropic",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Compute deals - Microsoft/NVIDIA",
+  "claim": "Nov 18, 2025: Anthropic committed to buy $30B of Azure compute and up to 1 GW more, initially on NVIDIA Grace Blackwell and Vera Rubin systems; NVIDIA to invest up to $10B and Microsoft up to $5B.",
+  "source": "Anthropic, 2025-11-18",
+  "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
+  "confidence": "primary",
+  "quote": "committed to purchase $30 billion of Azure compute capacity"
+ },
+ {
+  "topic": "Compute deals - Lambda",
+  "claim": "Sept 1, 2026: Bloomberg Law reported a $35B Anthropic-Lambda computing deal (Nvidia-backed Lambda); Texas data center in Nueces County developed by Hut 8; per WSJ, Nvidia would hold the lease. Term, MW and chip details were behind the paywall.",
+  "source": "Bloomberg Government/Law, 2026-09-01",
+  "url": "https://news.bgov.com/tech-and-telecom-law/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic Direct",
+  "claim": "S-1 describes Anthropic Direct, in which Anthropic leases and operates its own AI data centers and expects it to become a growing share of compute investment.",
+  "source": "Yahoo Finance live blog, 2026-10-26",
+  "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "NVIDIA revenue",
+  "claim": "NVIDIA Q2 FY2027 (quarter ended July 26, 2026): revenue about $96.2B (+106% y/y, +18% q/q), data center about $89.0B (+117% y/y), gross margin about 75%; Q3 guide $108.0B +/-2%. Net income figures differ across outlets, and the official press release was not fetched.",
+  "source": "iPhone in Canada / aggregated search results, 2026-08-27",
+  "url": "https://www.iphoneincanada.ca/2026/08/27/nvidia-blows-past-expectations-with-96-2-billion-revenue-in-q2-2027/",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "NVIDIA market cap",
+  "claim": "NVIDIA closed at a record $238.90 on Oct 5, 2026 (market cap about $5.7-5.78T, about 3.8% short of $6T); on Sept 28 it raised buyback authorization by $150B to a $235B total.",
+  "source": "Crypto Briefing (Diego Almada Lopez), 2026-10-06",
+  "url": "https://cryptobriefing.com/nvidia-nears-6-trillion-market-cap/",
+  "confidence": "secondary",
+  "quote": "Nvidia is closing in on a number no public company has ever reached."
+ },
+ {
+  "topic": "NVIDIA market cap",
+  "claim": "On Oct 26, 2026 NVIDIA market cap was about $5.2-5.26T at about $217.81 per share (+0.84%), roughly 9% below the Oct 5 record close. Sources disagree on that day's gain (CompaniesMarketCap about +0.84% vs Reuters nearly +3%).",
+  "source": "CompaniesMarketCap, retrieved 2026-10-27",
+  "url": "https://companiesmarketcap.com/nvidia/marketcap/",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Stock reaction to S-1",
+  "claim": "Oct 26 session: NVDA nearly +3%, MSFT and AMZN nearly +1% each, CoreWeave +5.7%, Nebius +2.3%, IREN +3%, Micron +3%, AMD +2.5%, Broadcom +3%; Philadelphia Semiconductor Index up over 3% (Reuters via Investing.com).",
+  "source": "Reuters via Investing.com, 2026-10-26",
+  "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rise-as-anthropic-nears-wall-street-debut-amid-investor-caution-4973247",
+  "confidence": "secondary",
+  "quote": "debt-fueled spending on infrastructure"
+ },
+ {
+  "topic": "Stock reaction to S-1",
+  "claim": "Alphabet closed down 1.06% to $316.80 and Amazon up 0.44% to $249.09 on Oct 26 per Finnhub data, versus the near +1% Amazon move in Reuters midday. Nasdaq Composite up about 0.8%, S&P 500 about 0.7%. Yahoo attributes Lumentum, Tesla and Microsoft moves to other news.",
+  "source": "MarketAlleys (Finnhub, 20:00 UTC); Yahoo Finance live blog 2026-10-26",
+  "url": "https://www.marketalleys.com/post/anthropic-ipo-prospectus-details-alphabet-and-amazon-stakes-2026-10-26",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "IPO size/valuation/timing",
+  "claim": "Bloomberg (Oct 1) reported Anthropic aims to list before Thanksgiving (Nov 26), roadshow as early as week of Nov 9, fair valuation $1.8-2T per some investors; raise expected to match or exceed SpaceX's record IPO.",
+  "source": "Tiger Brokers/Deep News citing Bloomberg, 2026-10-02",
+  "url": "https://www.itiger.com/news/1130016239",
+  "confidence": "secondary",
+  "quote": "The people said Anthropic may launch its formal roadshow as early as the week of November 9."
+ },
+ {
+  "topic": "IPO size/valuation/timing",
+  "claim": "Reuters (Oct 15) reported investors at Oct 14 SF investor day discuss about $1.5T IPO valuation, down from about $2T, after Q3 revenue grew 45% to $16.8B (slower sequentially than Q2). Debut likely after the Nov midterms.",
+  "source": "Reuters via AI Weekly 2026-10-15; Let's Data Science 2026-10-16",
+  "url": "https://aiweekly.co/alerts/reuters-anthropic-ipo-investors-push-valuation-down-to-15t-from-2t-over-q3",
+  "confidence": "secondary",
+  "quote": "slower sequentially than Q2's near-doubling to $11.6B"
+ },
+ {
+  "topic": "IPO size",
+  "claim": "Reuters/Bloomberg (Sept 11) reported Anthropic seeking up to about $100B at about $2T, with NVIDIA considering up to $10B as anchor investor. Prior private round: $65B Series H at $965B post-money (May 2026). SpaceX raised $75B on June 12, the largest IPO to date, per search summary.",
+  "source": "Bloomberg via Bloomberg Government, 2026-09-11",
+  "url": "https://news.bgov.com/capital-markets/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters",
+  "confidence": "secondary",
+  "quote": "Nvidia Corp. is considering investing as much as $10 billion in Anthropic PBC's initial public offering"
+ },
+ {
+  "topic": "IPO lockup",
+  "claim": "Per Yahoo live blog, some insiders can sell on the first trading day; the rest unlock in more than 20 staggered windows over about a year. SpaceX fell about 15% in its first week in the Nasdaq-100.",
+  "source": "Yahoo Finance live blog, 2026-10-26",
+  "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Power backlash and midterms",
+  "claim": "AFP (Aug 30): at least 21 races in 18 states ran TV ads mentioning data centers, split almost evenly by party; data center demand raised capacity costs $9.3B (+174%) in a year on the grid serving Ohio and 12 other states; NY imposed a year-long moratorium on new hyperscale facilities; Gov. Abbott froze new Texas projects pending review.",
+  "source": "AFP via Hurriyet Daily News, 2026-08-30",
+  "url": "https://www.hurriyetdailynews.com/data-center-backlash-scrambles-us-midterm-politics-226211",
+  "confidence": "secondary",
+  "quote": "sleeper issue"
+ },
+ {
+  "topic": "Power backlash and midterms",
+  "claim": "Oct 10: voter anger over data-center electricity impact growing ahead of midterms; Oklahoma and Louisiana moratoriums under discussion. Prediction-market odds on the page: Oklahoma 2.5% by Jan 1 2027, Louisiana 3.4% by Jan 1 2027.",
+  "source": "Crypto Briefing (Estefano Gomez), 2026-10-10",
+  "url": "https://cryptobriefing.com/us-midterms-voter-anger-over-data-centers-electricity-impact-grows/",
+  "confidence": "secondary",
+  "quote": "voter dissatisfaction regarding rising electricity costs"
+ },
+ {
+  "topic": "Anthropic power pledge",
+  "claim": "Feb 11, 2026: Anthropic pledged to pay for grid upgrades for its data centers, bring new generation online, and cover demand-driven price effects on consumers.",
+  "source": "Anthropic, 2026-02-11",
+  "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
+  "confidence": "primary",
+  "quote": "cover demand-driven price effects from our data centers"
+ },
+ {
+  "topic": "Permitting/grid regulation",
+  "claim": "FERC on June 18, 2026 issued six show-cause orders to RTOs/ISOs on large-load interconnection and co-location rather than a final rule, following the DOE Oct 23, 2025 ANOPR (loads of 20 MW or more). No October 2026 FERC action found.",
+  "source": "Search results summarizing Crowell / Sidley / FERC items, retrieved 2026-10-27",
+  "url": "https://www.crowell.com/en/insights/client-alerts/in-a-move-affecting-the-future-of-data-centers-doe-directs-ferc-to-act-on-large-load-interconnections",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "AI regulation proposals",
+  "claim": "As of Sept 20, no federal statute preempts state AI laws. 'Great American AI Act' is a House discussion draft (released June 4) proposing a 3-year preemption of state laws on AI model development, stalled since June. EO 14365 (Dec 11, 2025) directs a DOJ task force to challenge state AI laws. Speaker Johnson said Congress shouldn't 'panic' into emergency AI regulation.",
+  "source": "CASRAI, 2026-09-20",
+  "url": "https://casrai.org/news/federal-ai-moratorium-state-preemption-fight-2026",
+  "confidence": "secondary",
+  "quote": "bipartisan 'Great American AI Act' preemption draft has stalled since June"
+ },
+ {
+  "topic": "AI regulation and political risk in S-1",
+  "claim": "S-1 risk factors include a Pentagon supply-chain-threat designation (Feb 2026) that Anthropic is suing over, a federal directive suspending foreign-national access to Fable 5 and Mythos 5 models, and a regulatory warning. Commerce Secretary Lutnick said Sept 2 Anthropic is 'back on the right side' with the White House.",
+  "source": "Yahoo Finance, 2026-10-26",
+  "url": "https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html",
+  "confidence": "secondary",
+  "quote": "Our business is subject to an evolving and uncertain regulatory and political environment"
+ },
+ {
+  "topic": "AI politics spending",
+  "claim": "Search summary: AI-linked super PACs raised over $200M and spent $44M on 2026 races; Leading the Future (industry, about $31M mid-July); Public First Action ($15M Republican project) received a $20M Anthropic gift. Anthropic says funds are for public education. Source page not fetched.",
+  "source": "Search results summarizing techstrong.ai / The Hill / WebProNews, mid-2026",
+  "url": "https://techstrong.ai/articles/ai-industry-pours-millions-into-2026-midterms-to-head-off-state-regulations/",
+  "confidence": "rumor"
+ }
+]

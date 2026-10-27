@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 670" width="960" height="670" role="img" aria-labelledby="t d">
+  <title id="t">Implied price-to-sales at reported valuations on two revenue bases</title>
+  <desc id="d">Vertical bars. On H1 2026 revenue doubled ($32.6B): 46.1x at $1.5T and 61.4x at $2T. On Q2 2026 revenue times four ($46.2B): 32.5x at $1.5T and 43.3x at $2T. Dashed reference lines at 30x (on about $100B of forward revenue) and about 55x (basis not stated). Revenue bases are unaudited interim S-1 figures.</desc>
+  <style>
+    svg{
+      --bg:#fbfaf7; --text:#1f2328; --muted:#5b616b; --rule:#d9dbde;
+      --api:#d97757; --sub:#6a8caf; --hw:#7a8a5a; --neutral:#8a8f98; --loss:#c4554d; --cash:#3f8f6b;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    }
+    @media (prefers-color-scheme: dark){
+      svg{ --bg:#17181b; --text:#eceef0; --muted:#a9aeb6; --rule:#3a3d42; }
+    }
+    .bg{fill:var(--bg)}
+    .title{font-size:24px;font-weight:700;fill:var(--text)}
+    .sub{font-size:15px;fill:var(--muted)}
+    .axis{font-size:14px;fill:var(--muted)}
+    .grid{stroke:var(--rule);stroke-width:1}
+    .base{stroke:var(--muted);stroke-width:1.5}
+    .b15{fill:var(--neutral);fill-opacity:.6}
+    .b20{fill:var(--neutral)}
+    .val{font-size:18px;font-weight:700;fill:var(--text);text-anchor:middle}
+    .vl{font-size:16px;font-weight:700;fill:var(--text);text-anchor:middle}
+    .grp{font-size:15px;fill:var(--text);text-anchor:middle}
+    .grp2{font-size:14px;fill:var(--muted);text-anchor:middle}
+    .refline{stroke:var(--loss);stroke-width:2;stroke-dasharray:7 5}
+    .reflab{font-size:16px;font-weight:700;fill:var(--loss)}
+    .refnote{font-size:14px;fill:var(--muted)}
+    .call{font-size:15px;fill:var(--text)}
+    .cap{font-size:14px;fill:var(--muted)}
+    .bar{transform-box:fill-box;transform-origin:50% 100%}
+    .lab{transform-box:fill-box}
+    @keyframes rise{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    @keyframes liftin{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes fadein{from{opacity:0}to{opacity:1}}
+    .play .bar{animation:rise 1.2s ease-out both}
+    .play .lab{animation:liftin 1.2s ease-out both}
+    .play .ref{animation:fadein .8s ease-out both;animation-delay:1.6s}
+    .play .k0 .bar,.play .k0 .lab{animation-delay:.0s}
+    .play .k1 .bar,.play .k1 .lab{animation-delay:.2s}
+    .play .k2 .bar,.play .k2 .lab{animation-delay:.4s}
+    .play .k3 .bar,.play .k3 .lab{animation-delay:.6s}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+
+  <rect class="bg" x="0" y="0" width="960" height="670"/>
+  <text class="title" x="20" y="38">Is the valuation too high? Price-to-sales at reported values</text>
+  <text class="sub" x="20" y="64">Implied multiple = valuation / annualized revenue. Two ways of annualizing, two reported valuations.</text>
+
+  <!-- axis: baseline y=450, 4.2 px per 1x -->
+  <g>
+    <line class="grid" x1="70" y1="366" x2="740" y2="366"/>
+    <line class="grid" x1="70" y1="282" x2="740" y2="282"/>
+    <line class="grid" x1="70" y1="198" x2="740" y2="198"/>
+    <line class="base" x1="70" y1="450" x2="740" y2="450"/>
+    <text class="axis" x="62" y="455" text-anchor="end">0x</text>
+    <text class="axis" x="62" y="371" text-anchor="end">20x</text>
+    <text class="axis" x="62" y="287" text-anchor="end">40x</text>
+    <text class="axis" x="62" y="203" text-anchor="end">60x</text>
+  </g>
+
+  <!-- bars -->
+  <g class="k0">
+    <rect class="bar b15" x="120" y="257" width="110" height="193" rx="3"/>
+    <text class="val lab" x="175" y="246">46.1x</text>
+    <text class="vl" x="175" y="474">$1.5T</text>
+  </g>
+  <g class="k1">
+    <rect class="bar b20" x="250" y="192" width="110" height="258" rx="3"/>
+    <text class="val lab" x="305" y="181">61.4x</text>
+    <text class="vl" x="305" y="474">$2T</text>
+  </g>
+  <g class="k2">
+    <rect class="bar b15" x="440" y="314" width="110" height="136" rx="3"/>
+    <text class="val lab" x="495" y="303">32.5x</text>
+    <text class="vl" x="495" y="474">$1.5T</text>
+  </g>
+  <g class="k3">
+    <rect class="bar b20" x="570" y="268" width="110" height="182" rx="3"/>
+    <text class="val lab" x="625" y="257">43.3x</text>
+    <text class="vl" x="625" y="474">$2T</text>
+  </g>
+
+  <!-- group labels -->
+  <text class="grp" x="240" y="502">Revenue base: H1 2026 x 2</text>
+  <text class="grp2" x="240" y="522">= $32.6B ($16.3B x 2)</text>
+  <text class="grp" x="560" y="502">Revenue base: Q2 2026 x 4</text>
+  <text class="grp2" x="560" y="522">= $46.2B (Q2 is $11.6B, rounded)</text>
+
+  <!-- reference lines: 55x y=219, 30x y=324 -->
+  <g class="ref">
+    <line class="refline" x1="70" y1="219" x2="740" y2="219"/>
+    <text class="reflab" x="752" y="219">~55x</text>
+    <text class="refnote" x="752" y="239">Palantir and Nebius,</text>
+    <text class="refnote" x="752" y="257">per some analysts</text>
+    <line class="refline" x1="70" y1="324" x2="740" y2="324"/>
+    <text class="reflab" x="752" y="324">30x</text>
+    <text class="refnote" x="752" y="344">annual revenue, the</text>
+    <text class="refnote" x="752" y="362">$3T case some investors</text>
+    <text class="refnote" x="752" y="380">argue (reported)</text>
+  </g>
+
+  <text class="call" x="20" y="562">The 30x line is on roughly $100B of forward revenue (3T / 30, my arithmetic); the basis of ~55x is not stated.</text>
+  <text class="call" x="20" y="586">Bars use only the two S-1 revenue bases. Annualizing a fast-growing quarter is a choice, not a forecast.</text>
+  <text class="axis" x="20" y="610">The $1.5T to $2T range is reported, and sources disagree. The S-1 leaves price range and share count blank.</text>
+  <text class="cap" x="20" y="636" textLength="920" lengthAdjust="spacingAndGlyphs">Sources: S-1 revenue (Management's Discussion and Analysis; unaudited interim, H1 and Q2 2026); valuations as reported (TLDR, The Daily Upside, Oct 2026);</text>
+  <text class="cap" x="20" y="654">30x and ~55x as reported by Morning Brew citing the Financial Times, Aug 2026. Multiples are my arithmetic. Not investment advice.</text>
+</svg>

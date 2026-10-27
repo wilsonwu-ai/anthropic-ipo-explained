@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" role="img" aria-labelledby="t d">
+  <title id="t">Anthropic's compute commitments by counterparty versus H1 2026 revenue</title>
+  <desc id="d">Horizontal bars of compute commitments named in the S-1: Broadcom leases about $161.2B, SpaceXAI up to $120.5B, Google at least $114.5B, Amazon at least $110.0B, Microsoft at least $44.9B, Nscale up to $44.6B, Lambda about $41.3B, AMD expected to exceed $20.0B. Reference bar: H1 2026 revenue of $16.3B.</desc>
+  <style>
+    svg{
+      --bg:#fbfaf7; --text:#1f2328; --muted:#5b616b; --rule:#d9dbde;
+      --api:#d97757; --sub:#6a8caf; --hw:#7a8a5a; --neutral:#8a8f98; --loss:#c4554d; --cash:#3f8f6b;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    }
+    @media (prefers-color-scheme: dark){
+      svg{ --bg:#17181b; --text:#eceef0; --muted:#a9aeb6; --rule:#3a3d42; }
+    }
+    .bg{fill:var(--bg)}
+    .title{font-size:24px;font-weight:700;fill:var(--text)}
+    .sub{font-size:15px;fill:var(--muted)}
+    .name{font-size:16px;font-weight:700;fill:var(--text)}
+    .note{font-size:14px;fill:var(--muted)}
+    .val{font-size:16px;font-weight:700;fill:var(--text)}
+    .call{font-size:15px;fill:var(--text)}
+    .cap{font-size:14px;fill:var(--muted)}
+    .rule{stroke:var(--rule);stroke-width:1.5}
+    .firm{fill:var(--hw)}
+    .soft{fill:var(--hw);fill-opacity:.5;stroke:var(--hw);stroke-width:2;stroke-dasharray:6 4}
+    .ref{fill:var(--neutral)}
+    .bar{transform-box:fill-box;transform-origin:0 50%}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @keyframes fadein{from{opacity:0}to{opacity:1}}
+    .play .bar{animation:grow 1.2s ease-out both}
+    .play .val{animation:fadein .6s ease-out both}
+    .play .r0 .bar{animation-delay:.0s} .play .r0 .val{animation-delay:1.0s}
+    .play .r1 .bar{animation-delay:.12s} .play .r1 .val{animation-delay:1.12s}
+    .play .r2 .bar{animation-delay:.24s} .play .r2 .val{animation-delay:1.24s}
+    .play .r3 .bar{animation-delay:.36s} .play .r3 .val{animation-delay:1.36s}
+    .play .r4 .bar{animation-delay:.48s} .play .r4 .val{animation-delay:1.48s}
+    .play .r5 .bar{animation-delay:.6s} .play .r5 .val{animation-delay:1.6s}
+    .play .r6 .bar{animation-delay:.72s} .play .r6 .val{animation-delay:1.72s}
+    .play .r7 .bar{animation-delay:.84s} .play .r7 .val{animation-delay:1.84s}
+    .play .r8 .bar{animation-delay:1.2s} .play .r8 .val{animation-delay:2.2s}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+
+  <rect class="bg" x="0" y="0" width="960" height="660"/>
+  <text class="title" x="20" y="38">The compute bill: what Anthropic has promised to pay</text>
+  <text class="sub" x="20" y="64">Solid bars are firm minimums or fixed rent. Faded dashed bars are "up to" or expected amounts.</text>
+
+  <!-- rows: baseline y = 90 + i*54 -->
+  <g class="row r0">
+    <text class="name" x="20" y="108">Broadcom</text>
+    <text class="note" x="20" y="127">TPU leases, rent excl. interest</text>
+    <rect class="bar firm" x="250" y="94" width="548" height="30" rx="3"/>
+    <text class="val" x="808" y="115">~$161.2B</text>
+  </g>
+  <g class="row r1">
+    <text class="name" x="20" y="162">SpaceXAI</text>
+    <text class="note" x="20" y="181">up to, NVIDIA GPUs, into 2029</text>
+    <rect class="bar soft" x="250" y="148" width="410" height="30" rx="3"/>
+    <text class="val" x="670" y="169">up to $120.5B</text>
+  </g>
+  <g class="row r2">
+    <text class="name" x="20" y="216">Google</text>
+    <text class="note" x="20" y="235">at least, Apr 2026 to Jul 2033</text>
+    <rect class="bar firm" x="250" y="202" width="389" height="30" rx="3"/>
+    <text class="val" x="649" y="223">at least $114.5B</text>
+  </g>
+  <g class="row r3">
+    <text class="name" x="20" y="270">Amazon</text>
+    <text class="note" x="20" y="289">at least, May 2026 to Apr 2036</text>
+    <rect class="bar firm" x="250" y="256" width="374" height="30" rx="3"/>
+    <text class="val" x="634" y="277">at least $110.0B</text>
+  </g>
+  <g class="row r4">
+    <text class="name" x="20" y="324">Microsoft</text>
+    <text class="note" x="20" y="343">at least, Nov 2026 to May 2033</text>
+    <rect class="bar firm" x="250" y="310" width="153" height="30" rx="3"/>
+    <text class="val" x="413" y="331">at least $44.9B</text>
+  </g>
+  <g class="row r5">
+    <text class="name" x="20" y="378">Nscale</text>
+    <text class="note" x="20" y="397">up to, NVIDIA GPUs, into 2033</text>
+    <rect class="bar soft" x="250" y="364" width="152" height="30" rx="3"/>
+    <text class="val" x="412" y="385">up to ~$44.6B</text>
+  </g>
+  <g class="row r6">
+    <text class="name" x="20" y="432">Lambda</text>
+    <text class="note" x="20" y="451">about, NVIDIA GPUs, into 2034</text>
+    <rect class="bar firm" x="250" y="418" width="140" height="30" rx="3"/>
+    <text class="val" x="400" y="439">~$41.3B</text>
+  </g>
+  <g class="row r7">
+    <text class="name" x="20" y="486">AMD (Helios)</text>
+    <text class="note" x="20" y="505">no fixed commitment, expected</text>
+    <rect class="bar soft" x="250" y="472" width="68" height="30" rx="3"/>
+    <text class="val" x="328" y="493">expected to exceed $20.0B</text>
+  </g>
+
+  <line class="rule" x1="20" y1="522" x2="940" y2="522"/>
+
+  <g class="row r8">
+    <text class="name" x="20" y="552">Reference: H1 2026 revenue</text>
+    <text class="note" x="20" y="571">six months to June 30, 2026</text>
+    <rect class="bar ref" x="250" y="538" width="55" height="30" rx="3"/>
+    <text class="val" x="315" y="559">$16.3B</text>
+  </g>
+
+  <text class="call" x="20" y="602">My calculation: the four largest are 6.7x to 9.9x H1 revenue ($110.0B / $16.3B up to $161.2B / $16.3B).</text>
+  <text class="note" x="20" y="624">Commitments run many years, so this shows scale, not a like-for-like ratio. No total is shown: the kinds of amount differ.</text>
+  <text class="cap" x="20" y="646" textLength="920" lengthAdjust="spacingAndGlyphs">Source: Anthropic S-1, Management's Discussion and Analysis; H1 2026 revenue: S-1, Management's Discussion and Analysis (unaudited interim).</text>
+</svg>

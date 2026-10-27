@@ -1,0 +1,171 @@
+[
+ {
+  "topic": "OpenAI: Pro $200 cut",
+  "claim": "Reported (not found on an OpenAI page) cut to the $200 ChatGPT Pro plan: from Oct 30, 2026 included ChatGPT Work/Codex usage falls from 20x to 10x Plus, and weekly GPT-6 Pro messages in Chat drop from 200 to 100. Existing $200 subscribers keep current limits through Oct 29.",
+  "source": "OfficeChai, 2026-10-01",
+  "url": "https://officechai.com/ai/openai-to-decrease-limits-on-pro-plan-from-20-times-to-10-times-of-plus-plan/",
+  "quote": "included usage in ChatGPT Work and Codex drops from 20x to 10x the Plus allowance",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "OpenAI: Pro $200 pause",
+  "claim": "OpenAI paused new sign-ups for the $200 Pro plan on Sept 10, 2026, citing strain from GPT-6 Astra demand. Existing subscribers were unaffected. Sottiaux announced it on X.",
+  "source": "TechCrunch, 2026-09-10",
+  "url": "https://www.techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+  "quote": "We wanted to take the smallest step that allows us to continue giving the broadest access possible.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "OpenAI: Pro $200 reopening at half usage",
+  "claim": "OpenAI reopened the $200 Pro plan to new subscribers on Sept 29-30, 2026 at the same price with smaller usage. Sottiaux said it nets out to half the API-dollar value of the old plan. Multiples vs Plus are now Pro $100 = 5x and Pro $200 = 10x (previously 20x). Existing $200 subscribers keep 20x for a while and get extra credits (amount unpublished).",
+  "source": "pasqualepillitteri.it, 2026-09-30 (relaying Sottiaux on X)",
+  "url": "https://pasqualepillitteri.it/en/news/19231/openai-pro-200-dollars-back-half-api-spend-codex",
+  "quote": "Tomorrow we are re-opening the Pro $200 subscriptions to new subscribers.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "OpenAI: Pro 500 tier",
+  "claim": "OpenAI announced a $500/month ChatGPT Pro 500 plan at DevDay on Sept 29, 2026. It offers 25x Plus usage and the 'Ultrafast' GPT-6 Astra setting, which the $200 plan does not get. Cited to OpenAI Help Center 'ChatGPT Work and Codex'; the page I fetched relayed it second-hand.",
+  "source": "Let's Data Science, 2026-09-29/30",
+  "url": "https://letsdatascience.com/news/openai-introduces-500-chatgpt-pro-500-tier-329fe640",
+  "quote": "Ultrafast is available to Pro $500 subscribers and eligible Enterprise and Edu workspaces.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "OpenAI: 5-hour window returns for Plus",
+  "claim": "OpenAI brought back the 5-hour usage limit on Codex and ChatGPT Work for Plus on Aug 25, 2026, after several weeks with only a weekly cap. It stays off for Pro $100 and Pro $200 'for the upcoming months'. Sottiaux gave load smoothing as the reason.",
+  "source": "9to5Mac, 2026-08-24 (relaying Sottiaux on X)",
+  "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+  "quote": "Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "OpenAI: new $100 Pro tier",
+  "claim": "OpenAI introduced a $100/month Pro tier on Apr 9, 2026, with 5x Plus Codex usage. It said the temporary extra Codex access for Plus was ending. Plus stays $20/month; the $200 Pro was described as 20x Plus at that time.",
+  "source": "Business Today, 2026-04-10",
+  "url": "https://businesstoday.in/technology/story/openai-introduces-new-chatgpt-pro-plan-check-price-features-and-upgrades-525099-2026-04-10",
+  "quote": "This new tier offers 5x more Codex usage than Plus and is best for longer, high-effort Codex sessions.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "OpenAI: API price cut",
+  "claim": "OpenAI launched GPT-6 Sol and Luna on Sept 22, 2026 at 50% lower API prices. Sol went from $4/$20 to $2/$10 per million tokens; Luna from $0.20/$1.20 to $0.10/$0.50. The baseline is GPT-5.6 promotional pricing.",
+  "source": "The Next Web, 2026-09-22",
+  "url": "https://thenextweb.com/news/openai-gpt-6-sol-luna-api-price-cut",
+  "quote": "They are also half the price per token, and even less per task.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic: Opus 5.5 API price cut (primary)",
+  "claim": "Anthropic's launch post (Sept 22, 2026) gives Opus 5.5 at $4 input / $20 output per million tokens versus $5/$25 for Opus 5. That is 20% lower per token. Cache reads fall 60% ($0.50 to $0.20). Anthropic separately claims about 40% lower cost on typical workloads at default settings, which includes lower token use per task.",
+  "source": "Anthropic, Claude Opus 5.5 announcement, 2026-09-22",
+  "url": "https://www.anthropic.com/news/claude-opus-5-5",
+  "quote": "Opus 5.5 costs 40% less than Opus 5 on typical workloads",
+  "confidence": "primary"
+ },
+ {
+  "topic": "Anthropic: price table",
+  "claim": "Anthropic's pricing page lists Opus 5.5 at $4/$20 per million tokens. Opus 5, 4.8, 4.7, 4.6 and 4.5 are all $5/$25. Opus 4.1 (retired) was $15/$75. Sonnet 5.5 and Sonnet 5 are $2/$10, and Fable 5.1 is $10/$50.",
+  "source": "Anthropic API pricing docs (fetched 2026-10-27)",
+  "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+  "confidence": "primary"
+ },
+ {
+  "topic": "Anthropic: Sonnet 5 price increase cancelled",
+  "claim": "The $2/$10 introductory price for Sonnet 5 became the standard price. The scheduled Sept 1, 2026 increase to $3/$15 will not occur.",
+  "source": "Anthropic API pricing docs footnote (fetched 2026-10-27)",
+  "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+  "confidence": "primary"
+ },
+ {
+  "topic": "Anthropic: limits raised with Opus 5.5",
+  "claim": "The Opus 5.5 launch post says five-hour usage limits increase on Pro, Max, Team and seat-based Enterprise plans, with no numbers given. Subscribers also get a saveable rate-limit reset.",
+  "source": "Anthropic, Claude Opus 5.5 announcement, 2026-09-22",
+  "url": "https://www.anthropic.com/news/claude-opus-5-5",
+  "confidence": "primary"
+ },
+ {
+  "topic": "Anthropic: weekly limits introduced 2025",
+  "claim": "Anthropic announced weekly limits on Jul 28, 2025, effective Aug 28, 2025 for Pro ($20) and Max ($100/$200). Anthropic said they would affect fewer than 5% of subscribers. Anthropic cited 24/7 background Claude Code use, account sharing and reselling.",
+  "source": "TechCrunch, 2025-07-28",
+  "url": "https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/",
+  "quote": "continuously in the background, 24/7",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic: plan prices",
+  "claim": "Max 5x is $100/month and Max 20x is $200/month. They give 5x and 20x Pro's per-session usage, plus a weekly limit across all models. Claude.com/pricing shows Pro at $20 monthly, or $17/month billed annually. Prices are unchanged at $20/$100/$200.",
+  "source": "Anthropic Help Center, What is the Max plan? (fetched 2026-10-27)",
+  "url": "https://support.claude.com/en/articles/11049741-what-is-the-max-plan",
+  "quote": "Max plans also have a weekly usage limit that applies across all models.",
+  "confidence": "primary"
+ },
+ {
+  "topic": "Anthropic: Fable weekly limit",
+  "claim": "Claude.com/pricing says Max 5x and Max 20x get 50% of weekly limits for the Fable model, while Pro uses usage credits. The Claude Code help page says Max also has a separate weekly Fable limit. The Max help page does not mention it.",
+  "source": "Anthropic claude.com/pricing and Help Center (fetched 2026-10-27)",
+  "url": "https://claude.com/pricing",
+  "confidence": "primary"
+ },
+ {
+  "topic": "Anthropic: 5-hour limits doubled",
+  "claim": "On May 6, 2026 Anthropic doubled Claude Code's five-hour rate limits for Pro, Max, Team and seat-based Enterprise. It also removed the peak-hours reduction on Pro and Max. It tied this to new compute, including all of SpaceX's Colossus 1 (more than 300 MW).",
+  "source": "Anthropic, 2026-05-06",
+  "url": "https://www.anthropic.com/news/higher-limits-spacex",
+  "quote": "doubling Claude Code's five-hour rate limits for Pro, Max, Team, and seat-based Enterprise plans",
+  "confidence": "primary"
+ },
+ {
+  "topic": "Anthropic: weekly boost and net 17% cut",
+  "claim": "Anthropic announced a permanent 25% increase to standard Claude Code weekly limits starting Sept 14, 2026. This replaced a temporary 50% boost that had been in place since May 13. Against the boosted level that is a 17% net cut. Anthropic deleted the original post and acknowledged the 17% figure.",
+  "source": "BleepingComputer, 2026-08-29",
+  "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+  "quote": "Compared to today, this works out to a 17% reduction in weekly limits on Claude Code.",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic: April 2026 limit complaints",
+  "claim": "On Apr 14, 2026 GIGAZINE reported Max 5x users hitting quota in about 1.5 hours. It said Anthropic had announced tighter usage limits to manage load, with no exact date. A promo of doubled 5-hour limits off-peak ran Mar 13-28, 2026, per a secondary blog.",
+  "source": "GIGAZINE, 2026-04-14; explainx.ai timeline",
+  "url": "https://gigazine.net/gsc_news/en/20260414-anthropic-claude-quota-limit",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Anthropic: Max multiplier lawsuit",
+  "claim": "A proposed class action was reportedly filed Jun 14, 2026 (N.D. Cal., No. 3:26-cv-05763). It alleges Max 5x delivers about 3.5x Pro and Max 20x delivers 6-8x Pro. The page gives no docket link, and Anthropic reportedly moved to dismiss on Aug 19 with a hearing set for Nov 6, 2026. I could not verify this against the docket or an outlet.",
+  "source": "explainx.ai, 2026-06-16 with updates through Sep 2026",
+  "url": "https://explainx.ai/blog/anthropic-claude-max-lawsuit-usage-limits-2026",
+  "confidence": "rumor"
+ },
+ {
+  "topic": "Subsidy: SemiAnalysis",
+  "claim": "SemiAnalysis reportedly (Jun 2026) bought every plan and ran coding agents until weekly limits ran out. A full $200 ChatGPT Pro is worth about $14,000/month at API prices and a Claude Max 20x about $8,000. These are API-equivalent values, not measured provider costs. OpenAI margins reportedly turn negative above 11.4% utilization on Plus/Pro 5x; Anthropic's breakpoint is about 20%. I did not read the SemiAnalysis original.",
+  "source": "Let's Data Science, 2026-06-14, relaying SemiAnalysis",
+  "url": "https://letsdatascience.com/news/chatgpt-200-plan-implies-up-to-14000-api-costs-48c1a8ca",
+  "quote": "cost OpenAI roughly $14,000 per month in API-equivalent compute",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Subsidy: Altman admission (2025)",
+  "claim": "In Jan 2025 Altman said OpenAI was losing money on the $200 Pro plan because people used it more than expected. This is 2025 evidence, not 2026.",
+  "source": "TechCrunch, 2025-01-05",
+  "url": "https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Subsidy: heavy Claude users (2025)",
+  "claim": "A Jul 2025 newsletter estimated Pro/Max heavy users consumed 200% to 3,000% of their monthly payment in compute, based on self-selected ccusage dashboards that price at public API rates. It says this is not Anthropic data.",
+  "source": "Where's Your Ed At, 2025-07-11",
+  "url": "https://www.wheresyoured.at/anthropic-is-bleeding-out/",
+  "quote": "CCusage is not direct information from Anthropic",
+  "confidence": "secondary"
+ },
+ {
+  "topic": "Subsidy: OpenAI cut plan allowance as demand spiked",
+  "claim": "OpenAI halved the API-dollar value of the $200 plan while saying the $500 tier concentrates the highest usage. This is consistent with a subsidised plan being rationed, but OpenAI has not disclosed its cost per task. The OfficeChai article says the company is rationing 'through plan design rather than only through rate limits'.",
+  "source": "OfficeChai, 2026-10-01",
+  "url": "https://officechai.com/ai/openai-to-decrease-limits-on-pro-plan-from-20-times-to-10-times-of-plus-plan/",
+  "quote": "the company is rationing access through plan design rather than only through rate limits",
+  "confidence": "secondary"
+ }
+]

@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 860" width="960" height="860" role="img" aria-labelledby="t d">
+  <title id="t">What a $200 plan is worth at API prices, and how plan limits changed</title>
+  <desc id="d">Top: reported SemiAnalysis estimates that a $200 ChatGPT Pro plan is worth about $14,000 per month at API prices and a Claude Max 20x plan about $8,000, against $200 paid. Bottom: timelines of limit changes at Anthropic and OpenAI, each graded confirmed or reported.</desc>
+  <style>
+    svg{
+      --bg:#fbfaf7; --text:#1f2328; --muted:#5b616b; --rule:#d9dbde;
+      --api:#d97757; --sub:#6a8caf; --hw:#7a8a5a; --neutral:#8a8f98; --loss:#c4554d; --cash:#3f8f6b;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    }
+    @media (prefers-color-scheme: dark){
+      svg{ --bg:#17181b; --text:#eceef0; --muted:#a9aeb6; --rule:#3a3d42; }
+    }
+    .bg{fill:var(--bg)}
+    .title{font-size:24px;font-weight:700;fill:var(--text)}
+    .h2{font-size:18px;font-weight:700;fill:var(--text)}
+    .sub{font-size:15px;fill:var(--muted)}
+    .name{font-size:16px;font-weight:700;fill:var(--text)}
+    .note{font-size:14px;fill:var(--muted)}
+    .val{font-size:16px;font-weight:700;fill:var(--text)}
+    .date{font-size:15px;font-weight:700;fill:var(--text)}
+    .item{font-size:14px;fill:var(--text)}
+    .cap{font-size:14px;fill:var(--muted)}
+    .rule{stroke:var(--rule);stroke-width:1.5}
+    .priceline{stroke:var(--sub);stroke-width:2;stroke-dasharray:5 4}
+    .apibar{fill:var(--api)}
+    .paybar{fill:var(--sub)}
+    .spine{stroke:var(--rule);stroke-width:3}
+    .up{fill:var(--cash)}
+    .down{fill:var(--loss)}
+    .flat{fill:var(--neutral)}
+    .pill-c{fill:var(--text)}
+    .pill-ct{font-size:14px;font-weight:700;fill:var(--bg)}
+    .pill-r{fill:none;stroke:var(--muted);stroke-width:1.5}
+    .pill-rt{font-size:14px;font-weight:700;fill:var(--muted)}
+    .bar{transform-box:fill-box;transform-origin:0 50%}
+    .dot{transform-box:fill-box;transform-origin:50% 50%}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @keyframes fadein{from{opacity:0}to{opacity:1}}
+    @keyframes pop{from{opacity:0;transform:scale(.2)}to{opacity:1;transform:scale(1)}}
+    .play .bar{animation:grow 1.4s ease-out both}
+    .play .val{animation:fadein .6s ease-out both}
+    .play .pay{animation:fadein .6s ease-out both}
+    .play .v0 .bar{animation-delay:.1s} .play .v0 .val{animation-delay:1.3s}
+    .play .v1 .bar{animation-delay:.4s} .play .v1 .val{animation-delay:1.6s}
+    .play .pay{animation-delay:.1s}
+    .play .ev .dot{animation:pop .5s ease-out both}
+    .play .ev .txt{animation:fadein .6s ease-out both}
+    .play .e0 .dot{animation-delay:2.0s} .play .e0 .txt{animation-delay:2.1s}
+    .play .e1 .dot{animation-delay:2.3s} .play .e1 .txt{animation-delay:2.4s}
+    .play .e2 .dot{animation-delay:2.6s} .play .e2 .txt{animation-delay:2.7s}
+    .play .e3 .dot{animation-delay:2.9s} .play .e3 .txt{animation-delay:3.0s}
+    .play .e4 .dot{animation-delay:3.2s} .play .e4 .txt{animation-delay:3.3s}
+    .play .e5 .dot{animation-delay:3.5s} .play .e5 .txt{animation-delay:3.6s}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+
+  <rect class="bg" x="0" y="0" width="960" height="860"/>
+  <text class="title" x="20" y="38">Is a $200 plan subsidized? What the evidence shows</text>
+  <text class="sub" x="20" y="64">Reported API-equivalent value per month versus the $200 price, then how each company changed limits.</text>
+
+  <!-- Panel A -->
+  <text class="h2" x="20" y="102">A. Value at API prices (reported SemiAnalysis estimates, Jun 2026)</text>
+
+  <line class="priceline" x1="238" y1="116" x2="238" y2="262"/>
+  <text class="note" x="246" y="130">$200 price line</text>
+
+  <g class="v0">
+    <text class="name" x="20" y="162">ChatGPT Pro</text>
+    <text class="note" x="20" y="181">$200 per month plan</text>
+    <rect class="bar apibar" x="230" y="144" width="460" height="30" rx="3"/>
+    <text class="val" x="700" y="165">~$14,000 (70x price)</text>
+    <rect class="pay paybar" x="230" y="178" width="7" height="12" rx="2"/>
+    <text class="note pay" x="246" y="189">paid: $200</text>
+  </g>
+  <g class="v1">
+    <text class="name" x="20" y="232">Claude Max 20x</text>
+    <text class="note" x="20" y="251">$200 per month plan</text>
+    <rect class="bar apibar" x="230" y="214" width="263" height="30" rx="3"/>
+    <text class="val" x="503" y="235">~$8,000 (40x price)</text>
+    <rect class="pay paybar" x="230" y="248" width="7" height="12" rx="2"/>
+    <text class="note pay" x="246" y="259">paid: $200</text>
+  </g>
+
+  <text class="item" x="20" y="288">Multiples are my calculation: $14,000 / $200 = 70x and $8,000 / $200 = 40x.</text>
+  <text class="note" x="20" y="309">These are API-equivalent values, not measured provider costs. The estimate is reported, and I did not read the SemiAnalysis original.</text>
+
+  <line class="rule" x1="20" y1="328" x2="940" y2="328"/>
+
+  <!-- Panel B -->
+  <text class="h2" x="20" y="360">B. Limit changes, graded by source</text>
+  <text class="note" x="20" y="381">Filled = confirmed (company's own page or exec post). Outlined = reported (press only). Green dot = more room, red = less.</text>
+
+  <text class="name" x="20" y="414">Anthropic</text>
+  <text class="name" x="500" y="414">OpenAI</text>
+  <line class="spine" x1="30" y1="428" x2="30" y2="808"/>
+  <line class="spine" x1="510" y1="428" x2="510" y2="808"/>
+
+  <!-- Anthropic events -->
+  <g class="ev e0">
+    <circle class="dot down" cx="30" cy="442" r="8"/>
+    <g class="txt">
+      <text class="date" x="50" y="440">Aug 28, 2025</text>
+      <rect class="pill-r" x="160" y="426" width="86" height="20" rx="10"/>
+      <text class="pill-rt" x="172" y="441">reported</text>
+      <text class="item" x="50" y="460">Weekly limits start on Pro and Max;</text>
+      <text class="item" x="50" y="478">Anthropic said under 5% affected.</text>
+    </g>
+  </g>
+  <g class="ev e1">
+    <circle class="dot down" cx="30" cy="500" r="8"/>
+    <g class="txt">
+      <text class="date" x="50" y="498">Apr 14, 2026</text>
+      <rect class="pill-r" x="160" y="484" width="86" height="20" rx="10"/>
+      <text class="pill-rt" x="172" y="499">reported</text>
+      <text class="item" x="50" y="518">Max 5x users hit quota in about 1.5</text>
+      <text class="item" x="50" y="536">hours (GIGAZINE, reported).</text>
+    </g>
+  </g>
+  <g class="ev e2">
+    <circle class="dot up" cx="30" cy="558" r="8"/>
+    <g class="txt">
+      <text class="date" x="50" y="556">May 6, 2026</text>
+      <rect class="pill-c" x="152" y="542" width="96" height="20" rx="10"/>
+      <text class="pill-ct" x="162" y="557">confirmed</text>
+      <text class="item" x="50" y="576">Claude Code five-hour limits doubled;</text>
+      <text class="item" x="50" y="594">peak-hours reduction removed.</text>
+    </g>
+  </g>
+  <g class="ev e3">
+    <circle class="dot down" cx="30" cy="616" r="8"/>
+    <g class="txt">
+      <text class="date" x="50" y="614">Sep 14, 2026</text>
+      <rect class="pill-r" x="160" y="600" width="86" height="20" rx="10"/>
+      <text class="pill-rt" x="172" y="615">reported</text>
+      <text class="item" x="50" y="634">Weekly Claude Code limit +25%, replacing a</text>
+      <text class="item" x="50" y="652">temporary 50% boost: 17% net cut (press).</text>
+    </g>
+  </g>
+  <g class="ev e4">
+    <circle class="dot up" cx="30" cy="674" r="8"/>
+    <g class="txt">
+      <text class="date" x="50" y="672">Sep 22, 2026</text>
+      <rect class="pill-c" x="160" y="658" width="96" height="20" rx="10"/>
+      <text class="pill-ct" x="170" y="673">confirmed</text>
+      <text class="item" x="50" y="692">Opus 5.5 launch: five-hour limits rise,</text>
+      <text class="item" x="50" y="710">no numbers given.</text>
+    </g>
+  </g>
+  <g class="ev e5">
+    <circle class="dot down" cx="30" cy="732" r="8"/>
+    <g class="txt">
+      <text class="date" x="50" y="730">Oct 27, 2026 (seen)</text>
+      <rect class="pill-c" x="216" y="716" width="96" height="20" rx="10"/>
+      <text class="pill-ct" x="226" y="731">confirmed</text>
+      <text class="item" x="50" y="750">Max plans: weekly Fable limit</text>
+      <text class="item" x="50" y="768">(claude.com/pricing).</text>
+    </g>
+  </g>
+
+  <!-- OpenAI events -->
+  <g class="ev e0">
+    <circle class="dot flat" cx="510" cy="442" r="8"/>
+    <g class="txt">
+      <text class="date" x="530" y="440">Apr 9, 2026</text>
+      <rect class="pill-r" x="640" y="426" width="86" height="20" rx="10"/>
+      <text class="pill-rt" x="652" y="441">reported</text>
+      <text class="item" x="530" y="460">New $100 Pro tier, 5x Plus Codex use.</text>
+    </g>
+  </g>
+  <g class="ev e1">
+    <circle class="dot down" cx="510" cy="502" r="8"/>
+    <g class="txt">
+      <text class="date" x="530" y="500">Aug 25, 2026</text>
+      <rect class="pill-r" x="650" y="486" width="86" height="20" rx="10"/>
+      <text class="pill-rt" x="662" y="501">reported</text>
+      <text class="item" x="530" y="520">Five-hour limit returns for Plus.</text>
+    </g>
+  </g>
+  <g class="ev e2">
+    <circle class="dot down" cx="510" cy="562" r="8"/>
+    <g class="txt">
+      <text class="date" x="530" y="560">Sep 10, 2026</text>
+      <rect class="pill-c" x="650" y="546" width="96" height="20" rx="10"/>
+      <text class="pill-ct" x="660" y="561">confirmed</text>
+      <text class="item" x="530" y="580">New $200 Pro sign-ups paused.</text>
+    </g>
+  </g>
+  <g class="ev e3">
+    <circle class="dot down" cx="510" cy="632" r="8"/>
+    <g class="txt">
+      <text class="date" x="530" y="630">Sep 29-30, 2026</text>
+      <rect class="pill-c" x="670" y="616" width="96" height="20" rx="10"/>
+      <text class="pill-ct" x="680" y="631">confirmed</text>
+      <text class="item" x="530" y="650">$200 reopens at 10x Plus (was 20x),</text>
+      <text class="item" x="530" y="668">about half the old API-dollar value.</text>
+    </g>
+  </g>
+  <g class="ev e4">
+    <circle class="dot down" cx="510" cy="712" r="8"/>
+    <g class="txt">
+      <text class="date" x="530" y="710">Oct 30, 2026 (planned)</text>
+      <rect class="pill-r" x="720" y="696" width="86" height="20" rx="10"/>
+      <text class="pill-rt" x="732" y="711">reported</text>
+      <text class="item" x="530" y="730">Existing $200 holders: 20x falls to 10x.</text>
+      <text class="item" x="530" y="748">No OpenAI page confirms this; reported by OfficeChai.</text>
+    </g>
+  </g>
+
+  <text class="cap" x="20" y="828">Sources: SemiAnalysis via Let's Data Science, Jun 2026; Anthropic pages (May 6 and Sep 22, 2026); TechCrunch, BleepingComputer,</text>
+  <text class="cap" x="20" y="846">Business Today, 9to5Mac, OfficeChai, GIGAZINE, Apr 2026. Filled = company page or exec post; outlined = press only.</text>
+</svg>

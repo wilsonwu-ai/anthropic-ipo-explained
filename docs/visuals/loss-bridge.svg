@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 590" width="960" height="590" role="img" aria-labelledby="t d">
+<title id="t">Where the $80.7B loss comes from</title>
+<desc id="d">Waterfall for the first half of 2026, in millions of dollars. Operating loss minus 693, interest income plus 1,111, change in fair value of convertible notes and similar items minus 72,388, other expense minus 8,757, income taxes minus 21, net loss minus 80,748. Side panel: operating cash flow was plus 3.9 billion dollars.</desc>
+<style>
+svg{--bg:#ffffff;--ink:#1f2328;--mut:#5b6068;--line:#c9cdd3;--panel:#f3f4f6;--cons:#d97757;--subs:#6a8caf;--hw:#7a8a5a;--neu:#8a8f98;--loss:#c4554d;--pos:#3f8f6b;--on:#1b1b1b}
+@media (prefers-color-scheme: dark){svg{--bg:#14161a;--ink:#ecebe6;--mut:#a9aeb6;--line:#3a3e45;--panel:#1d2025}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;fill:var(--ink,#1f2328)}
+.bg{fill:var(--bg,#ffffff)}
+.title{font-size:26px;font-weight:700}
+.dek{font-size:16px;fill:var(--mut,#5b6068)}
+.src{font-size:14px;fill:var(--mut,#5b6068)}
+.mut{font-size:14px;fill:var(--mut,#5b6068)}
+.note{font-size:15px}
+.name{font-size:16px;text-anchor:end}
+.nameb{font-size:16px;font-weight:700;text-anchor:end}
+.vl{font-size:16px;font-weight:700;fill:var(--loss,#c4554d)}
+.vp{font-size:16px;font-weight:700;fill:var(--pos,#3f8f6b)}
+.vw{font-size:16px;font-weight:700;fill:#ffffff;text-anchor:middle}
+.axis{stroke:var(--line,#c9cdd3);stroke-width:2}
+.conn{stroke:var(--mut,#5b6068);stroke-width:1.5;stroke-dasharray:4 4}
+.loss{fill:var(--loss,#c4554d)}
+.pos{fill:var(--pos,#3f8f6b)}
+.panel{fill:var(--panel,#f3f4f6);stroke:var(--line,#c9cdd3);stroke-width:1.5}
+.h{font-size:16px;font-weight:700}
+.big{font-size:40px;font-weight:700;fill:var(--pos,#3f8f6b)}
+.step{transform-box:fill-box;transform-origin:50% 0%}
+@keyframes drop{from{transform:translateY(-26px);opacity:0}to{transform:translateY(0);opacity:1}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.play .step{animation:drop .6s ease-out both}
+.play .fade{animation:fade .6s ease-out both}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect class="bg" x="0" y="0" width="960" height="590"/>
+<text class="title" x="40" y="44">Where the $80.7B loss comes from</text>
+<text class="dek" x="40" y="72">H1 2026 (first six months), $ millions. Steps run from operating loss to net loss.</text>
+
+<text class="mut" x="330" y="128" text-anchor="middle">0</text>
+<line class="axis" x1="330" y1="136" x2="330" y2="452"/>
+
+<g class="fade" style="animation-delay:0.3s">
+<line class="conn" x1="333" y1="187" x2="333" y2="209"/>
+<line class="conn" x1="328.7" y1="239" x2="328.7" y2="261"/>
+<line class="conn" x1="560.3" y1="291" x2="560.3" y2="313"/>
+<line class="conn" x1="588.3" y1="343" x2="588.3" y2="365"/>
+<line class="conn" x1="588.3" y1="395" x2="588.3" y2="417"/>
+</g>
+
+<g class="step" style="animation-delay:0s">
+<text class="name" x="312" y="177">Operating loss</text>
+<rect class="loss" x="330" y="157" width="3" height="30"/>
+<text class="vl" x="345" y="177">-$693M</text>
+</g>
+<g class="step" style="animation-delay:0.45s">
+<text class="name" x="312" y="229">Interest income</text>
+<rect class="pos" x="328.7" y="209" width="3.6" height="30"/>
+<text class="vp" x="345" y="229">+$1,111M</text>
+</g>
+<g class="step" style="animation-delay:0.9s">
+<text class="name" x="312" y="281">Fair value changes (non-cash)</text>
+<rect class="loss" x="328.7" y="261" width="231.6" height="30"/>
+<text class="vw" x="444" y="281">-$72,388M</text>
+</g>
+<g class="step" style="animation-delay:1.35s">
+<text class="name" x="312" y="333">Other expense, net</text>
+<rect class="loss" x="560.3" y="313" width="28" height="30"/>
+<text class="vl" x="598" y="333">-$8,757M</text>
+</g>
+<g class="step" style="animation-delay:1.8s">
+<text class="name" x="312" y="385">Income taxes</text>
+<rect class="loss" x="588.3" y="365" width="3" height="30"/>
+<text class="vl" x="601" y="385">-$21M</text>
+</g>
+<g class="step" style="animation-delay:2.25s">
+<text class="nameb" x="312" y="437">Net loss</text>
+<rect class="loss" x="330" y="417" width="258.4" height="30"/>
+<text class="vl" x="598" y="437">-$80,748M</text>
+</g>
+
+<g class="fade" style="animation-delay:2.7s">
+<rect class="panel" x="705" y="140" width="220" height="312" rx="12"/>
+<text class="h" x="722" y="172">Cash view, same period</text>
+<text class="big" x="722" y="226">+$3.9B</text>
+<text class="mut" x="722" y="252">cash from operations,</text>
+<text class="mut" x="722" y="272">H1 2026 (S-1)</text>
+<text class="mut" x="722" y="296">H1 2025: $1.5B used</text>
+<line class="axis" x1="722" y1="314" x2="908" y2="314"/>
+<text class="mut" x="722" y="342">About 90% of the net loss</text>
+<text class="mut" x="722" y="362">is a non-cash charge. The</text>
+<text class="mut" x="722" y="382">value of convertible notes</text>
+<text class="mut" x="722" y="402">rose with the company's</text>
+<text class="mut" x="722" y="422">valuation (S-1). My math:</text>
+<text class="mut" x="722" y="442">72,388 / 80,748.</text>
+</g>
+
+<text class="note" x="40" y="490">Bars are drawn to scale, so the small steps are real: the operating loss was only $693M.</text>
+<text class="src" x="40" y="548" textLength="880" lengthAdjust="spacingAndGlyphs">Source: S-1, Management's Discussion and Analysis (six months ended June 30, 2026). Operating cash flow: $3.9B provided by operating activities.</text>
+<text class="src" x="40" y="568">Net loss is the sum of the steps. The 90% share is my calculation from the S-1 figures shown.</text>
+</svg>

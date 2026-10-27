@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 610" width="960" height="610" role="img" aria-labelledby="t d">
+<title id="t">Anthropic revenue mix: pay-per-use versus subscriptions</title>
+<desc id="d">Stacked bars of revenue share. 2024: 75 percent consumption-based, 25 percent subscription. 2025: 83 and 17. First half of 2026: 80 and 20. Share sold through cloud marketplaces: 32, 47 and 48 percent.</desc>
+<style>
+svg{--bg:#ffffff;--ink:#1f2328;--mut:#5b6068;--line:#c9cdd3;--panel:#f3f4f6;--cons:#d97757;--subs:#6a8caf;--hw:#7a8a5a;--neu:#8a8f98;--loss:#c4554d;--pos:#3f8f6b;--on:#1b1b1b}
+@media (prefers-color-scheme: dark){svg{--bg:#14161a;--ink:#ecebe6;--mut:#a9aeb6;--line:#3a3e45;--panel:#1d2025}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;fill:var(--ink,#1f2328)}
+.bg{fill:var(--bg,#ffffff)}
+.title{font-size:26px;font-weight:700}
+.dek{font-size:16px;fill:var(--mut,#5b6068)}
+.src{font-size:14px;fill:var(--mut,#5b6068)}
+.mut{font-size:14px;fill:var(--mut,#5b6068)}
+.cat{font-size:16px;font-weight:700;text-anchor:middle}
+.tot{font-size:16px;font-weight:700;text-anchor:middle}
+.seg{font-size:15px;font-weight:700;text-anchor:middle;fill:var(--on,#1b1b1b)}
+.mk{font-size:14px;text-anchor:middle}
+.axis{stroke:var(--line,#c9cdd3);stroke-width:2}
+.track{fill:var(--line,#c9cdd3)}
+.cons{fill:var(--cons,#d97757)}
+.subs{fill:var(--subs,#6a8caf)}
+.neu{fill:var(--neu,#8a8f98)}
+.panel{fill:var(--panel,#f3f4f6);stroke:var(--line,#c9cdd3);stroke-width:1.5}
+.big{font-size:44px;font-weight:700;fill:var(--cons,#d97757)}
+.h{font-size:16px;font-weight:700}
+.bar{transform-box:fill-box;transform-origin:50% 100%}
+.mbar{transform-box:fill-box;transform-origin:0% 50%}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes growx{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.play .bar{animation:grow 1.2s ease-out both}
+.play .mbar{animation:growx 1s ease-out both}
+.play .fade{animation:fade .6s ease-out both}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect class="bg" x="0" y="0" width="960" height="610"/>
+<text class="title" x="40" y="44">Anthropic mostly sells pay-per-use, not subscriptions</text>
+<text class="dek" x="40" y="72">Share of revenue by type (H1 = the first six months of the year). Total revenue sits above each bar.</text>
+
+<line class="axis" x1="60" y1="470" x2="630" y2="470"/>
+
+<!-- 2024 -->
+<g class="bar" style="animation-delay:0s"><rect class="cons" x="80" y="245" width="140" height="225"/></g>
+<g class="bar" style="animation-delay:0.15s"><rect class="subs" x="80" y="170" width="140" height="75"/></g>
+<!-- 2025 -->
+<g class="bar" style="animation-delay:0.35s"><rect class="cons" x="270" y="221" width="140" height="249"/></g>
+<g class="bar" style="animation-delay:0.5s"><rect class="subs" x="270" y="170" width="140" height="51"/></g>
+<!-- H1 2026 -->
+<g class="bar" style="animation-delay:0.7s"><rect class="cons" x="460" y="230" width="140" height="240"/></g>
+<g class="bar" style="animation-delay:0.85s"><rect class="subs" x="460" y="170" width="140" height="60"/></g>
+
+<g class="fade" style="animation-delay:1.3s">
+<text class="tot" x="150" y="158">$386M total</text>
+<text class="tot" x="340" y="158">$4,585M total</text>
+<text class="tot" x="530" y="158">$16,286M total</text>
+<text class="seg" x="150" y="364">75%  $288M</text>
+<text class="seg" x="150" y="213">25%  $98M</text>
+<text class="seg" x="340" y="351">83%  $3,796M</text>
+<text class="seg" x="340" y="201">17%  $789M</text>
+<text class="seg" x="530" y="355">80%  $13,064M</text>
+<text class="seg" x="530" y="205">20%  $3,222M</text>
+</g>
+
+<g class="fade" style="animation-delay:1.4s">
+<text class="cat" x="150" y="494">2024</text>
+<text class="cat" x="340" y="494">2025</text>
+<text class="cat" x="530" y="494">H1 2026</text>
+</g>
+
+<g class="fade" style="animation-delay:1.5s">
+<rect class="track" x="80" y="504" width="140" height="10" rx="5"/>
+<rect class="track" x="270" y="504" width="140" height="10" rx="5"/>
+<rect class="track" x="460" y="504" width="140" height="10" rx="5"/>
+</g>
+<rect class="neu mbar" x="80" y="504" width="44.8" height="10" rx="5" style="animation-delay:1.6s"/>
+<rect class="neu mbar" x="270" y="504" width="65.8" height="10" rx="5" style="animation-delay:1.7s"/>
+<rect class="neu mbar" x="460" y="504" width="67.2" height="10" rx="5" style="animation-delay:1.8s"/>
+<g class="fade" style="animation-delay:1.9s">
+<text class="mk" x="150" y="540">32% via cloud marketplaces</text>
+<text class="mk" x="340" y="540">47% via cloud marketplaces</text>
+<text class="mk" x="530" y="540">48% via cloud marketplaces</text>
+</g>
+
+<g class="fade" style="animation-delay:1.2s">
+<rect class="panel" x="660" y="170" width="260" height="300" rx="12"/>
+<text class="mut" x="680" y="200">Fill in the blank</text>
+<text class="h" x="680" y="228">Revenue comes mainly</text>
+<text class="h" x="680" y="250">from pay-per-use.</text>
+<text class="big" x="680" y="306">48%</text>
+<text class="mut" x="680" y="334">of H1 2026 revenue was sold</text>
+<text class="mut" x="680" y="354">through cloud marketplaces,</text>
+<text class="mut" x="680" y="374">up from 32% in 2024 (S-1).</text>
+<text class="mut" x="680" y="414">Pay-per-use is billed per</text>
+<text class="mut" x="680" y="434">token. Subscriptions (Pro,</text>
+<text class="mut" x="680" y="454">Max) are the smaller part.</text>
+</g>
+
+<text class="src" x="40" y="578">Source: S-1, Note 2 (revenue by type) and MD&amp;A; cloud marketplace shares from the S-1 notes to the financial statements.</text>
+<text class="src" x="40" y="598">Bars show share of total revenue. Dollar amounts and percentages are as stated in the S-1.</text>
+</svg>
