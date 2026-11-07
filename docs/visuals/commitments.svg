@@ -3,12 +3,12 @@
   <desc id="d">Horizontal bars of compute commitments named in the S-1: Broadcom leases about $161.2B, SpaceXAI up to $120.5B, Google at least $114.5B, Amazon at least $110.0B, Microsoft at least $44.9B, Nscale up to $44.6B, Lambda about $41.3B, AMD expected to exceed $20.0B. Reference bar: H1 2026 revenue of $16.3B.</desc>
   <style>
     svg{
-      --bg:#fbfaf7; --text:#1f2328; --muted:#5b616b; --rule:#d9dbde;
-      --api:#d97757; --sub:#6a8caf; --hw:#7a8a5a; --neutral:#8a8f98; --loss:#c4554d; --cash:#3f8f6b;
-      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      --bg:#f5f7fa; --text:#14212f; --muted:#4c5a6b; --rule:#d5dce5;
+      --api:#a8481b; --sub:#0a2942; --hw:#0f6f72; --neutral:#4c5a6b; --loss:#b3261e; --cash:#1b6b45;
+      font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif;
     }
     @media (prefers-color-scheme: dark){
-      svg{ --bg:#17181b; --text:#eceef0; --muted:#a9aeb6; --rule:#3a3d42; }
+      svg{ --bg:#081420; --text:#e8edf3; --muted:#9daec0; --rule:#22384f; }
     }
     .bg{fill:var(--bg)}
     .title{font-size:24px;font-weight:700;fill:var(--text)}
@@ -37,7 +37,8 @@
     .play .r7 .bar{animation-delay:.84s} .play .r7 .val{animation-delay:1.84s}
     .play .r8 .bar{animation-delay:1.2s} .play .r8 .val{animation-delay:2.2s}
     @media (prefers-reduced-motion: reduce){*{animation:none!important}}
-  </style>
+  </style><!-- wilson.md brand --><style>@media (prefers-color-scheme: dark){svg{--cons:#EE9264;--subs:#A9C2E3;--hw:#4FC3C0;--neu:#6A82A0;--loss:#F27D74;--pos:#5FC38A;--on:#081420;--api:#EE9264;--sub:#A9C2E3;--neutral:#6A82A0;--cash:#5FC38A}}@media (prefers-color-scheme: dark){.vw{fill:#081420}}</style><!-- /wilson.md brand -->
+
 
   <rect class="bg" x="0" y="0" width="960" height="660"/>
   <text class="title" x="20" y="38">The compute bill: what Anthropic has promised to pay</text>

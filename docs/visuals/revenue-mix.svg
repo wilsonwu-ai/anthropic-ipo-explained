@@ -2,25 +2,25 @@
 <title id="t">Anthropic revenue mix: pay-per-use versus subscriptions</title>
 <desc id="d">Stacked bars of revenue share. 2024: 75 percent consumption-based, 25 percent subscription. 2025: 83 and 17. First half of 2026: 80 and 20. Share sold through cloud marketplaces: 32, 47 and 48 percent.</desc>
 <style>
-svg{--bg:#ffffff;--ink:#1f2328;--mut:#5b6068;--line:#c9cdd3;--panel:#f3f4f6;--cons:#d97757;--subs:#6a8caf;--hw:#7a8a5a;--neu:#8a8f98;--loss:#c4554d;--pos:#3f8f6b;--on:#1b1b1b}
-@media (prefers-color-scheme: dark){svg{--bg:#14161a;--ink:#ecebe6;--mut:#a9aeb6;--line:#3a3e45;--panel:#1d2025}}
-text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;fill:var(--ink,#1f2328)}
+svg{--bg:#ffffff;--ink:#14212f;--mut:#4c5a6b;--line:#d5dce5;--panel:#e6ecf3;--cons:#a8481b;--subs:#0a2942;--hw:#0f6f72;--neu:#4c5a6b;--loss:#b3261e;--pos:#1b6b45;--on:#ffffff}
+@media (prefers-color-scheme: dark){svg{--bg:#0e2238;--ink:#e8edf3;--mut:#9daec0;--line:#22384f;--panel:#13304f}}
+text{font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif;fill:var(--ink,#14212f)}
 .bg{fill:var(--bg,#ffffff)}
 .title{font-size:26px;font-weight:700}
-.dek{font-size:16px;fill:var(--mut,#5b6068)}
-.src{font-size:14px;fill:var(--mut,#5b6068)}
-.mut{font-size:14px;fill:var(--mut,#5b6068)}
+.dek{font-size:16px;fill:var(--mut,#4c5a6b)}
+.src{font-size:14px;fill:var(--mut,#4c5a6b)}
+.mut{font-size:14px;fill:var(--mut,#4c5a6b)}
 .cat{font-size:16px;font-weight:700;text-anchor:middle}
 .tot{font-size:16px;font-weight:700;text-anchor:middle}
-.seg{font-size:15px;font-weight:700;text-anchor:middle;fill:var(--on,#1b1b1b)}
+.seg{font-size:15px;font-weight:700;text-anchor:middle;fill:var(--on,#ffffff)}
 .mk{font-size:14px;text-anchor:middle}
-.axis{stroke:var(--line,#c9cdd3);stroke-width:2}
-.track{fill:var(--line,#c9cdd3)}
-.cons{fill:var(--cons,#d97757)}
-.subs{fill:var(--subs,#6a8caf)}
-.neu{fill:var(--neu,#8a8f98)}
-.panel{fill:var(--panel,#f3f4f6);stroke:var(--line,#c9cdd3);stroke-width:1.5}
-.big{font-size:44px;font-weight:700;fill:var(--cons,#d97757)}
+.axis{stroke:var(--line,#d5dce5);stroke-width:2}
+.track{fill:var(--line,#d5dce5)}
+.cons{fill:var(--cons,#a8481b)}
+.subs{fill:var(--subs,#0a2942)}
+.neu{fill:var(--neu,#4c5a6b)}
+.panel{fill:var(--panel,#e6ecf3);stroke:var(--line,#d5dce5);stroke-width:1.5}
+.big{font-size:44px;font-weight:700;fill:var(--cons,#a8481b)}
 .h{font-size:16px;font-weight:700}
 .bar{transform-box:fill-box;transform-origin:50% 100%}
 .mbar{transform-box:fill-box;transform-origin:0% 50%}
@@ -31,7 +31,8 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica N
 .play .mbar{animation:growx 1s ease-out both}
 .play .fade{animation:fade .6s ease-out both}
 @media (prefers-reduced-motion: reduce){*{animation:none!important}}
-</style>
+</style><!-- wilson.md brand --><style>@media (prefers-color-scheme: dark){svg{--cons:#EE9264;--subs:#A9C2E3;--hw:#4FC3C0;--neu:#6A82A0;--loss:#F27D74;--pos:#5FC38A;--on:#081420;--api:#EE9264;--sub:#A9C2E3;--neutral:#6A82A0;--cash:#5FC38A}}@media (prefers-color-scheme: dark){.vw{fill:#081420}}</style><!-- /wilson.md brand -->
+
 <rect class="bg" x="0" y="0" width="960" height="610"/>
 <text class="title" x="40" y="44">Anthropic mostly sells pay-per-use, not subscriptions</text>
 <text class="dek" x="40" y="72">Share of revenue by type (H1 = the first six months of the year). Total revenue sits above each bar.</text>
