@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" role="img" aria-labelledby="t d">
+  <title id="t">From the $70 to $78 range to an $83 price to two trading days</title>
+  <desc id="d">Price chart from $60 to $120. The range set on Nov 10 was $70 to $78. The IPO price was $83, shown as a dashed line. Thursday Nov 19, the debut: open $111.50 (+34.3% vs $83), high $115.10, low $92.72, close $97.17 (+17.1% vs $83). Friday Nov 20: open $89.86, high $92.56, low $83.05, close $88.91 (+7.1% vs $83).</desc>
+  <style>
+    svg{
+      --bg:#f5f7fa; --text:#14212f; --muted:#4c5a6b; --rule:#d5dce5;
+      --api:#a8481b; --sub:#0a2942; --hw:#0f6f72; --neutral:#4c5a6b; --loss:#b3261e; --cash:#1b6b45;
+      font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif;
+    }
+    @media (prefers-color-scheme: dark){
+      svg{ --bg:#081420; --text:#e8edf3; --muted:#9daec0; --rule:#22384f; }
+    }
+    .bg{fill:var(--bg)}
+    .title{font-size:24px;font-weight:700;fill:var(--text)}
+    .sub{font-size:15px;fill:var(--muted)}
+    .axis{font-size:14px;fill:var(--muted)}
+    .grid{stroke:var(--rule);stroke-width:1}
+    .base{stroke:var(--muted);stroke-width:1.5}
+    .band{fill:var(--hw);fill-opacity:.18;stroke:var(--hw);stroke-width:1.5}
+    .bandlab{font-size:15px;font-weight:700;fill:var(--hw)}
+    .bandnote{font-size:14px;fill:var(--muted)}
+    .ipo{stroke:var(--loss);stroke-width:2.5;stroke-dasharray:8 6}
+    .ipolab{font-size:16px;font-weight:700;fill:var(--loss)}
+    .wick{stroke:var(--api);stroke-width:3}
+    .body{fill:var(--api)}
+    .ol{font-size:15px;fill:var(--text)}
+    .ol b{font-weight:700}
+    .pct{font-size:15px;font-weight:700;fill:var(--api)}
+    .day{font-size:15px;font-weight:700;fill:var(--text);text-anchor:middle}
+    .endr{text-anchor:end}
+    .lead{stroke:var(--muted);stroke-width:1}
+    .call{font-size:15px;fill:var(--text)}
+    .cap{font-size:14px;fill:var(--muted)}
+    .candle{transform-box:fill-box;transform-origin:50% 50%}
+    .ipoline{transform-box:fill-box;transform-origin:0% 50%}
+    @keyframes fadein{from{opacity:0}to{opacity:1}}
+    @keyframes growy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    @keyframes growx{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    .play .range{animation:fadein .9s ease-out both}
+    .play .ipoline{animation:growx 1s ease-out .9s both}
+    .play .ipotxt{animation:fadein .6s ease-out 1.6s both}
+    .play .candle{animation:growy 1s ease-out both}
+    .play .c1{animation-delay:2s}
+    .play .c2{animation-delay:3s}
+    .play .lab{animation:fadein .6s ease-out both}
+    .play .l1{animation-delay:3s}
+    .play .l2{animation-delay:4s}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style><!-- wilson.md brand --><style>@media (prefers-color-scheme: dark){svg{--cons:#EE9264;--subs:#A9C2E3;--hw:#4FC3C0;--neu:#6A82A0;--loss:#F27D74;--pos:#5FC38A;--on:#081420;--api:#EE9264;--sub:#A9C2E3;--neutral:#6A82A0;--cash:#5FC38A}}@media (prefers-color-scheme: dark){.vw{fill:#081420}}</style><!-- /wilson.md brand -->
+
+  <rect class="bg" x="0" y="0" width="960" height="640"/>
+  <text class="title" x="20" y="38">The $83 price sat above the range, then the stock opened 34.3% higher</text>
+  <text class="sub" x="20" y="64">From the range set on Nov 10 to the $83 IPO price to two trading days. Percentages are against $83.</text>
+
+  <!-- axis: y(p) = 500 - (p-60) x 6.5 -->
+  <g>
+    <line class="grid" x1="70" y1="110" x2="880" y2="110"/>
+    <line class="grid" x1="70" y1="175" x2="880" y2="175"/>
+    <line class="grid" x1="70" y1="240" x2="880" y2="240"/>
+    <line class="grid" x1="70" y1="305" x2="880" y2="305"/>
+    <line class="grid" x1="70" y1="370" x2="880" y2="370"/>
+    <line class="grid" x1="70" y1="435" x2="880" y2="435"/>
+    <line class="base" x1="70" y1="500" x2="880" y2="500"/>
+    <text class="axis endr" x="62" y="115">$120</text>
+    <text class="axis endr" x="62" y="180">$110</text>
+    <text class="axis endr" x="62" y="245">$100</text>
+    <text class="axis endr" x="62" y="310">$90</text>
+    <text class="axis endr" x="62" y="375">$80</text>
+    <text class="axis endr" x="62" y="440">$70</text>
+    <text class="axis endr" x="62" y="505">$60</text>
+  </g>
+
+  <!-- range band $70 to $78: y 435 to 383 -->
+  <g class="range">
+    <rect class="band" x="70" y="383" width="810" height="52"/>
+    <text class="bandlab" x="84" y="404">range, Nov 10</text>
+    <text class="bandnote" x="84" y="424">$70 to $78 (S-1/A Amendment No. 2)</text>
+  </g>
+
+  <!-- IPO price $83: y 350.5 -->
+  <line class="ipo ipoline" x1="70" y1="350.5" x2="880" y2="350.5"/>
+  <g class="ipotxt">
+    <text class="ipolab" x="84" y="341">$83 IPO price</text>
+    <text class="bandnote" x="84" y="367">6.4% above the top of the range</text>
+  </g>
+
+  <!-- day one: open 111.50 y165.25, high 115.10 y141.85, low 92.72 y287.32, close 97.17 y258.40 -->
+  <g class="candle c1">
+    <line class="wick" x1="400" y1="141.85" x2="400" y2="287.32"/>
+    <rect class="body" x="370" y="165.25" width="60" height="93.15" rx="2"/>
+  </g>
+  <g class="lab l1">
+    <text class="ol" x="440" y="146">High $115.10</text>
+    <text class="ol" x="440" y="170"><tspan font-weight="700">Open $111.50</tspan>, <tspan class="pct">+34.3% vs $83</tspan></text>
+    <text class="ol" x="440" y="263"><tspan font-weight="700">Close $97.17</tspan>, <tspan class="pct">+17.1% vs $83</tspan></text>
+    <text class="ol" x="440" y="292">Low $92.72</text>
+    <text class="day" x="400" y="528">Thu Nov 19 (debut)</text>
+  </g>
+
+  <!-- day two: open 89.86 y305.91, high 92.56 y288.36, low 83.05 y350.18, close 88.91 y312.09 -->
+  <g class="candle c2">
+    <line class="wick" x1="700" y1="288.36" x2="700" y2="350.18"/>
+    <rect class="body" x="670" y="305.91" width="60" height="6.18" rx="2"/>
+  </g>
+  <g class="lab l2">
+    <text class="ol endr" x="660" y="310"><tspan font-weight="700">Open $89.86</tspan></text>
+    <text class="ol" x="740" y="292">High $92.56</text>
+    <text class="ol" x="740" y="316"><tspan font-weight="700">Close $88.91</tspan></text>
+    <text class="pct" x="740" y="334">+7.1% vs $83</text>
+    <text class="ol" x="740" y="369">Low $83.05</text>
+    <text class="day" x="700" y="528">Fri Nov 20</text>
+  </g>
+
+  <text class="call" x="20" y="562">Candle body: open to close. Thin line: low to high. Both days closed below their open.</text>
+  <text class="call" x="20" y="584">Most of the first-day gain was given back: +17.1% at Thursday's close, +7.1% at Friday's close.</text>
+  <text class="cap" x="20" y="612">Sources: range, S-1/A Amendment No. 2 (Nov 10, 2026); $83 price, pricing term sheet and 424B4 (Nov 18 to 19, 2026);</text>
+  <text class="cap" x="20" y="630">daily prices, Yahoo Finance via OpenBB (pulled Nov 20, 2026), ticker ANT. Percentages are my arithmetic. Not investment advice.</text>
+</svg>

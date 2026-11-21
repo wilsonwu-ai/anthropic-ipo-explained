@@ -6,3 +6,5 @@ brief/
 qa/
 anchors/s1.htm
 .DS_Store
+anchors/*.htm
+anchors/*-head.txt

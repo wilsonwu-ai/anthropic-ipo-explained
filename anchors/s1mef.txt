@@ -1,0 +1,175 @@
+ S-1MEF 
+ 1 
+ anthropic-sx1mef.htm 
+ S-1MEF 
+ Document 
+ As filed with the Securities and Exchange Commission on November 18, 2026 
+ Registration No. 333- 
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM S-1 
+ REGISTRATION STATEMENT 
+ UNDER 
+ THE SECURITIES ACT OF 1933 
+ Anthropic, PBC 
+ (Exact name of registrant as specified in its charter) 
+ Delaware 
+ 7372 
+ 86-1696045 
+ (State or other jurisdiction of 
+ incorporation or organization) 
+ (Primary Standard Industrial 
+ Classification Code Number) 
+ (I.R.S. Employer 
+ Identification No.) 
+ 548 Market Street 
+ PMB 90375 
+ San Francisco, California 94104 
+ (415) 326-6303 
+ (Address, including zip code, and telephone number, including area code, of registrant’s principal executive offices) 
+ Dario Amodei, Chief Executive Officer and Co-Founder 
+ Daniela Amodei, President and Co-Founder 
+ Anthropic, PBC 
+ 548 Market Street 
+ PMB 90375 
+ San Francisco, California 94104 
+ (415) 326-6303 
+ (Name, address, including zip code, and telephone number, including area code, of agent for service) 
+ Copies to: 
+ Rezwan D. Pavri 
+ Allison B. Spinner 
+ Lang Liu 
+ Colin G. Conklin 
+ Jonie I. Kondracki 
+ Lester Ang 
+ Shannon R. Delahaye 
+ Wilson Sonsini Goodrich & Rosati, P.C. 
+ 650 Page Mill Road 
+ Palo Alto, California 94304 
+ (650) 493-9300 
+ Brian Israel 
+ Elena Leichty 
+ Patrick Ekeruo 
+ Scott Booth 
+ Anthropic, PBC 
+ 548 Market Street 
+ PMB 90375 
+ San Francisco, California 94104 
+ (415) 326-6303 
+ Sarah K. Solum 
+ Calise Y. Cheng 
+ Phillip S. Stoup 
+ Freshfields US LLP 
+ 855 Main Street 
+ Redwood City, California 94063 
+ (650) 618-9250 
+ Approximate date of commencement of proposed sale to the public: 
+ As soon as practicable after this Registration Statement becomes effective. 
+ If any of the securities being registered on this Form are to be offered on a delayed or continuous basis pursuant to Rule 415 under the Securities Act of 1933, check the following box. 
+ o 
+ If this Form is filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering. 
+ x 
+ 333-299633 
+ If this Form is a post-effective amendment filed pursuant to Rule 462(c) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering. 
+ o 
+ If this Form is a post-effective amendment filed pursuant to Rule 462(d) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering. 
+ o 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer 
+ o 
+ Accelerated filer 
+ o 
+ Non-accelerated filer 
+ ☒ 
+ Smaller reporting company 
+ o 
+ Emerging growth company 
+ o 
+ If an emerging growth company, indicate by checkmark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided to Section 7(a)(2)(B) of the Securities Act. 
+ o 
+ This Registration Statement shall become effective upon filing with the Securities and Exchange Commission in accordance with Rule 462(b) promulgated under the Securities Act. 
+ EXPLANATORY NOTE AND INCORPORATION OF CERTAIN INFORMATION BY REFERENCE 
+ This registration statement is being filed with respect to the registration of 178,250,000 additional shares of Class A common stock (including 23,250,000 shares of Class A common stock subject to purchase upon exercise of the option to purchase additional shares granted to the underwriters) of Anthropic, PBC, a Delaware public benefit corporation (the “Company”), to be sold by the Company pursuant to Rule 462(b) under the Securities Act of 1933, as amended (the “Securities Act”). The contents of the Registration Statement on Form S-1 (File No. 333-299633), initially filed by the Company with the Securities and Exchange Commission (the “Commission”) on October 26, 2026 (as amended, the “Prior Registration Statement”) and which was declared effective by the Commission on November 18, 2026, including all exhibits thereto, are incorporated by reference into this registration statement. 
+ The additional shares of Class A common stock that are being registered for sale are in an amount and at a price that together represent no more than 20% of the maximum aggregate offering price set forth in the Filing Fee Table filed as Exhibit 107 to the Prior Registration Statement. 
+ The required opinion and consents are listed in Part II, Item 16 of this Registration Statement and filed herewith. 
+ PART II 
+ Information Not Required in Prospectus 
+ Item 16. 
+ Exhibits 
+ The following documents are filed as exhibits to this registration statement, and all other exhibits previously filed as exhibits to the Registrant’s Registration Statement on Form S-1 (File No. 333-299633), are incorporated by reference into, and shall be deemed to be a part of, this filing. 
+ Exhibit Number 
+ Description of Exhibit 
+ 5.1 
+ Opinion of Wilson Sonsini Goodrich & Rosati, P.C. 
+ 23.1 
+ Consent of Grant Thornton LLP, Independent Registered Public Accounting Firm. 
+ 23.2 
+ Consent of Ernst & Young LLP, Independent Registered Public Accounting Firm. 
+ 23.3 
+ Consent of Wilson Sonsini Goodrich & Rosati, P.C. (included in Exhibit 5.1). 
+ 24.1 
+ † 
+ Power of Attorney (included in the signature pages to the Prior Registration Statement and incorporated by reference). 
+ 107 
+ Filing Fee Table. 
+ _________________ 
+ † 
+ Previously filed 
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Act of 1933, the registrant has duly caused this registration statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of San Francisco, State of California, on November 18, 2026. 
+ ANTHROPIC, PBC 
+ By: 
+ /s/ Dario Amodei 
+ Name: Dario Amodei 
+ Title: Chief Executive Officer 
+ Pursuant to the requirements of the Securities Act of 1933, as amended, this registration statement has been signed by the following persons in the capacities held on the dates indicated. 
+ Signature 
+ Title 
+ Date 
+ /s/ Dario Amodei 
+ Chief Executive Officer, Co-Founder, and Director 
+ November 18, 2026 
+ Dario Amodei 
+ ( 
+ Principal Executive Officer 
+ ) 
+ /s/ Daniela Amodei 
+ President, Co-Founder, and Director 
+ November 18, 2026 
+ Daniela Amodei 
+ /s/ Krishna Rao 
+ Chief Financial Officer 
+ November 18, 2026 
+ Krishna Rao 
+ ( 
+ Principal Financial Officer 
+ ) 
+ * 
+ Chief Accounting Officer 
+ November 18, 2026 
+ Effendi Ng 
+ ( 
+ Principal Accounting Officer 
+ ) 
+ * 
+ Director 
+ November 18, 2026 
+ Reed Hastings 
+ * 
+ Director 
+ November 18, 2026 
+ Christopher Liddell 
+ * 
+ Director 
+ November 18, 2026 
+ Vas Narasimhan 
+ * 
+ Director 
+ November 18, 2026 
+ Yasmin Razavi 
+ * 
+ By: 
+ /s/ Dario Amodei 
+ Dario Amodei 
+ Attorney-in-Fact 

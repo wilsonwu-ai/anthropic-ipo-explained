@@ -1,0 +1,400 @@
+ S-1/A 
+ 1 
+ anthropicpbc-sx1ax2.htm 
+ S-1/A 
+ Anthropic, PBC - S-1/A-2 
+ As filed with the Securities and Exchange Commission on November 10 
+ , 
+ 2026. 
+ Registration No. 333-299633 
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ AMENDMENT NO. 2 
+ TO 
+ FORM S-1 
+ REGISTRATION STATE 
+ MENT 
+ UNDER 
+ THE SECURITIES ACT OF 1933 
+ Anthropic, PBC 
+ (Exact name of registrant as specified in its charter) 
+ Delaware 
+ 7372 
+ 86-1696045 
+ (State or other jurisdiction of 
+ incorporation or organization) 
+ (Primary Standard Industrial 
+ Classification Code Number) 
+ (I.R.S. Employer 
+ Identification Number) 
+ 548 Market Street 
+ PMB 90375 
+ San Francisco, California 94104 
+ (415) 326-6303 
+ (Address, including zip code, and telephone number, including area code, of registrant’s principal executive offices) 
+ Dario Amodei, Chief Executive Officer and Co-Founder 
+ Daniela Amodei, President and Co-Founder 
+ Anthropic, PBC 
+ 548 Market Street 
+ PMB 90375 
+ San Francisco, California 94104 
+ (415) 326-6303 
+ (Name, address, including zip code, and telephone number, including area code, of agent for service) 
+ Copies to: 
+ Rezwan D. Pavri 
+ Allison B. Spinner 
+ Lang Liu 
+ Colin G. Conklin 
+ Jonie I. Kondracki 
+ Lester Ang 
+ Shannon R. Delahaye 
+ Wilson Sonsini Goodrich & Rosati, P.C. 
+ 650 Page Mill Road 
+ Palo Alto, California 94304 
+ (650) 493-9300 
+ Brian Israel 
+ Elena Leichty 
+ Patrick Ekeruo 
+ Scott Booth 
+ Anthropic, PBC 
+ 548 Market Street 
+ PMB 90375 
+ San Francisco, California 94104 
+ (415) 326-6303 
+ Sarah K. Solum 
+ Calise Y. Cheng 
+ Phillip S. Stoup 
+ Freshfields US LLP 
+ 855 Main Street 
+ Redwood City, California 94063 
+ (650) 618-9250 
+ Approximate date of commencement of proposed sale to the public: As soon as practicable after this registration statement becomes effective. 
+ If any of the securities being registered on this Form are to be offered on a delayed or continuous basis pursuant to Rule 415 under the Securities Act of 1933 check the 
+ following box. 
+ £ 
+ If this Form is filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, please check the following box and list the Securities 
+ Act registration statement number of the earlier effective registration statement for the same offering. 
+ £ 
+ If this Form is a post-effective amendment filed pursuant to Rule 462(c) under the Securities Act, check the following box and list the Securities Act registration 
+ statement number of the earlier effective registration statement for the same offering. 
+ £ 
+ If this Form is a post-effective amendment filed pursuant to Rule 462(d) under the Securities Act, check the following box and list the Securities Act registration 
+ statement number of the earlier effective registration statement for the same offering. 
+ £ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth 
+ company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the 
+ Exchange Act. 
+ Large accelerated filer 
+ ☐ 
+ Accelerated filer 
+ ☐ 
+ Non-accelerated filer 
+ ☒ 
+ Smaller reporting company 
+ ☐ 
+ Emerging growth company 
+ ☐ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised 
+ financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. 
+ £ 
+ The registrant hereby amends this registration statement on such date or dates as may be necessary to delay its effective date until the registrant 
+ shall file a further amendment which specifically states that this registration statement shall thereafter become effective in accordance with 
+ Section 8(a) of the Securities Act of 1933, as amended, or until the registration statement shall become effective on such date as the Securities 
+ and Exchange Commission, acting pursuant to said Section 8(a), may determine. 
+ Subject to Completion. Dated 
+ November 10, 2026. 
+ Class A Common Stock 
+ 825,000,000 
+ Shares 
+ Anthropic, PBC 
+ This is an initial public offering of shares of Class A common stock of Anthropic, PBC. We are selling 
+ 801,351,354 
+ shares of Class A common stock and the selling 
+ stockholders identified in this prospectus are selling an additional 
+ 23,648,646 
+ shares of Class A common stock. We will not receive any proceeds from the sale of 
+ shares of our Class A common stock by any of the selling stockholders. 
+ Prior to this offering, there has been no public market for our Class A common stock. It is currently estimated that the initial public offering price per share will be 
+ between 
+ $70.00 
+ and 
+ $78.00 
+ . 
+ We have applied to list our Class A common stock on the Nasdaq Global Select Market under the symbol “ANT.” 
+ We have a novel capital and corporate governance structure. We are incorporated as a public benefit corporation under Delaware law, a structure consistent with our 
+ commitment to artificial intelligence (“AI”) safety and responsibility. As a public benefit corporation, we are required to balance the pecuniary interests of our 
+ stockholders, the best interests of those materially affected by our conduct, and the specific public benefit purpose identified in our amended and restated certificate of 
+ incorporation: the responsible development and maintenance of advanced AI for the long-term benefit of humanity. We created our Long-Term Benefit Trust (the 
+ “LTBT”) to help ensure that Anthropic, PBC is managed in a manner that responsibly balances its goals as a public benefit corporation. The LTBT is intended to 
+ operate as an independent body of financially disinterested trustees with expertise in AI safety, national security, public policy, and social enterprise. Through a special 
+ class of common stock, Class T common stock, the LTBT generally has the authority to elect and remove the Class T directors, who together will constitute a majority 
+ of the authorized members of our board of directors. Our Class T common stock does not otherwise have voting rights with respect to matters submitted to 
+ stockholders generally and has no economic rights. Immediately prior to the completion of this offering, we will also issue a single share of Class F common stock, a 
+ special class of our common stock, to a limited liability company organized by our co-founders (the “Founder LLC”). Dario Amodei, our Chief Executive Officer and a 
+ member of our board of directors, and Daniela Amodei, our President and Chairperson of our board of directors, together with our five other co-founders, will initially 
+ be the sole members of the Founder LLC. Our Class F common stock, which will be held by the Founder LLC, will be entitled to an aggregate number of votes that 
+ equals 50.1% of the total voting power of our outstanding shares of capital stock with respect to matters submitted to stockholders generally, including the election of 
+ our directors other than the Class T directors. Our Class F common stock will not have any economic rights. Immediately prior to the completion of this offering, we 
+ will also authorize a special class of our common stock, Class E common stock, which will be issued to our employees, excluding our co-founders. Our Class E common 
+ stock will be entitled to vote only on certain limited matters and will not have any economic rights. In addition, we have authorized Class A common stock and Class N 
+ common stock. The rights of the holders of Class A common stock and Class N common stock are identical, except with respect to voting and conversion. Each share of 
+ Class A common stock is entitled to one vote and shares of Class N common stock have no voting rights, except as otherwise required by law. The holders of our Class 
+ N common stock are primarily strategic business partners, and shares of Class N common stock will generally convert to Class A common stock upon a sale or transfer 
+ to an unaffiliated third party. Our Class A common stock is not convertible. See the sections titled “Risk Factors—Risks Related to our Governance Structure,” “Our 
+ Governance Structure and Its Goals,” and “Description of Capital Stock” for more information. 
+ We are considered a “controlled company” within the meaning of the Nasdaq Global Select Market corporate governance requirements. See the sections titled “Our 
+ Governance Structure and Its Goals,” “Management,” and “Description of Capital Stock” for additional information. 
+ See the section titled 
+ “ 
+ Risk Factors 
+ ” 
+ beginning on page 
+ 29 
+ to read about factors you should consider before buying shares of our Class 
+ A common stock. 
+ Neither the Securities and Exchange Commission nor any other regulatory body has approved or disapproved of these securities or 
+ passed upon the accuracy or adequacy of this prospectus. Any representation to the contrary is a criminal offense. 
+ Per share 
+ Total 
+ Initial public offering price 
+ $ 
+ $ 
+ Underwriting discount 
+ (1) 
+ $ 
+ $ 
+ Proceeds, before expenses, to Anthropic, PBC 
+ $ 
+ $ 
+ Proceeds, before expenses, to selling stockholders 
+ $ 
+ $ 
+ The information in this preliminary prospectus is not complete and may be changed. These securities may not be sold until the registration statement filed with the Securities and Exchange Commission is 
+ effective. This preliminary prospectus is not an offer to sell nor does it seek an offer to buy these securities in any jurisdiction where the offer or sale is not permitted. 
+ ______________ 
+ (1) 
+ See the section titled “Underwriting” for a description of the compensation payable to the underwriters. 
+ To the extent that the underwriters sell more than 
+ 825,000,000 
+ shares of Class A common stock, the underwriters have the option to purchase up to an 
+ additional 
+ 123,750,000 
+ shares of Class A common stock from Anthropic, PBC at the initial public offering price less the underwriting discount. 
+ The underwriters expect to deliver the shares against payment in New York, New York, on or about 
+ . 
+ We have entered into an agreement with each of Advanced Micro Devices, Inc., Broadcom Inc., Google LLC (funding a portion of its previously committed investment 
+ obligations under the Google 2026 NPA (as defined below)), Micron Technology, Inc., Microsoft Corporation, NVIDIA Corporation, and TSMC Partners, Ltd., 
+ pursuant to which they have agreed, severally and not jointly, to purchase an aggregate 
+ of 
+ $26.0 billion 
+ of our Class N common stock in a private placement at a price 
+ per share equal to the initial public offering price. The private placement is contingent upon, and is 
+ scheduled to close 
+ immediately subsequent to, the completion of 
+ this offering as well as the satisfaction of certain conditions as further described in the section titled “Concurrent Private Placement.” The underwriters will not receive 
+ any underwriting discounts or commissions on the shares of Class N common stock sold in the concurrent private placement. 
+ The shares of Class N common stock sold 
+ in the concurrent private placement will not be registered in this offering and will not be subject to lock-up agreements with the underwriters, but will be “restricted 
+ securities” under the Securities Act of 1933, as amended (the “Securities Act”), and may be resold only pursuant to an effective registration statement or an available 
+ exemption from registration. 
+ Certain 
+ members of our board of directors and entities affiliated or associated with them have indicated an interest in purchasing shares of our Class A common stock 
+ in this offering at the initial public offering price at an aggregate purchase price of up to 
+ $303 million 
+ . 
+ Because these indications of interest are not binding agreements 
+ or commitments to purchase, the underwriters could determine to sell more, fewer, or no shares to any of these individuals or entities and these individuals or entities 
+ could determine to purchase more, fewer, or no shares in this offering. The underwriters will receive the same underwriting discounts and commissions on shares of 
+ our Class A common stock purchased by these individuals or entities as they will from other shares of our Class A common stock sold to the public in this offering. Any 
+ shares purchased by these individuals or entities will be subject to lock-up restrictions described in the section titled “Shares Eligible for Future Sale.” 
+ Goldman Sachs & Co. LLC 
+ Morgan Stanley 
+ J.P. Morgan 
+ Citigroup 
+ Barclays 
+ Wells Fargo Securities 
+ BofA Securities 
+ Deutsche Bank Securities 
+ RBC Capital Markets 
+ UBS Investment Bank 
+ BMO Capital Markets 
+ BNP PARIBAS 
+ Credit Agricole CIB 
+ Jefferies 
+ Mizuho 
+ MUFG 
+ TD Securities 
+ BTIG 
+ Cantor 
+ Capital One Securities 
+ Macquarie Capital 
+ Societe Generale 
+ Prospectus dated 
+ i 
+ Table of Contents 
+ Table 
+ of Contents 
+ SELECT DEFINED TERMS 
+ 1 
+ PROSPECTUS SUMMARY 
+ 5 
+ RISK FACTORS 
+ 29 
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 123 
+ INDUSTRY, MARKET, AND OTHER DATA 
+ 126 
+ USE OF PROCEEDS 
+ 127 
+ DIVIDEND POLICY 
+ 128 
+ CAPITALIZATION 
+ 129 
+ DILUTION 
+ 133 
+ MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF 
+ OPERATIONS 
+ 137 
+ BUSINESS 
+ 186 
+ OUR GOVERNANCE STRUCTURE AND ITS GOALS 
+ 250 
+ MANAGEMENT 
+ 262 
+ EXECUTIVE COMPENSATION 
+ 272 
+ CERTAIN RELATIONSHIPS AND RELATED PERSON TRANSACTIONS 
+ 291 
+ PRINCIPAL AND SELLING STOCKHOLDERS 
+ 298 
+ DESCRIPTION OF CAPITAL STOCK 
+ 302 
+ SHARES ELIGIBLE FOR FUTURE SALE 
+ 318 
+ MATERIAL U.S. FEDERAL INCOME TAX CONSEQUENCES TO NON-U.S. HOLDERS OF OUR CLASS A 
+ COMMON STOCK 
+ 323 
+ UNDERWRITING 
+ 328 
+ CONCURRENT PRIVATE PLACEMENT 
+ 347 
+ LEGAL MATTERS 
+ 348 
+ CHANGE IN INDEPENDENT ACCOUNTANT 
+ 348 
+ EXPERTS 
+ 348 
+ WHERE YOU CAN FIND ADDITIONAL INFORMATION 
+ 349 
+ INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+ F-1 
+ Through and including 
+ (the 25th day after the date of this prospectus), all dealers effecting 
+ transactions in these securities, whether or not participating in this offering, may be required 
+ to deliver a prospectus. This is in addition to a dealer’s obligation to deliver a prospectus when 
+ acting as an underwriter and with respect to an unsold allotment or subscription. 
+ Neither 
+ we nor the selling stockholders, nor any of the underwriters, have authorized anyone to provide any 
+ information or to make any representations other than those contained in this prospectus or in any free writing 
+ prospectuses prepared by or on behalf of us to which we may have referred you in connection with this offering. 
+ Neither we nor the selling stockholders, nor any of the underwriters, take responsibility for, or can provide any 
+ assurance as to the reliability of, any other information that others may give you. This prospectus is an offer to 
+ sell only the shares offered hereby, but only under circumstances and in jurisdictions where it is lawful to do so. 
+ The information contained in this prospectus is current only as of its date, regardless of the time of delivery of 
+ this prospectus or of any sale of our Class A common stock. Our business, financial condition, results of 
+ operations, and prospects may have changed since such date. 
+ For investors outside the United States: This offering includes public offerings in Australia, Canada, certain 
+ member states of the European Economic Area, Japan, Switzerland, and the United Kingdom. We do not 
+ currently intend to list our Class A common stock on any exchange in such jurisdictions. Neither we nor the 
+ selling stockholders, nor any of the underwriters, have done anything that would permit this offering or 
+ possession or distribution of this prospectus in any jurisdiction where action for that purpose is required, other 
+ than in the United States and the jurisdictions listed above. Persons outside the United States who come into 
+ possession of this prospectus must inform themselves about, and observe any restrictions relating to, the 
+ ii 
+ Table of Contents 
+ offering of the shares of our Class A common stock and the distribution of this prospectus outside the United 
+ States. 
+ 1 
+ Table of Contents 
+ Select Defined Terms 
+ The following are abbreviations, acronyms, and definitions of certain terms used in this prospectus: 
+ “ 
+ accelerators 
+ ” refer to processors purpose-built or adapted for the large-scale computations required to pre- 
+ train, post-train, refine, and run super intelligence models. These processors are significantly more efficient and 
+ faster than general-purpose processors for these workloads. 
+ “ 
+ agent loop 
+ ” refers to the iterative cycle in which an SI agent receives a task, takes an action, such as planning 
+ a project, running code, or calling a tool, observes the result, and decides its next step, with this cycle repeating 
+ until the task is complete. The agent loop is the core execution pattern underlying agentic SI behavior. 
+ “ 
+ agentic AI 
+ ” or “ 
+ agentic SI 
+ ” refers to systems that, with varying degrees of autonomy, can plan, determine, 
+ and sequence actions and execute them to accomplish defined objectives, including through interaction with 
+ external tools, services, datasets, and environments on behalf of a user. 
+ “ 
+ API 
+ ” refers to application programming interface, a standardized interface that allows external software to 
+ access a system’s capabilities programmatically. SI model providers may offer APIs that allow software 
+ developers to send inputs to a model and receive outputs, enabling integration into the software developers’ 
+ products and workflows. 
+ “ 
+ Applied AI 
+ ” refers to a discipline and organizational function focused on embedding SI capabilities directly 
+ into production business environments to address specific customer requirements. Applied AI teams, which 
+ include forward-deployed engineers, work with enterprises to design and deploy custom solutions, specialized 
+ workflows, and domain-specific implementations tailored to a customer’s own systems and processes. 
+ “ 
+ artificial intelligence 
+ ” or “ 
+ AI 
+ ” refers to a machine-based system that learns or is trained from data and, for 
+ explicit or implicit objectives and with varying levels of autonomy, processes that data to infer patterns, 
+ generate outputs—such as predictions, content, recommendations, and decisions—and act upon physical or 
+ virtual environments. For purposes of this prospectus, we use the terms “artificial intelligence,” “AI,” “super 
+ intelligence,” and “SI” interchangeably. 
+ “ 
+ closing the loop 
+ ” refers to a development cycle in which successive versions of an SI model assist in building 
+ the next, with the goal of compounding capability gains over time. 
+ “ 
+ compute 
+ ” refers to the computational processing resources used to train and run SI models, including, 
+ without limitation, specialized accelerators, memory, networking, storage, and power systems that are deployed 
+ in data centers or other physical computing environments. 
+ “ 
+ compute multipliers 
+ ” refer to algorithmic and methodological improvements in training and inference that 
+ increase the effective output of a given amount of compute. 
+ “ 
+ computer use 
+ ” refers to an SI capability that allows a model to observe and interact with a graphical user 
+ interface, such as clicking, typing, and navigating applications, similar to how a human operator would. 
+ “ 
+ Constitutional AI 
+ ” refers to an approach to training AI models using a set of written principles, which we 
+ refer to as Claude’s constitution, currently organized around four priorities: being broadly safe, broadly ethical, 
+ compliant with our guidelines, and genuinely helpful. Under Constitutional AI, our models evaluate, critique, 
+ and revise their own responses against these principles, enabling us to define and control model behavior 
+ through auditable principles, rather than relying solely on fixed rule-based instructions or human reviewers. 
+ “ 
+ context window 
+ ” refers to the maximum amount of text, code, or other content, measured in tokens, that an 
+ SI model can process in a given request, encompassing instructions, prior conversation history, user input, and 
+ the model’s output. 
+ “ 
+ CSP 
+ ” refers to a cloud service provider, a technology company that owns and operates large-scale cloud 
+ computing infrastructure and provides on-demand compute, storage, and networking. CSPs may also serve as 
+ distribution channels through which SI products and services are made available to customers. The largest 
+ 2 
+ Table of Contents 
+ CSPs, sometimes referred to as hyperscalers, operate at global scale with significant infrastructure and market 
+ concentration. 
+ “ 
+ customer 
+ ” refers to a prosumer or an organization that uses our models, platform, or applications. 

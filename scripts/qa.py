@@ -1,18 +1,19 @@
 """Deterministic QA for the article. Run: python3 -I scripts/qa.py  (from repo root)
-1. Every S-1 quote is verbatim in anchors/s1.txt.
+1. Every filing quote is verbatim in the filing it cites (S-1 -> anchors/s1.txt, Prospectus -> anchors/424b4.txt,
+   Pricing term sheet -> anchors/fwp-pricing.txt).
 2. Every number in the article appears in FACTS.md, s1.txt, the analysis files or the Sundai excerpts
    (derived numbers are printed as WARN for a human check, not failed).
-3. No em-dashes, no ELI5 labels, all 7 visual markers present once, each SVG exists and parses."""
+3. No em-dashes, no ELI5 labels, all 10 visual markers present once, each SVG exists and parses."""
 import re, sys, pathlib, subprocess, xml.dom.minidom
 R = pathlib.Path(__file__).resolve().parent.parent
 art = (R / 'article/article.md').read_text()
 fails, warns = [], []
 
-q = subprocess.run([sys.executable, '-I', str(R / 'scripts/quote_check.py'), str(R / 'anchors/s1.txt'), str(R / 'article/article.md')], capture_output=True, text=True)
+q = subprocess.run([sys.executable, '-I', str(R / 'scripts/quote_check.py'), str(R / 'article/article.md')], capture_output=True, text=True)
 print(q.stdout.strip().splitlines()[-1] if q.stdout.strip() else q.stderr)
 if q.returncode: fails += [l for l in q.stdout.splitlines() if l.startswith('MISS')]
 
-pool = '\n'.join(p.read_text() for p in [R/'facts/FACTS.md', R/'anchors/s1.txt', R/'analysis/equity.md', R/'analysis/mckinsey.md', R/'brief/sundai_questions.md', R/'brief/sundai_follow_the_money.md'] if p.exists())
+pool = '\n'.join(p.read_text() for p in [R/'facts/FACTS.md', R/'brief/ledger/FACTS-IPO.md', R/'anchors/s1.txt', R/'anchors/424b4.txt', R/'anchors/fwp-pricing.txt', R/'anchors/spacex-424b4-cover.txt', R/'anchors/s1a2-cover.txt', R/'analysis/equity.md', R/'analysis/mckinsey.md', R/'brief/sundai_questions.md', R/'brief/sundai_follow_the_money.md'] if p.exists())
 pool_n = re.sub(r'(?<=\d),(?=\d{3})', '', pool)
 body = re.sub(r'\(https?://[^)]+\)', '', art)
 for m in sorted(set(re.findall(r'\$?\d[\d,]*\.?\d*\s?(?:%|x|bn|B|T|M|trn|billion|trillion|million)?', body))):
@@ -24,7 +25,7 @@ for m in sorted(set(re.findall(r'\$?\d[\d,]*\.?\d*\s?(?:%|x|bn|B|T|M|trn|billion
 for bad, why in [('—', 'em-dash'), ('eli5', 'ELI5 label'), ("like you're 5", 'ELI5 label'), ('like i\'m 5', 'ELI5 label'), ('like i am five', 'ELI5 label')]:
     for p in [R/'article/article.md', *sorted((R/'docs/visuals').glob('*.svg'))]:
         if bad in p.read_text().lower(): fails.append(f'{why} in {p.name}')
-for name in ['stack', 'revenue-mix', 'quarterly', 'loss-bridge', 'commitments', 'plans', 'valuation']:
+for name in ['debut', 'record', 'founders', 'stack', 'revenue-mix', 'quarterly', 'loss-bridge', 'commitments', 'plans', 'valuation']:
     c = art.count(f'<!-- visual:{name} -->')
     if c != 1: fails.append(f'marker {name} appears {c}x')
     f = R / 'docs/visuals' / f'{name}.svg'
